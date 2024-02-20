@@ -79,10 +79,6 @@ def read_hash():
                 # Append words to the current list, ignoring uppercase lines
                 current_word_list.append(line)
 
-    # Print the resulting dictionary
-    for key, value in hash_dict.items():
-        print(hash_dict.keys)
-
     return hash_dict
 
 def save_hash_dictionary(hash_dict):
@@ -113,7 +109,6 @@ classes = read_class_dictionary()
 
 #read our file and store it in another dictionary, based on hash numbers before word categories
 hash_dict = read_hash()
-
 
 
 #and save them both in json format
