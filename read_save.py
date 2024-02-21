@@ -2,12 +2,15 @@ import json
 from gensim.models import KeyedVectors
 import gensim.downloader as api
 import re
-from unidecode import unidecode
+#from unidecode import unidecode
 from sklearn.cluster import KMeans
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
+import os
 
-
+os.environ["NUMEXPR_MAX_THREADS"] = "12"  # Set the number of threads according to your preference
+# Set LOKY_MAX_CPU_COUNT environment variable to avoid the warning
+os.environ["LOKY_MAX_CPU_COUNT"] = str(os.cpu_count())
 
 
 def read_class_dictionary():
@@ -166,7 +169,7 @@ def intialize_word2vec():
 def preprocess_word(word):
     # Split the string using '.' as a delimiter and take the first part word = word.split('.')[0]
     # Remove diacritics and convert to lowercase
-    word = unidecode(word)
+    #word = unidecode(word)
     # Remove special characters and convert to lowercase
     return re.sub(r'[^a-zA-Z0-9]', '', word).lower() #START
 
@@ -193,18 +196,18 @@ def get_average_embeddings(embeddings):
 
 def average_clusters(average_embeddings, num_clusters=3):
     # Assuming you have your average_embeddings dictionary
-    data = [value['value'] for value in average_embeddings.values()]
+    data = list(average_embeddings.values())
 
     # Reshape the data to make it 2D using numpy
     data_reshaped = np.array(data).reshape(-1, 1)
 
     # Perform k-means clustering
-    kmeans = KMeans(n_clusters=num_clusters, random_state=42)
+    kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init=10)  # Explicitly set n_init
     clusters = kmeans.fit_predict(data_reshaped)
 
     # Add cluster labels to the average_embeddings dictionary
     for i, (key, value) in enumerate(average_embeddings.items()):
-        average_embeddings[key]['cluster'] = clusters[i]
+        average_embeddings[key] = {'value': value, 'cluster': clusters[i]}
 
     # Print cluster statistics
     for cluster in range(num_clusters):
@@ -219,7 +222,6 @@ def average_clusters(average_embeddings, num_clusters=3):
     plt.xlabel('Data Point Index')
     plt.ylabel('Value')
     plt.show()
-
 
 
 #START OF OUR PROGRAM
@@ -257,6 +259,6 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 
 average_embeddings = get_average_embeddings(embeddings)
 #print(average_embeddings['#667'])
-#average_clusters(average_embeddings, 5)
+average_clusters(average_embeddings, 5)
 for key, value in list(average_embeddings.items())[:10]:
     print(f"{key}: {value}")
