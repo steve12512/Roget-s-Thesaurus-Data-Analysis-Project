@@ -169,7 +169,33 @@ def preprocess_word(word):
     return re.sub(r'[^a-zA-Z0-9]', '', word).lower() #START
 
 
-#start of our program
+
+def get_average_embeddings(embeddings):
+    #this function is used to create a dictionary of embeddings, only this time we keep the average within the list of embeddings from our previous embeddings dictionary. that is, so that we can create clusters more easily
+
+    #first create an empty dictionary as usual
+    average_embeddings = {}
+
+    for key, values in embeddings.items():
+
+        number = 0
+        for value in values:
+            number += value
+        number = number / len(values)
+        average_embeddings[key] = number
+    return average_embeddings
+
+
+
+
+
+
+
+
+
+
+
+#START OF OUR PROGRAM
 
 
 
@@ -197,4 +223,10 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 #print(glove_vectors.most_similar('danger'))
 
 #print(classes['CLASS I']['sections']['SECTION II. RELATION']['numbers'])
-print(embeddings)
+#print(embeddings)
+
+
+
+
+average_embeddings = get_average_embeddings(embeddings)
+print(average_embeddings['#667'])
