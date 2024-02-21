@@ -3,6 +3,11 @@ from gensim.models import KeyedVectors
 import gensim.downloader as api
 import re
 from unidecode import unidecode
+from sklearn.cluster import KMeans
+import numpy as np
+import matplotlib as plt
+
+
 
 
 def read_class_dictionary():
@@ -110,7 +115,6 @@ def save_hash_dictionary(hash_dict):
     with open(json_file_path, 'w') as json_file:
         json.dump(hash_dict, json_file, indent= 2)
 
-    print('json file saved correctly 2')
 
 
 def save_class_dictionary(classes):
@@ -121,8 +125,6 @@ def save_class_dictionary(classes):
 
     with open(json_file_path, 'w') as json_file:
      json.dump(classes, json_file, indent=2)
-
-    print('json file saved correctly')
 
 
 def read_embeddings(hashdict, glove_vectors):
@@ -189,9 +191,34 @@ def get_average_embeddings(embeddings):
 
 
 
+def average_clusters(average_embeddings, num_clusters=3):
+    # Assuming you have your average_embeddings dictionary
+    data = [value['value'] for value in average_embeddings.values()]
 
+    # Reshape the data to make it 2D using numpy
+    data_reshaped = np.array(data).reshape(-1, 1)
 
+    # Perform k-means clustering
+    kmeans = KMeans(n_clusters=num_clusters, random_state=42)
+    clusters = kmeans.fit_predict(data_reshaped)
 
+    # Add cluster labels to the average_embeddings dictionary
+    for i, (key, value) in enumerate(average_embeddings.items()):
+        average_embeddings[key]['cluster'] = clusters[i]
+
+    # Print cluster statistics
+    for cluster in range(num_clusters):
+        cluster_data = [value['value'] for value in average_embeddings.values() if value['cluster'] == cluster]
+        print(f"Cluster {cluster + 1} - Number of elements: {len(cluster_data)}")
+        print(f"       Mean: {np.mean(cluster_data)}")
+        print(f"       Std Dev: {np.std(cluster_data)}")
+
+    # Visualize clusters
+    plt.scatter(range(len(data)), data, c=clusters, cmap='viridis')
+    plt.title('K-Means Clustering')
+    plt.xlabel('Data Point Index')
+    plt.ylabel('Value')
+    plt.show()
 
 
 
@@ -229,4 +256,7 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 
 
 average_embeddings = get_average_embeddings(embeddings)
-print(average_embeddings['#667'])
+#print(average_embeddings['#667'])
+#average_clusters(average_embeddings, 5)
+for key, value in list(average_embeddings.items())[:10]:
+    print(f"{key}: {value}")
