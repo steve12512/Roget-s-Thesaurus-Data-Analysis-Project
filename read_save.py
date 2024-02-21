@@ -10,7 +10,7 @@ def read_class_dictionary():
     #save our filepath
     classes = {}
 
-    # Initialize variables to track current class, division, section, and title
+    #initialize variables to track current class, division, section, and title
     current_class = None
     current_division = None
     current_section = None
@@ -34,27 +34,38 @@ def read_class_dictionary():
                 current_division = line
                 if current_class not in  classes:
                     classes[current_class] = {'sections': {}}
-                classes[current_class]['sections'][current_division] = {'words': []}
+                classes[current_class]['sections'][current_division] = {'words': [], 'numbers': []}
                 current_section = None  # Reset current_section when encountering a new division
 
             #find sections
             elif line.startswith('SECTION'):
                 current_section = line
                 if current_division is not None:
-                    classes[current_class]['sections'][current_division]['sections'][current_section] = {'words': []}
+                    classes[current_class]['sections'][current_division]['sections'][current_section] = {'words': [], 'numbers': []}
                 else:
-                    classes[current_class]['sections'][current_section] = {'words': []}
+                    classes[current_class]['sections'][current_section] = {'words': [], 'numbers': []}
 
             #else the line has words, that have to be appended
             elif current_class is not None and current_section is not None:
                 
                 #to the division if there is one
                 if current_division is not None:
-                    classes[current_class]['sections'][current_division]['sections'][current_section]['words'].append(line)
+                    if line.startswith('#'):
+                        # If the line starts with '#', it is a number
+                        classes[current_class]['sections'][current_division]['sections'][current_section]['numbers'].append(line)
+                    else:
+                        # Otherwise, it is a word
+                        classes[current_class]['sections'][current_division]['sections'][current_section]['words'].append(line)
                 #else, they are appended to the section
                 else:
-                    classes[current_class]['sections'][current_section]['words'].append(line)
-    return classes 
+                    if line.startswith('#'):
+                        # If the line starts with '#', it is a number
+                        classes[current_class]['sections'][current_section]['numbers'].append(line)
+                    else:
+                        # Otherwise, it is a word
+                        classes[current_class]['sections'][current_section]['words'].append(line)
+
+    return classes
 
 
 
@@ -116,19 +127,25 @@ def read_embeddings(hashdict, glove_vectors):
 
     # Iterate through the list of words for each key in the hash dictionary
     for key, word_list in hashdict.items():
-        # Assuming the first item in the list is the word
-        word = preprocess_word(word_list[0])
-        
-        try:
-            embeddings = glove_vectors[word]
-            embeddings_dict[key] = embeddings.tolist()
-            count1 += 1
-        except KeyError:
-            count2 += 1
-            
+        # Iterate through all words in the list
+        for word_entry in word_list:
+            # Extract individual words
+            words = word_entry.split('.')
+            for word in words:
+                # Preprocess each word
+                word = preprocess_word(word.strip())
+                
+                try:
+                    embeddings = glove_vectors[word]
+                    embeddings_dict[key] = embeddings.tolist()
+                    count1 += 1
+                    # Break after finding embeddings for one word in the list
+                    break
+                except KeyError:
+                    count2 += 1
+
     print(count1, count2)
     return embeddings_dict
-
 
 
 def intialize_word2vec():
@@ -139,15 +156,17 @@ def intialize_word2vec():
 
 
 def preprocess_word(word):
-    # Split the string using '.' as a delimiter and take the first part
-    word = word.split('.')[0]
+    # Split the string using '.' as a delimiter and take the first part word = word.split('.')[0]
     # Remove diacritics and convert to lowercase
     word = unidecode(word)
     # Remove special characters and convert to lowercase
-    return re.sub(r'[^a-zA-Z0-9]', '', word).lower()
+    return re.sub(r'[^a-zA-Z0-9]', '', word).lower() #START
 
 
-#START
+#start of our program
+
+
+
 #read our file and store it in a dictionary based on classes, divisions, and sections
 classes = read_class_dictionary()
 
@@ -165,7 +184,10 @@ glove_vectors = intialize_word2vec()
 #then we read our embeddings.
 embeddings = read_embeddings(hash_dict, glove_vectors)
 
-print(repr(hash_dict['#665'][0]))
-#print(embeddings['#665'])
-#print(glove_vectors.most_similar(hash_dict['#665'][0]))
-#print(embeddings['#1'])
+#print(hash_dict['#478'])
+#print(embeddings['#478'])
+
+
+#print(glove_vectors.most_similar('danger'))
+
+#print(classes['CLASS I']['sections']['SECTION II. RELATION']['numbers'])
