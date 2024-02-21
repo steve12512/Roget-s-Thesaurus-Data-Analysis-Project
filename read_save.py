@@ -7,7 +7,7 @@ from unidecode import unidecode
 
 def read_class_dictionary():
     #first we have to open our thesaurus file and iterate through it in order to create our nested dictionary. we have removed the intro and epilogue in order to make the reading easier
-    #save our filepath
+    #create empty dictionary
     classes = {}
 
     #initialize variables to track current class, division, section, and title
@@ -50,23 +50,29 @@ def read_class_dictionary():
                 
                 #to the division if there is one
                 if current_division is not None:
+
                     if line.startswith('#'):
-                        # If the line starts with '#', it is a number
-                        classes[current_class]['sections'][current_division]['sections'][current_section]['numbers'].append(line)
+                        #if the line starts with '#' followed by a number, extract and append the number
+
+                        numbers = re.findall(r'#(\d+)', line)
+                        classes[current_class]['sections'][current_division]['sections'][current_section]['numbers'].extend(numbers)
+
+                    #otherwise, it is a word
                     else:
-                        # Otherwise, it is a word
                         classes[current_class]['sections'][current_division]['sections'][current_section]['words'].append(line)
-                #else, they are appended to the section
+                
+                #else, they are appended to the section in the same way
                 else:
+
                     if line.startswith('#'):
-                        # If the line starts with '#', it is a number
-                        classes[current_class]['sections'][current_section]['numbers'].append(line)
+                        
+                        numbers = re.findall(r'#(\d+)', line)
+                        classes[current_class]['sections'][current_section]['numbers'].extend(numbers)
+                    
                     else:
-                        # Otherwise, it is a word
                         classes[current_class]['sections'][current_section]['words'].append(line)
 
     return classes
-
 
 
 def read_hash():
@@ -191,3 +197,4 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 #print(glove_vectors.most_similar('danger'))
 
 #print(classes['CLASS I']['sections']['SECTION II. RELATION']['numbers'])
+print(embeddings)
