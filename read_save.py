@@ -22,7 +22,7 @@ def read_class_dictionary():
     current_class = None
     current_division = None
     current_section = None
-    count = 0
+
 
     #read the file
     with open('thesaurus.txt', 'r') as file:
@@ -154,8 +154,6 @@ def read_embeddings(hashdict, glove_vectors):
                     break
                 except KeyError:
                     count2 += 1
-
-    print(count1, count2)
     return embeddings_dict
 
 
