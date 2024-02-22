@@ -224,28 +224,47 @@ def average_clusters(average_embeddings, num_clusters=5):
     plt.show()
 
 
-def find_cluster_centers(hash_dict, embeddings):
+def find_cluster_centers(hash_dict, average_embeddings):
     #this method will use a list of cluster center means and return the words that correspond to these numbers(embeddings)
     
     #first we type the means we found earlier
     means = [0.06498553828647301, -0.17802528386753064, -0.01593025010051176, -0.08972193120036404, -0.2948469554400071, 0.20069737928015563]
 
+    threshold = 0.0001 * 5.5 # Adjust as needed
+
+
     #create an empty keys list to store the keys we will find
     keys = []
 
     #iterate through our our dictionary
-    for key, values in embeddings.items():
-        if (values in means):
-            keys.append(key)
+    for key, values in average_embeddings.items():
+        #print(f"Key: {key}, Value: {value}, Type: {type(value)}")
+        for mean in means:
+
+            if abs(values['value'] - mean) < threshold:
+                keys.append(key)
+                break
+
+
     for key in keys:
-        print(hash_dict[key])
+        print('Hash dict key is \n ', hash_dict[key])
+        print(get_key_class(key))
     print(len(keys))
 
 
 
 
-
-
+def get_key_class(key):
+    #this function takes a hash key as input and returns the class to which it belongs.
+   
+    #remove the #
+    key_number = int(key[1:])
+    print('key number is', key_number, 'key is ', key)
+    #iterate through our class dictionary, search within the numbers list, and return the class name, if number is found
+    for class_name, class_data in classes.items():
+        for section_name, section_data in class_data['sections'].items():
+            if key_number in section_data['numbers']:
+                return section_name
 
 
 
@@ -292,4 +311,4 @@ for key, value in list(average_embeddings.items())[:10]:
     print(f"{key}: {value}")
 
 
-find_cluster_centers(hash_dict, embeddings)
+find_cluster_centers(hash_dict, average_embeddings)
