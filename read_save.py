@@ -266,6 +266,23 @@ def get_key_class(key):
 
 
 
+def get_section_clusters():
+    #this function will create new clusters within each class
+
+    for key, values in classes.items():
+        #iterate through our classes dictionary and for each class, call a method to perform clustering
+        #section_clustering(classes[key])
+        print(classes[key])
+
+
+
+def section_clustering():
+    pass
+
+
+
+
+
 
 #START OF OUR PROGRAM
 
@@ -310,3 +327,7 @@ for key, value in list(average_embeddings.items())[:10]:
 
 
 find_cluster_centers(hash_dict, average_embeddings)
+
+
+
+get_section_clusters()
