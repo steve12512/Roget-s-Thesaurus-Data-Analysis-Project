@@ -266,22 +266,51 @@ def get_key_class(key):
 
 
 
-def get_section_clusters():
-    #this function will create new clusters within each class
+def perform_class_clustering(embeddings, class_name, num_clusters=3):
+    print(f"\nClass: {class_name}")
 
-    for key, values in classes.items():
-        #iterate through our classes dictionary and for each class, call a method to perform clustering
-        #section_clustering(classes[key])
-        print(classes[key])
+    # Reshape the data to make it 2D using numpy
+    data_reshaped = np.array(embeddings).reshape(-1, 1)
 
+    # Perform k-means clustering
+    kmeans = KMeans(n_clusters=num_clusters, random_state=42)
+    clusters = kmeans.fit_predict(data_reshaped)
 
+    # Print cluster statistics
+    for cluster in range(num_clusters):
+        cluster_data = [embeddings[i] for i in range(len(embeddings)) if clusters[i] == cluster]
+        print(f"Cluster {cluster + 1} - Number of elements: {len(cluster_data)}")
+        print(f"       Mean: {np.mean(cluster_data)}")
+        print(f"       Std Dev: {np.std(cluster_data)}")
 
-def section_clustering():
-    pass
+    # Visualize clusters
+    plt.scatter(range(len(embeddings)), embeddings, c=clusters, cmap='viridis')
+    plt.title(f'K-Means Clustering - Class: {class_name}')
+    plt.xlabel('Data Point Index')
+    plt.ylabel('Value')
+    plt.show()
 
+# Update get_section_clusters function
+def get_section_clusters(average_embeddings):
+    for class_name, class_data in classes.items():
+        # Accumulate embeddings for each class
+        class_embeddings = []
 
+        for section_name, section_data in class_data['sections'].items():
+            # Extract numbers from section_data
+            numbers = section_data['numbers']
 
+            # Create keys in the format of #number
+            keys = ['#' + str(number) for number in numbers]
 
+            # Get embeddings for each key
+            embeddings = [average_embeddings[key]['value'] for key in keys]
+
+            # Accumulate embeddings for the class
+            class_embeddings.extend(embeddings)
+
+        # Perform k-means clustering for the class
+        perform_class_clustering(class_embeddings, class_name)
 
 
 #START OF OUR PROGRAM
@@ -330,4 +359,4 @@ find_cluster_centers(hash_dict, average_embeddings)
 
 
 
-get_section_clusters()
+get_section_clusters(average_embeddings)
