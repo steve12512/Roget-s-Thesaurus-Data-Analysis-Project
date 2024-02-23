@@ -157,6 +157,25 @@ def read_embeddings(hashdict, glove_vectors):
     return embeddings_dict
 
 
+def save_embedings_dictionary(embeddings):
+    #save our hash dictionary in json format
+
+    json_file_path = 'embeddings.json'
+
+    with open(json_file_path, 'w') as json_file:
+        json.dump(embeddings, json_file, indent= 2)
+
+
+def save_average_embeddings_dictionary(average_embeddings):
+    #save our hash dictionary in json format
+
+    json_file_path = 'average_embeddings.json'
+
+    with open(json_file_path, 'w') as json_file:
+        json.dump(average_embeddings, json_file, indent= 2)
+
+
+
 def intialize_word2vec():
     #initialize our models
 
@@ -418,6 +437,12 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 #get the average embeddings for each list in the #numbers
 average_embeddings = get_average_embeddings(embeddings)
 
+
+save_embedings_dictionary(embeddings)
+save_average_embeddings_dictionary(average_embeddings)
+
+
+
 #generate class clusters
 average_class_clusters(average_embeddings, 6)
 
@@ -430,11 +455,32 @@ for key, value in list(average_embeddings.items())[:10]:
 find_class_cluster_centers(hash_dict, average_embeddings)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# FOR LATER
+
+
+
+
+
+
 #this will generate new section clusters, for each class
-sections = get_section_clusters(average_embeddings)
+#sections = get_section_clusters(average_embeddings)
 
 #get the section clusters, this time mapped to words instead of emeddings
-sections_mapped = find_section_cluster_centers(sections)
+#sections_mapped = find_section_cluster_centers(sections)
 
 
 
@@ -442,6 +488,6 @@ sections_mapped = find_section_cluster_centers(sections)
 
 #find_section_cluster_centers(sections)
 
-for key, value in sections.items():
-    print(key, value)
+#for key, value in sections.items():
+   # print(key, value)
 
