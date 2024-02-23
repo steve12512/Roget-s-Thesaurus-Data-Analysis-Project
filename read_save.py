@@ -266,7 +266,7 @@ def get_key_class(key):
 
 
 
-def perform_class_clustering(embeddings, class_name, num_clusters=3):
+def perform_section_clustering(embeddings, class_name, num_clusters=3):
     print(f"\nClass: {class_name}")
 
     # Reshape the data to make it 2D using numpy
@@ -290,6 +290,8 @@ def perform_class_clustering(embeddings, class_name, num_clusters=3):
     plt.ylabel('Value')
     plt.show()
 
+
+
 # Update get_section_clusters function
 def get_section_clusters(average_embeddings):
     for class_name, class_data in classes.items():
@@ -310,7 +312,7 @@ def get_section_clusters(average_embeddings):
             class_embeddings.extend(embeddings)
 
         # Perform k-means clustering for the class
-        perform_class_clustering(class_embeddings, class_name)
+        perform_section_clustering(class_embeddings, class_name)
 
 
 #START OF OUR PROGRAM
