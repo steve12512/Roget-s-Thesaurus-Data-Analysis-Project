@@ -192,7 +192,7 @@ def get_average_embeddings(embeddings):
 
 
 
-def average_clusters(average_embeddings, num_clusters=5):
+def average_class_clusters(average_embeddings, num_clusters=5):
     # Assuming you have your average_embeddings dictionary
     data = list(average_embeddings.values())
 
@@ -222,7 +222,7 @@ def average_clusters(average_embeddings, num_clusters=5):
     plt.show()
 
 
-def find_cluster_centers(hash_dict, average_embeddings):
+def find_class_cluster_centers(hash_dict, average_embeddings):
     #this method will use a list of cluster center means and return the words that correspond to these numbers(embeddings)
     
     #first we type the means we found earlier
@@ -359,20 +359,22 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 
 
 
-
+#get the average embeddings for each list in the #numbers
 average_embeddings = get_average_embeddings(embeddings)
-#print(average_embeddings['#667'])
-average_clusters(average_embeddings, 6)
+
+#generate class clusters
+average_class_clusters(average_embeddings, 6)
 
 
 for key, value in list(average_embeddings.items())[:10]:
     print(f"{key}: {value}")
 
 
-find_cluster_centers(hash_dict, average_embeddings)
+#this will generate new cluster classes
+find_class_cluster_centers(hash_dict, average_embeddings)
 
 
-
+#this will generate new section clusters, for each class
 sections = get_section_clusters(average_embeddings)
 
 for key, value in sections.items():
