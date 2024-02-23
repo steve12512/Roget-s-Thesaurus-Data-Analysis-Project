@@ -228,7 +228,7 @@ def find_class_cluster_centers(hash_dict, average_embeddings):
     #first we type the means we found earlier
     means = [0.06498553828647301, -0.17802528386753064, -0.01593025010051176, -0.08972193120036404, -0.2948469554400071, 0.20069737928015563]
 
-    threshold = 0.0001 * 5.5 # Adjust as needed
+    threshold = 0.0001 * 5.5 
 
 
     #create an empty keys list to store the keys we will find
@@ -246,13 +246,13 @@ def find_class_cluster_centers(hash_dict, average_embeddings):
 
     for key in keys:
         print('Hash dict key is \n ', hash_dict[key])
-        print(get_key_class(key))
+        print(get_key_section(key))
     print(len(keys))
 
 
 
 
-def get_key_class(key):
+def get_key_section(key):
     #this function takes a hash key as input and returns the class to which it belongs.
    
     #remove the #
@@ -327,6 +327,62 @@ def get_section_clusters(average_embeddings):
         sections[class_name] = perform_section_clustering(class_embeddings, class_name)
     return sections
 
+
+
+def find_section_cluster_centers(sections):
+    #for each class, get its new section clusters' embeddings and map them to a word. then return these, as a diction
+    #so firstly, create  a dict
+    sections_mapped = {key: None for key in sections}
+    
+    #now iterate through the sections dictionary for each average embedding, map it to the value closer to it
+    for key, values in sections.items():
+
+        #create an empty list to store the words that our average embeddings correspond to
+        words = []
+        
+        #create a threshold
+        threshold = 0.0001 * 5.5 
+
+        #create an empty dictionary to store our keys
+        keys = []
+        
+        #then proceed by iterating through all average embeddings of our list
+        for value in values:
+
+            #for each value(average embedding number) iterate through the average_embeddings dictionary, and find its closer value
+            for key2, value2 in average_embeddings.items():
+                if (np.abs(value2['value'] - value) < threshold):
+                    #if true, append the key in the keys list
+                    keys.append(key2)
+        
+        #now iterate through the keys we found, and map them to words, which will be appended to the words list
+        for key in keys:
+            words.append(hash_dict[key])
+        
+        #and now map our section to its words list
+        sections_mapped[key] = words
+        print(len(words))
+    return sections_mapped
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #START OF OUR PROGRAM
 
 
@@ -377,5 +433,15 @@ find_class_cluster_centers(hash_dict, average_embeddings)
 #this will generate new section clusters, for each class
 sections = get_section_clusters(average_embeddings)
 
+#get the section clusters, this time mapped to words instead of emeddings
+sections_mapped = find_section_cluster_centers(sections)
+
+
+
+
+
+#find_section_cluster_centers(sections)
+
 for key, value in sections.items():
     print(key, value)
+
