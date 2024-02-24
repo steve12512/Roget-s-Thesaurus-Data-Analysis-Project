@@ -400,41 +400,40 @@ def get_section_clusters():
     return modern_dictionary
 
 
-def find_section_cluster_centers(sections):
-    #for each class, get its new section clusters' embeddings and map them to a word. then return these, as a diction
-    #so firstly, create  a dict
-    sections_mapped = {key: None for key in sections}
-    
-    #now iterate through the sections dictionary for each average embedding, map it to the value closer to it
-    for key, values in sections.items():
-
-        #create an empty list to store the words that our average embeddings correspond to
+def find_section_cluster_centers():
+    #for each cluster class, get its section cluster center(mean)'s embeddings and map them to a word
+    #iterate through our modern dictionary
+    for key, values in modern_dictionary.items():
+        #creae a list for all our words that correspond to embeddings
         words = []
-        
-        #create a threshold
-        threshold = 0.0001 * 5.5 
 
-        #create an empty dictionary to store our keys
-        keys = []
-        
-        #then proceed by iterating through all average embeddings of our list
+        #iterate through our embeddings values list
         for value in values:
+            word = find_word(value)
+            words.append(word)
+        #after having found the words that correspond to our embeddings, append them to the dictionary
+        modern_dictionary[key] = {'Sections' : words, 'embeddings' : modern_dictionary[key]}
 
-            #for each value(average embedding number) iterate through the average_embeddings dictionary, and find its closer value
-            for key2, value2 in average_embeddings.items():
-                if (np.abs(value2['value'] - value) < threshold):
-                    #if true, append the key in the keys list
-                    keys.append(key2)
-        
-        #now iterate through the keys we found, and map them to words, which will be appended to the words list
-        for key in keys:
-            words.append(hash_dict[key])
-        
-        #and now map our section to its words list
-        sections_mapped[key] = words
-        print(len(words))
-    return sections_mapped
 
+
+
+def find_word(value):
+    # This function takes as input an average embedding number and returns the word that corresponds to it
+    closest_word = 'Word not found'
+    min_difference = float('inf')  # Initialize with positive infinity
+
+    # Iterate over our average_embeddings dictionary
+    for key, values in average_embeddings.items():
+        threshold = 0.001 *25
+        difference = np.abs(average_embeddings[key]['value'] - value)
+
+        if difference < threshold and difference < min_difference:
+            # Check if 'word' key is present in the dictionary
+            if 'word' in average_embeddings[key]:
+                closest_word = average_embeddings[key]['word']
+                min_difference = difference
+
+    return closest_word
 
 
 
@@ -512,15 +511,22 @@ save_clusters_dictionary()
 #this will generate new section clusters, for each class cluster. it will be our final dictionary
 modern_dictionary = get_section_clusters()
 
+
+
+
+print('modern dictionary key value pairs are ; ')
+for key, value in (modern_dictionary.items()):
+    print(key, value)
+  
+
+
+
 #get the section clusters, this time mapped to words instead of emeddings
-#sections_mapped = find_section_cluster_centers(sections)
+find_section_cluster_centers()
 
 
-
-
-
-#find_section_cluster_centers(sections)
-
+print('modern dictionary key value pairs are ; ')
 for key, value in modern_dictionary.items():
     print(key, value)
+  
 
