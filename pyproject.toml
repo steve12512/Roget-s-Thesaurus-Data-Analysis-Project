@@ -13,7 +13,6 @@ add = "gensim.models"
 add = "re"
 add = "sklearn.cluster"
 add = "numpy"
-add = "os"
 
 [build-system]
 requires = ["poetry-core"]
