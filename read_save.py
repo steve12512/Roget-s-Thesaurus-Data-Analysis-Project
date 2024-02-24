@@ -469,6 +469,38 @@ def rename_modern_dictionary():
         "CLASS V. Elemental Forces",
         "CLASS VI. Societal Dynamics"
     ]
+    section_names = [
+        "Existence and Essence",
+        "Relations and Dispositions",
+        "Connection and Manifestation",
+        "Differentiation and Manifested Properties",
+        "Comparison and Qualification",
+        "Exclusion and Novelty",
+        "Extrinsical Identity and Forms",
+        "Decomposition and Diversity",
+        "Similarity and Compositions",
+        "Junctions and Manifestations",
+        "Middle and Motives",
+        "Uniformity and Ends",
+        "State and Events",
+        "Absolute Properties and Entities",
+        "Junctions and Intentions",
+        "Transformation and Contractions",
+        "Imitation and Variations",
+        "Disagreements and Destruction",
+        "Inferiority and Sound",
+        "Combination and Possession",
+        "Error and Misfortune",
+        "Absence and Odors",
+        "Smallness and Memory",
+        "Bitterness and Indications",
+        "Assignments and Demonstration",
+        "Youth and Expressive Forces",
+        "Support, Direction, and Social Influences",
+        "Size, Clothing, and Relationship Dynamics",
+        "Change, Evening, and Governance Forces",
+        "Demonstration and Financial Forces"
+    ]
     # Create a new dictionary with class names as keys
     modern_dictionary_with_class_names = dict(zip(class_names, modern_dictionary.values()))
 
@@ -476,6 +508,8 @@ def rename_modern_dictionary():
 
     # Save the modified dictionary to a JSON file
     output_file_path = 'modern_dictionary_with_names.json'
+
+
     with open(output_file_path, 'w') as json_file:
         json.dump(modern_dictionary_with_class_names, json_file, indent=2)
 
