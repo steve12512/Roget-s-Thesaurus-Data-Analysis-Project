@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "rogets-thesaurus"
+version = "0.1.0"
+description = ""
+authors = ["Steve Kalelis"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+add = "matplotlib.pyplot"
+add = "json"
+add = "gensim.models"
+add = "re"
+add = "sklearn.cluster"
+add = "numpy"
+add = "os"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

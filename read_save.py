@@ -8,9 +8,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-os.environ["NUMEXPR_MAX_THREADS"] = "12"  # Set the number of threads according to your preference
+#os.environ["NUMEXPR_MAX_THREADS"] = "12"  # Set the number of threads according to your preference
 # Set LOKY_MAX_CPU_COUNT environment variable to avoid the warning
-os.environ["LOKY_MAX_CPU_COUNT"] = str(os.cpu_count())
+#os.environ["LOKY_MAX_CPU_COUNT"] = str(os.cpu_count())
 
 
 def read_class_dictionary():
