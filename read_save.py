@@ -270,9 +270,11 @@ def find_class_cluster_centers(hash_dict, average_embeddings):
 
 
     for key in keys:
-        print('Hash dict key is \n ', hash_dict[key])
-        print(get_key_section(key))
-    print(len(keys))
+       # print('Hash dict key is \n ', hash_dict[key])
+        #print(get_key_section(key))
+    #print(len(keys))
+     pass
+
 
 
 
@@ -282,7 +284,7 @@ def modify_average_embeddings():
         for section_name, section_data in class_data['sections'].items():
                 for number in section_data['numbers']:
                     number = "#" + str(number)
-                    average_embeddings[number] = { 'value': average_embeddings[number]['value'], 'cluster': average_embeddings[number]['cluster'], 'original class' : class_name, 'word' : str(hash_dict[number])[1:10]}
+                    average_embeddings[number] = { 'value': average_embeddings[number]['value'], 'cluster': average_embeddings[number]['cluster'], 'original class' : class_name, 'word' : str(hash_dict[number])[1:12]}
                         #average_embeddings[key] = {'value': value, 'cluster': clusters[i]}
                     
 
@@ -301,17 +303,16 @@ def create_clusters_dictionary():
 
             clusters_dictionary[cluster_number][key] = {
                 'value': value['value'],
-                'original class': value.get('original class', None), 'word' : str(hash_dict[key])[1:10]
+                'original class': value.get('original class', None), 'word' : str(hash_dict[key])[1:12]
             }
 
     # Print the clusters_dictionary
     for cluster_number, cluster_data in clusters_dictionary.items():
-        print(f"Cluster {cluster_number}:")
+        #print(f"Cluster {cluster_number}:")
         for key, data in cluster_data.items():
 
-            print(f"    {key}: {data}")
-        print()
-
+            #print(f"    {key}: {data}") #print()
+            pass
     return clusters_dictionary
 
 
@@ -345,13 +346,17 @@ def get_key_section(key):
 
 
 
-def perform_section_clustering(embeddings, class_name, num_clusters=5):
-    #this function will generate new section clusters for a class.
-    #it will then return the mean of these embeddings to the sections dictionary, as a list. 
+def perform_section_clustering(cluster_data, class_name, num_clusters=5):
+    # This function will generate new section clusters for a class.
+    # It will then return the mean of these embeddings to the sections dictionary, as a list.
     mean_embeddings = []
 
     print(f"\nClass: {class_name}")
-    
+
+    # Extract relevant information from cluster_data
+    data = [(key, value['value'], value['original class'], value['word']) for key, value in cluster_data.items()]
+    hash_numbers, embeddings, original_classes, words = zip(*data)
+
     # Reshape the data to make it 2D using numpy
     data_reshaped = np.array(embeddings).reshape(-1, 1)
 
@@ -359,15 +364,22 @@ def perform_section_clustering(embeddings, class_name, num_clusters=5):
     kmeans = KMeans(n_clusters=num_clusters, random_state=42)
     clusters = kmeans.fit_predict(data_reshaped)
 
-
-
-    # Print cluster statistics
+    # Print cluster statistics and create modern_dictionary structure
+    modern_dictionary = {}
     for cluster in range(num_clusters):
-        cluster_data = [embeddings[i] for i in range(len(embeddings)) if clusters[i] == cluster]
-        print(f"Cluster {cluster + 1} - Number of elements: {len(cluster_data)}")
-        print(f"       Mean: {np.mean(cluster_data)}")
-        print(f"       Std Dev: {np.std(cluster_data)}")
-        mean_embeddings.append(np.mean(cluster_data))
+        cluster_indices = [i for i in range(len(data)) if clusters[i] == cluster]
+
+        print(f"Cluster {cluster + 1} - Number of elements: {len(cluster_indices)}")
+        print(f"       Mean: {np.mean([embeddings[i] for i in cluster_indices])}")
+        print(f"       Std Dev: {np.std([embeddings[i] for i in cluster_indices])}")
+
+        cluster_entries = {hash_numbers[i]: {
+            'value': embeddings[i],
+            'original class': original_classes[i],
+            'word': words[i]
+        } for i in cluster_indices}
+
+        modern_dictionary[f"Section {cluster + 1}"] = cluster_entries
 
     # Visualize clusters
     plt.scatter(range(len(embeddings)), embeddings, c=clusters, cmap='viridis')
@@ -376,28 +388,29 @@ def perform_section_clustering(embeddings, class_name, num_clusters=5):
     plt.ylabel('Value')
     plt.show()
 
-    return mean_embeddings
+    return modern_dictionary
 
 
 def get_section_clusters():  
-    #for each cluster, perform a clustering to get new cluster sections, and do that by finding their cluster sections embedddings.
-    #create a new dictionary, to contain the new section cluster centers for each cluster(class)
+    # For each cluster, perform a clustering to get new cluster sections,
+    # and do that by finding their cluster sections embeddings.
+    # Create a new dictionary to contain the new section cluster centers for each cluster(class)
 
-    #create a new dictionary that will map each cluster name to its new cluster sections. this will be our final dictionary.
+    # Create a new dictionary that will map each cluster name to its new cluster sections. This will be our final dictionary.
     modern_dictionary = {}
     for cluster_name, cluster_data in clusters_dictionary.items():
-        #Accumulate embeddings for each cluster class
-        section_embeddings = []
-
-        for hash_key, cluster_contents in cluster_data.items():
-            
-            # Accumulate embeddings for the cluster
-            section_embeddings.append(cluster_contents['value'])
-
         # Perform k-means clustering for the cluster and append the new cluster centers(sections) to our new dictionary
-        modern_dictionary[cluster_name] = perform_section_clustering(section_embeddings, cluster_name)
+        modern_dictionary[cluster_name] = perform_section_clustering(cluster_data, cluster_name)
 
     return modern_dictionary
+
+
+
+
+
+
+
+
 
 
 def find_section_cluster_centers():
@@ -434,6 +447,41 @@ def find_word(value):
                 min_difference = difference
 
     return closest_word
+
+
+
+
+def save_modern_dictionary():
+    with open('modern_dictionary.json', 'w') as json_file:
+        # Convert keys to strings using a new dictionary
+        string_keys_dictionary = {str(key): value for key, value in modern_dictionary.items()}
+        json.dump(string_keys_dictionary, json_file, indent=2)
+
+
+
+
+def rename_modern_dictionary():
+    class_names = [
+        "CLASS I. Philosophical Taxonomy",
+        "CLASS II. Diverse Manifestations",
+        "CLASS III. Life Dynamics",
+        "CLASS IV. Transformational Entities",
+        "CLASS V. Elemental Forces",
+        "CLASS VI. Societal Dynamics"
+    ]
+    # Create a new dictionary with class names as keys
+    modern_dictionary_with_class_names = dict(zip(class_names, modern_dictionary.values()))
+
+
+
+    # Save the modified dictionary to a JSON file
+    output_file_path = 'modern_dictionary_with_names.json'
+    with open(output_file_path, 'w') as json_file:
+        json.dump(modern_dictionary_with_class_names, json_file, indent=2)
+
+    return modern_dictionary_with_class_names
+
+
 
 
 
@@ -490,8 +538,7 @@ find_class_cluster_centers(hash_dict, average_embeddings)
 modify_average_embeddings()
 
 
-#for key, value in list(average_embeddings.items())[:200]:
- #   print(f"{key}: {value}")
+
 
 
 #save it in a dictionary
@@ -513,20 +560,27 @@ modern_dictionary = get_section_clusters()
 
 
 
+save_modern_dictionary()
 
-print('modern dictionary key value pairs are ; ')
-for key, value in (modern_dictionary.items()):
-    print(key, value)
-  
-
+#give our class clusters names
+modern_dictionary_with_class_names = rename_modern_dictionary()
 
 
-#get the section clusters, this time mapped to words instead of emeddings
-find_section_cluster_centers()
+
+for key, values in modern_dictionary.items():
+       print('\n \n \n \n \n \n \n \n \n \n \n \n \n \n key is ', key)
+       for key2,values2 in values.items():
+            for key3,values3 in values2.items():
+                print(values3['word'])            
 
 
-print('modern dictionary key value pairs are ; ')
-for key, value in modern_dictionary.items():
-    print(key, value)
-  
 
+
+
+
+#for key, values in modern_dictionary_with_class_names.items():
+    #print('name of the class is;', key)
+   # for key2, values2 in values.items():
+       # print('name of the section is', key2)
+       #for key3, values3 in values2.items():
+        #    print(values3['word'])
