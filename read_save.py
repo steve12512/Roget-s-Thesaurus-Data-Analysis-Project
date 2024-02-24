@@ -459,7 +459,6 @@ def save_modern_dictionary():
 
 
 
-
 def rename_modern_dictionary():
     class_names = [
         "CLASS I. Philosophical Taxonomy",
@@ -469,6 +468,7 @@ def rename_modern_dictionary():
         "CLASS V. Elemental Forces",
         "CLASS VI. Societal Dynamics"
     ]
+
     section_names = [
         "Existence and Essence",
         "Relations and Dispositions",
@@ -501,22 +501,25 @@ def rename_modern_dictionary():
         "Change, Evening, and Governance Forces",
         "Demonstration and Financial Forces"
     ]
+    
     # Create a new dictionary with class names as keys
     modern_dictionary_with_class_names = dict(zip(class_names, modern_dictionary.values()))
 
-
+    # Update section names within each class
+    for class_name, sections in modern_dictionary_with_class_names.items():
+        updated_sections = {}
+        for section_name, inner_dict in sections.items():
+            section_number = int(section_name.split()[-1])
+            section_name_updated = section_names[section_number - 1]
+            updated_sections[section_name_updated] = inner_dict
+        modern_dictionary_with_class_names[class_name] = updated_sections
 
     # Save the modified dictionary to a JSON file
     output_file_path = 'modern_dictionary_with_names.json'
-
-
     with open(output_file_path, 'w') as json_file:
         json.dump(modern_dictionary_with_class_names, json_file, indent=2)
 
     return modern_dictionary_with_class_names
-
-
-
 
 
 

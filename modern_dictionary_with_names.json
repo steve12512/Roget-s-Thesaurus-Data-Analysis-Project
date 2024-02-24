@@ -1,6 +1,6 @@
 {
   "CLASS I. Philosophical Taxonomy": {
-    "Section 1": {
+    "Existence and Essence": {
       "#1": {
         "value": -0.17363267987966538,
         "original class": "CLASS I",
@@ -1537,7 +1537,7 @@
         "word": "\"Canonicals"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#9": {
         "value": -0.21769467294216155,
         "original class": "CLASS I",
@@ -1614,7 +1614,7 @@
         "word": "\"Jewelry\u03b2\u20ac\u201d"
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#45": {
         "value": -0.2080474045500159,
         "original class": "CLASS I",
@@ -1876,7 +1876,7 @@
         "word": "'Worship.\u03b2\u20ac"
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#15": {
         "value": -0.14859573098365217,
         "original class": "CLASS I",
@@ -1993,7 +1993,7 @@
         "word": "'Celebratio"
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#31": {
         "value": -0.15621131896972656,
         "original class": "CLASS I",
@@ -2092,7 +2092,7 @@
     }
   },
   "CLASS II. Diverse Manifestations": {
-    "Section 1": {
+    "Existence and Essence": {
       "#55": {
         "value": -0.001965402662754059,
         "original class": "CLASS I",
@@ -2269,7 +2269,7 @@
         "word": "'[Religious"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#6": {
         "value": -0.03680612027645111,
         "original class": "CLASS I",
@@ -2446,7 +2446,7 @@
         "word": "\"Atonement."
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#12": {
         "value": -0.027167882919311524,
         "original class": "CLASS I",
@@ -2628,7 +2628,7 @@
         "word": "'Temple.\u03b2\u20ac\u201d"
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#17": {
         "value": 0.01108895868062973,
         "original class": "CLASS I",
@@ -2745,7 +2745,7 @@
         "word": "'Penalty.\u03b2\u20ac"
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#22": {
         "value": -0.006355521678924561,
         "original class": "CLASS I",
@@ -2874,7 +2874,7 @@
     }
   },
   "CLASS III. Life Dynamics": {
-    "Section 1": {
+    "Existence and Essence": {
       "#68": {
         "value": -0.08120384082198143,
         "original class": "CLASS I",
@@ -3001,7 +3001,7 @@
         "word": "'Probity.\u03b2\u20ac"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#16": {
         "value": -0.12431204169988633,
         "original class": "CLASS I",
@@ -3198,7 +3198,7 @@
         "word": "'Jupiter.\u03b2\u20ac"
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#7": {
         "value": -0.05892909370362759,
         "original class": "CLASS I",
@@ -3350,7 +3350,7 @@
         "word": "'Jurisdicti"
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#25": {
         "value": -0.10498995989561082,
         "original class": "CLASS I",
@@ -3777,7 +3777,7 @@
         "word": "'Irreligion"
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#43": {
         "value": -0.06433563858270645,
         "original class": "CLASS I",
@@ -3861,7 +3861,7 @@
     }
   },
   "CLASS IV. Transformational Entities": {
-    "Section 1": {
+    "Existence and Essence": {
       "#61": {
         "value": 0.10754648790229111,
         "original class": "CLASS I",
@@ -3943,7 +3943,7 @@
         "word": "'Accusation"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#20": {
         "value": 0.0616585199534893,
         "original class": "CLASS I",
@@ -4590,7 +4590,7 @@
         "word": "'Laity.\u03b2\u20ac\u201dN"
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#24": {
         "value": 0.027759716361761094,
         "original class": "CLASS I",
@@ -4747,7 +4747,7 @@
         "word": "'Rite.\u03b2\u20ac\u201dN."
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#34": {
         "value": 0.08008175998926163,
         "original class": "CLASS I",
@@ -4834,7 +4834,7 @@
         "word": "'Sorcerer.\u03b2"
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#48": {
         "value": 0.1198948785662651,
         "original class": "CLASS I",
@@ -4908,14 +4908,14 @@
     }
   },
   "CLASS V. Elemental Forces": {
-    "Section 1": {
+    "Existence and Essence": {
       "#495": {
         "value": 0.39064519852399826,
         "original class": "CLASS IV",
         "word": "'Error.\u03b2\u20ac\u201dN"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#59": {
         "value": 0.21014551386237146,
         "original class": "CLASS I",
@@ -4942,7 +4942,7 @@
         "word": "'Warfare.\u03b2\u20ac"
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#32": {
         "value": 0.14063920557498932,
         "original class": "CLASS I",
@@ -4969,7 +4969,7 @@
         "word": "'Sorcery.\u03b2\u20ac"
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#392b": {
         "value": 0.2686310955369845,
         "original class": null,
@@ -4981,7 +4981,7 @@
         "word": "'[Indicatio"
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#155": {
         "value": 0.17152831882238387,
         "original class": "CLASS I",
@@ -5005,7 +5005,7 @@
     }
   },
   "CLASS VI. Societal Dynamics": {
-    "Section 1": {
+    "Existence and Essence": {
       "#127": {
         "value": -0.24481828287243843,
         "original class": "CLASS I",
@@ -5037,7 +5037,7 @@
         "word": "'Clergy.\u03b2\u20ac\u201d"
       }
     },
-    "Section 2": {
+    "Relations and Dispositions": {
       "#156": {
         "value": -0.35864959478378294,
         "original class": "CLASS I",
@@ -5094,7 +5094,7 @@
         "word": "\"Philanthro"
       }
     },
-    "Section 3": {
+    "Connection and Manifestation": {
       "#192": {
         "value": -0.29645520031452177,
         "original class": "CLASS II",
@@ -5151,7 +5151,7 @@
         "word": "'Contempt.\u03b2"
       }
     },
-    "Section 4": {
+    "Differentiation and Manifested Properties": {
       "#35": {
         "value": -0.2594994315877557,
         "original class": "CLASS I",
@@ -5273,7 +5273,7 @@
         "word": "'Vice.\u03b2\u20ac\u201dN."
       }
     },
-    "Section 5": {
+    "Comparison and Qualification": {
       "#478": {
         "value": -0.4455088049173355,
         "original class": "CLASS IV",
