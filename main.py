@@ -241,36 +241,6 @@ def average_class_clusters(average_embeddings, num_clusters=5):
     plt.show()
 
 
-def find_class_cluster_centers(hash_dict, average_embeddings):
-    #this method will use a list of cluster center means and return the words that correspond to these numbers(embeddings)
-    
-    #first we type the means we found earlier
-    means = [0.06498553828647301, -0.17802528386753064, -0.01593025010051176, -0.08972193120036404, -0.2948469554400071, 0.20069737928015563]
-
-    threshold = 0.0001 * 5.5 
-
-
-    #create an empty keys list to store the keys we will find
-    keys = []
-
-    #iterate through our our dictionary
-    for key, values in average_embeddings.items():
-        #print(f"Key: {key}, Value: {value}, Type: {type(value)}")
-        for mean in means:
-
-            if abs(values['value'] - mean) < threshold:
-                keys.append(key)
-                break
-
-
-    for key in keys:
-       # print('Hash dict key is \n ', hash_dict[key])
-        #print(get_key_section(key))
-    #print(len(keys))
-     pass
-
-
-
 
 def modify_average_embeddings():
     #modify our dictionary, so that it also contains its original class number
@@ -481,11 +451,6 @@ glove_vectors = intialize_word2vec()
 embeddings = read_embeddings(hash_dict, glove_vectors)
 
 
-#print(glove_vectors.most_similar('danger'))
-
-#print(classes['CLASS I']['sections']['SECTION II. RELATION']['numbers'])
-
-
 
 #get the average embeddings for each list in the #numbers
 average_embeddings = get_average_embeddings(embeddings)
@@ -498,10 +463,6 @@ save_embedings_dictionary(embeddings)
 
 #generate class clusters
 average_class_clusters(average_embeddings, 6)
-
-
-#find the mean embedding of each class cluster
-find_class_cluster_centers(hash_dict, average_embeddings)
 
 
 #add the name of the original class to our new cluster classes
