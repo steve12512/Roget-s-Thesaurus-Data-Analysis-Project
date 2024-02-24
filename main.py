@@ -2,15 +2,9 @@ import json
 from gensim.models import KeyedVectors
 import gensim.downloader as api
 import re
-#from unidecode import unidecode
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt
-import os
-
-#os.environ["NUMEXPR_MAX_THREADS"] = "12"  # Set the number of threads according to your preference
-# Set LOKY_MAX_CPU_COUNT environment variable to avoid the warning
-#os.environ["LOKY_MAX_CPU_COUNT"] = str(os.cpu_count())
 
 
 def read_class_dictionary():
@@ -327,25 +321,6 @@ def save_clusters_dictionary(json_file_path='clusters_dictionary.json'):
 
 
 
-
-
-
-
-
-def get_key_section(key):
-    #this function takes a hash key as input and returns the class to which it belongs.
-   
-    #remove the #
-    key_number = int(key[1:])
-    print('key number is', key_number, 'key is ', key)
-    #iterate through our class dictionary, search within the numbers list, and return the class name, if number is found
-    for class_name, class_data in classes.items():
-        for section_name, section_data in class_data['sections'].items():
-            if key_number in section_data['numbers']:
-                return section_name 
-
-
-
 def perform_section_clustering(cluster_data, class_name, num_clusters=5):
     # This function will generate new section clusters for a class.
     # It will then return the mean of these embeddings to the sections dictionary, as a list.
@@ -405,48 +380,6 @@ def get_section_clusters():
     return modern_dictionary
 
 
-
-
-
-
-
-
-
-
-def find_section_cluster_centers():
-    #for each cluster class, get its section cluster center(mean)'s embeddings and map them to a word
-    #iterate through our modern dictionary
-    for key, values in modern_dictionary.items():
-        #creae a list for all our words that correspond to embeddings
-        words = []
-
-        #iterate through our embeddings values list
-        for value in values:
-            word = find_word(value)
-            words.append(word)
-        #after having found the words that correspond to our embeddings, append them to the dictionary
-        modern_dictionary[key] = {'Sections' : words, 'embeddings' : modern_dictionary[key]}
-
-
-
-
-def find_word(value):
-    # This function takes as input an average embedding number and returns the word that corresponds to it
-    closest_word = 'Word not found'
-    min_difference = float('inf')  # Initialize with positive infinity
-
-    # Iterate over our average_embeddings dictionary
-    for key, values in average_embeddings.items():
-        threshold = 0.001 *25
-        difference = np.abs(average_embeddings[key]['value'] - value)
-
-        if difference < threshold and difference < min_difference:
-            # Check if 'word' key is present in the dictionary
-            if 'word' in average_embeddings[key]:
-                closest_word = average_embeddings[key]['word']
-                min_difference = difference
-
-    return closest_word
 
 
 
