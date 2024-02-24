@@ -282,7 +282,7 @@ def modify_average_embeddings():
         for section_name, section_data in class_data['sections'].items():
                 for number in section_data['numbers']:
                     number = "#" + str(number)
-                    average_embeddings[number] = { 'value': average_embeddings[number]['value'], 'cluster': average_embeddings[number]['cluster'], 'original class' : class_name}
+                    average_embeddings[number] = { 'value': average_embeddings[number]['value'], 'cluster': average_embeddings[number]['cluster'], 'original class' : class_name, 'word' : str(hash_dict[number])[1:10]}
                         #average_embeddings[key] = {'value': value, 'cluster': clusters[i]}
                     
 
