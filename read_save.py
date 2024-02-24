@@ -396,8 +396,8 @@ def get_section_clusters():
 
         # Perform k-means clustering for the cluster and append the new cluster centers(sections) to our new dictionary
         modern_dictionary[cluster_name] = perform_section_clustering(section_embeddings, cluster_name)
-    #return sections
 
+    return modern_dictionary
 
 
 def find_section_cluster_centers(sections):
@@ -463,14 +463,10 @@ glove_vectors = intialize_word2vec()
 #then we read our embeddings.
 embeddings = read_embeddings(hash_dict, glove_vectors)
 
-#print(hash_dict['#478'])
-#print(embeddings['#478'])
-
 
 #print(glove_vectors.most_similar('danger'))
 
 #print(classes['CLASS I']['sections']['SECTION II. RELATION']['numbers'])
-#print(embeddings)
 
 
 
@@ -478,8 +474,8 @@ embeddings = read_embeddings(hash_dict, glove_vectors)
 average_embeddings = get_average_embeddings(embeddings)
 
 
-save_embedings_dictionary(embeddings)
 #save_average_embeddings_dictionary(average_embeddings)
+save_embedings_dictionary(embeddings)
 
 
 
@@ -487,11 +483,11 @@ save_embedings_dictionary(embeddings)
 average_class_clusters(average_embeddings, 6)
 
 
-#this will generate new cluster classes
+#find the mean embedding of each class cluster
 find_class_cluster_centers(hash_dict, average_embeddings)
 
 
-#add the name of the original class
+#add the name of the original class to our new cluster classes
 modify_average_embeddings()
 
 
@@ -513,8 +509,8 @@ save_clusters_dictionary()
 
 
 
-#this will generate new section clusters, for each clas
-get_section_clusters()
+#this will generate new section clusters, for each class cluster. it will be our final dictionary
+modern_dictionary = get_section_clusters()
 
 #get the section clusters, this time mapped to words instead of emeddings
 #sections_mapped = find_section_cluster_centers(sections)
@@ -525,6 +521,6 @@ get_section_clusters()
 
 #find_section_cluster_centers(sections)
 
-#for key, value in sections.items():
-   # print(key, value)
+for key, value in modern_dictionary.items():
+    print(key, value)
 
