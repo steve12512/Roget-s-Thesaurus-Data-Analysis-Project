@@ -166,15 +166,21 @@ def save_embedings_dictionary(embeddings):
         json.dump(embeddings, json_file, indent= 2)
 
 
-def save_average_embeddings_dictionary(average_embeddings):
-    #save our hash dictionary in json format
+def save_average_embeddings_dictionary():
+    # Convert keys to strings and handle non-serializable values
+    converted_embeddings = {}
+    for key, value in average_embeddings.items():
+        converted_value = value.copy()  # Create a copy to avoid modifying the original dictionary
+        for sub_key, sub_value in value.items():
+            if isinstance(sub_value, np.int32):
+                converted_value[sub_key] = int(sub_value)  # Convert numpy int32 to Python int
+        converted_embeddings[str(key)] = converted_value
 
+    # Save the dictionary in JSON format
     json_file_path = 'average_embeddings.json'
 
     with open(json_file_path, 'w') as json_file:
-        json.dump(average_embeddings, json_file, indent= 2)
-
-
+        json.dump(converted_embeddings, json_file, indent=2)
 
 def intialize_word2vec():
     #initialize our models
@@ -270,6 +276,21 @@ def find_class_cluster_centers(hash_dict, average_embeddings):
 
 
 
+def modify_average_embeddings():
+    #modify our dictionary, so that it also contains its original class number
+    for class_name, class_data in classes.items():
+        for section_name, section_data in class_data['sections'].items():
+                for number in section_data['numbers']:
+                    average_embeddings[number] = { 'value': average_embeddings[key]['value'], 'cluster': average_embeddings[key]['cluster'], 'original class' : class_name}
+                        #average_embeddings[key] = {'value': value, 'cluster': clusters[i]}
+                    
+
+
+
+
+
+
+
 
 def get_key_section(key):
     #this function takes a hash key as input and returns the class to which it belongs.
@@ -281,7 +302,7 @@ def get_key_section(key):
     for class_name, class_data in classes.items():
         for section_name, section_data in class_data['sections'].items():
             if key_number in section_data['numbers']:
-                return section_name
+                return section_name 
 
 
 
@@ -439,7 +460,7 @@ average_embeddings = get_average_embeddings(embeddings)
 
 
 save_embedings_dictionary(embeddings)
-save_average_embeddings_dictionary(average_embeddings)
+#save_average_embeddings_dictionary(average_embeddings)
 
 
 
@@ -447,7 +468,7 @@ save_average_embeddings_dictionary(average_embeddings)
 average_class_clusters(average_embeddings, 6)
 
 
-for key, value in list(average_embeddings.items())[:10]:
+for key, value in list(average_embeddings.items())[:200]:
     print(f"{key}: {value}")
 
 
@@ -456,10 +477,10 @@ find_class_cluster_centers(hash_dict, average_embeddings)
 
 
 
+save_average_embeddings_dictionary()
 
 
-
-
+#modify_average_embeddings()
 
 
 
