@@ -288,6 +288,44 @@ def modify_average_embeddings():
 
 
 
+def create_clusters_dictionary():
+    #this method will save our new clusters, along with their average word embeddings, their hash numbers, and their original meaning
+    clusters_dictionary = {}
+
+    for key, value in average_embeddings.items():
+        cluster_number = value.get('cluster', None)
+
+        if cluster_number is not None:
+            if cluster_number not in clusters_dictionary:
+                clusters_dictionary[cluster_number] = {}
+
+            clusters_dictionary[cluster_number][key] = {
+                'value': value['value'],
+                'original class': value.get('original class', None), 'word' : str(hash_dict[key])[1:10]
+            }
+
+    # Print the clusters_dictionary
+    for cluster_number, cluster_data in clusters_dictionary.items():
+        print(f"Cluster {cluster_number}:")
+        for key, data in cluster_data.items():
+
+            print(f"    {key}: {data}")
+        print()
+
+    return clusters_dictionary
+
+
+
+def save_clusters_dictionary(json_file_path='clusters_dictionary.json'):
+    # Convert keys to strings
+    clusters_dict_str_keys = {str(key): value for key, value in clusters_dictionary.items()}
+
+    # Save the clusters dictionary in JSON format
+    with open(json_file_path, 'w') as json_file:
+        json.dump(clusters_dict_str_keys, json_file, indent=2)
+
+
+
 
 
 
@@ -341,32 +379,24 @@ def perform_section_clustering(embeddings, class_name, num_clusters=5):
     return mean_embeddings
 
 
-# Update get_section_clusters function
-def get_section_clusters(average_embeddings):
+def get_section_clusters():  
+    #for each cluster, perform a clustering to get new cluster sections, and do that by finding their cluster sections embedddings.
+    #create a new dictionary, to contain the new section cluster centers for each cluster(class)
 
-    #create a new dictionary, to contain the new section cluster centers for each class
-    sections = {}
+    #create a new dictionary that will map each cluster name to its new cluster sections. this will be our final dictionary.
+    modern_dictionary = {}
+    for cluster_name, cluster_data in clusters_dictionary.items():
+        #Accumulate embeddings for each cluster class
+        section_embeddings = []
 
-    for class_name, class_data in classes.items():
-        # Accumulate embeddings for each class
-        class_embeddings = []
+        for hash_key, cluster_contents in cluster_data.items():
+            
+            # Accumulate embeddings for the cluster
+            section_embeddings.append(cluster_contents['value'])
 
-        for section_name, section_data in class_data['sections'].items():
-            # Extract numbers from section_data
-            numbers = section_data['numbers']
-
-            # Create keys in the format of #number
-            keys = ['#' + str(number) for number in numbers]
-
-            # Get embeddings for each key
-            embeddings = [average_embeddings[key]['value'] for key in keys]
-
-            # Accumulate embeddings for the class
-            class_embeddings.extend(embeddings)
-
-        # Perform k-means clustering for the class and append the new cluster centers to our new dictionary
-        sections[class_name] = perform_section_clustering(class_embeddings, class_name)
-    return sections
+        # Perform k-means clustering for the cluster and append the new cluster centers(sections) to our new dictionary
+        modern_dictionary[cluster_name] = perform_section_clustering(section_embeddings, cluster_name)
+    #return sections
 
 
 
@@ -404,46 +434,6 @@ def find_section_cluster_centers(sections):
         sections_mapped[key] = words
         print(len(words))
     return sections_mapped
-
-
-
-
-
-def create_clusters_dictionary():
-    #this method will save our new clusters, along with their average word embeddings, their hash numbers, and their original meaning
-    clusters_dictionary = {}
-
-    for key, value in average_embeddings.items():
-        cluster_number = value.get('cluster', None)
-
-        if cluster_number is not None:
-            if cluster_number not in clusters_dictionary:
-                clusters_dictionary[cluster_number] = {}
-
-            clusters_dictionary[cluster_number][key] = {
-                'value': value['value'],
-                'original class': value.get('original class', None), 'word' : str(hash_dict[key])[1:10]
-            }
-
-    # Print the clusters_dictionary
-    for cluster_number, cluster_data in clusters_dictionary.items():
-        print(f"Cluster {cluster_number}:")
-        for key, data in cluster_data.items():
-
-            print(f"    {key}: {data}")
-        print()
-
-    return clusters_dictionary
-
-
-
-def save_clusters_dictionary(json_file_path='clusters_dictionary.json'):
-    # Convert keys to strings
-    clusters_dict_str_keys = {str(key): value for key, value in clusters_dictionary.items()}
-
-    # Save the clusters dictionary in JSON format
-    with open(json_file_path, 'w') as json_file:
-        json.dump(clusters_dict_str_keys, json_file, indent=2)
 
 
 
@@ -497,16 +487,11 @@ save_embedings_dictionary(embeddings)
 average_class_clusters(average_embeddings, 6)
 
 
-
-
-
 #this will generate new cluster classes
 find_class_cluster_centers(hash_dict, average_embeddings)
 
 
-
-
-
+#add the name of the original class
 modify_average_embeddings()
 
 
@@ -514,7 +499,7 @@ modify_average_embeddings()
  #   print(f"{key}: {value}")
 
 
-
+#save it in a dictionary
 save_average_embeddings_dictionary()
 
 
@@ -528,15 +513,8 @@ save_clusters_dictionary()
 
 
 
-# FOR LATER
-
-
-
-
-
-
-#this will generate new section clusters, for each class
-#sections = get_section_clusters(average_embeddings)
+#this will generate new section clusters, for each clas
+get_section_clusters()
 
 #get the section clusters, this time mapped to words instead of emeddings
 #sections_mapped = find_section_cluster_centers(sections)
