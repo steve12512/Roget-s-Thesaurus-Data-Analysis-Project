@@ -564,23 +564,3 @@ save_modern_dictionary()
 
 #give our class clusters names
 modern_dictionary_with_class_names = rename_modern_dictionary()
-
-
-
-for key, values in modern_dictionary.items():
-       print('\n \n \n \n \n \n \n \n \n \n \n \n \n \n key is ', key)
-       for key2,values2 in values.items():
-            for key3,values3 in values2.items():
-                print(values3['word'])            
-
-
-
-
-
-
-#for key, values in modern_dictionary_with_class_names.items():
-    #print('name of the class is;', key)
-   # for key2, values2 in values.items():
-       # print('name of the section is', key2)
-       #for key3, values3 in values2.items():
-        #    print(values3['word'])
