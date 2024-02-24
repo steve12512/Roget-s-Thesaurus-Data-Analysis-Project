@@ -1,67 +1,83 @@
 {
   "#1": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#2": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#3": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#4": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#5": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#6": {
     "value": -0.03680612027645111,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#7": {
     "value": -0.05892909370362759,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#8": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#9": {
     "value": -0.21769467294216155,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#10": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#11": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#12": {
     "value": -0.027167882919311524,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#13": {
     "value": -0.03799639835953712,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#14": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#15": {
     "value": -0.14859573098365217,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#16": {
     "value": -0.12431204169988633,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#16a": {
     "value": -0.17488923355937003,
@@ -69,19 +85,23 @@
   },
   "#17": {
     "value": 0.01108895868062973,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#18": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#19": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#20": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#20a": {
     "value": 0.04917996108531952,
@@ -89,83 +109,103 @@
   },
   "#21": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#22": {
     "value": -0.006355521678924561,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#23": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#24": {
     "value": 0.027759716361761094,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#25": {
     "value": -0.10498995989561082,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#26": {
     "value": -0.09204816397279501,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#27": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#28": {
     "value": -0.09836152255535126,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#29": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#30": {
     "value": -0.14501375913619996,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#31": {
     "value": -0.15621131896972656,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#32": {
     "value": 0.14063920557498932,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS I"
   },
   "#33": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#34": {
     "value": 0.08008175998926163,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#35": {
     "value": -0.2594994315877557,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#36": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#37": {
     "value": -0.22142552018165587,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#38": {
     "value": -0.14658656496554612,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#39": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#40": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#40a": {
     "value": -0.17488923355937003,
@@ -173,79 +213,98 @@
   },
   "#41": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#42": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#43": {
     "value": -0.06433563858270645,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#44": {
     "value": -0.17501243542879819,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#45": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#46": {
     "value": -0.01338553979061544,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#47": {
     "value": -0.06485856145620346,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#48": {
     "value": 0.1198948785662651,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#49": {
     "value": -0.030957518592476845,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#50": {
     "value": -0.04237268567085266,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#51": {
     "value": -0.11405353790149092,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#52": {
     "value": -0.13176983416080476,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#53": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#54": {
     "value": 0.009621841683983803,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#55": {
     "value": -0.001965402662754059,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#56": {
     "value": 0.08872899399138987,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#57": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#58": {
     "value": -0.2231397760566324,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#59": {
     "value": 0.21014551386237146,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS I"
   },
   "#59a": {
     "value": 0.0616585199534893,
@@ -253,167 +312,208 @@
   },
   "#60": {
     "value": -0.05158320352435112,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#61": {
     "value": 0.10754648790229111,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#62": {
     "value": -0.10960372045636177,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#63": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#64": {
     "value": 0.04790048062801361,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#65": {
     "value": 0.07380660369992256,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#66": {
     "value": -0.06634767986834049,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#67": {
     "value": -0.12322820279747247,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#68": {
     "value": -0.08120384082198143,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#69": {
     "value": 0.026161235123872757,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#70": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#71": {
     "value": -0.05817732741124928,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#72": {
     "value": -0.11586160153150558,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#73": {
     "value": 0.09288650770089589,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#74": {
     "value": -0.18564784079790114,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#75": {
     "value": -0.03813228309154511,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#76": {
     "value": -0.22059799671173097,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#77": {
     "value": -0.001965402662754059,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#78": {
     "value": -0.25273024026304486,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#79": {
     "value": -0.07273252375423908,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#80": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#81": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#82": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#83": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#84": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#85": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#86": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#87": {
     "value": -0.02407123719342053,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#88": {
     "value": -0.04342914061620831,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#89": {
     "value": 0.03528131518512964,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#90": {
     "value": -0.002706168442964554,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#91": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#92": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#93": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#94": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#95": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#96": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#97": {
     "value": 0.027394384853541853,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#98": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#99": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#100": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#100a": {
     "value": -0.035486641377210616,
@@ -421,35 +521,43 @@
   },
   "#101": {
     "value": -0.057516431361436846,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#102": {
     "value": -0.0804383161664009,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#103": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#104": {
     "value": 0.10570219993591308,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#105": {
     "value": -0.1310979575663805,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#106": {
     "value": -0.1667794757336378,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#107": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#108": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#108a": {
     "value": -0.09233791965991259,
@@ -457,99 +565,123 @@
   },
   "#109": {
     "value": -0.1602786998215015,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#110": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#111": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#112": {
     "value": -0.18461400106549264,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#113": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#114": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#115": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#116": {
     "value": -0.19149010078981518,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#117": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#118": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#119": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#120": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#121": {
     "value": -0.1040694678761065,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#122": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#123": {
     "value": -0.001012161672115326,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#124": {
     "value": -0.19765592446550728,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#125": {
     "value": -0.07290675953030586,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#126": {
     "value": -0.27115908565931024,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#127": {
     "value": -0.24481828287243843,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#128": {
     "value": -0.07954091280698776,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#129": {
     "value": -0.03097035065293312,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#130": {
     "value": -0.12980276167392732,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#131": {
     "value": 0.07796079993247985,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#132": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#132a": {
     "value": -0.17363267987966538,
@@ -557,175 +689,218 @@
   },
   "#133": {
     "value": -0.18523883670568467,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#134": {
     "value": -0.24928956136107444,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#135": {
     "value": 0.04555907480418682,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#136": {
     "value": 0.06330689452588559,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#137": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#138": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#139": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#140": {
     "value": -0.19792899698019029,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#141": {
     "value": -0.0965248142182827,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#142": {
     "value": 0.054200807809829714,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#143": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#144": {
     "value": -0.05465779654681682,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#145": {
     "value": -0.049027026956900956,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#146": {
     "value": -0.05963580161333084,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#147": {
     "value": 0.04900407761335373,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#148": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#149": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#150": {
     "value": -0.16927592545747758,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#151": {
     "value": 0.03799664095044136,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#152": {
     "value": -0.035518878698349,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#153": {
     "value": -0.05925823997706175,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#154": {
     "value": 0.10404887720942498,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#155": {
     "value": 0.17152831882238387,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS I"
   },
   "#156": {
     "value": -0.35864959478378294,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS I"
   },
   "#157": {
     "value": -0.0012609239667654038,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#158": {
     "value": -0.06098424113821238,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#159": {
     "value": -0.05963506495580077,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#160": {
     "value": -0.10179520756006241,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#161": {
     "value": -0.05835124388337135,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#162": {
     "value": -0.007491919994354248,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#163": {
     "value": -0.09399084247648716,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#164": {
     "value": -0.05118051864206791,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#165": {
     "value": 0.038614585623145105,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#166": {
     "value": -0.06008456110954285,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#167": {
     "value": -0.17826935987919568,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#168": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS I"
   },
   "#169": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#170": {
     "value": -0.030626762360334396,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#171": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#172": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#173": {
     "value": -0.09227907374501228,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#174": {
     "value": -0.15500702736899258,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#175": {
     "value": -0.16195691585540772,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#175a": {
     "value": 0.0616585199534893,
@@ -733,23 +908,28 @@
   },
   "#176": {
     "value": 0.005209203362464904,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS I"
   },
   "#177": {
     "value": -0.05719756249338388,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#178": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS I"
   },
   "#179": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS I"
   },
   "#180": {
     "value": 0.010105226412415505,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#180a": {
     "value": -0.17488923355937003,
@@ -757,147 +937,183 @@
   },
   "#181": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#182": {
     "value": -0.2338026359677315,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#183": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#184": {
     "value": -0.21044912330806256,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#185": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#186": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#187": {
     "value": -0.23396440148353576,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#188": {
     "value": 0.08391239777207375,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#189": {
     "value": -0.11530002888292074,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#190": {
     "value": -0.21847099915146828,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#191": {
     "value": 0.05830967977643013,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#192": {
     "value": -0.29645520031452177,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS II"
   },
   "#193": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#194": {
     "value": -0.08369983717799187,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#195": {
     "value": 0.09645267397165298,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#196": {
     "value": -0.010220637135207654,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#197": {
     "value": 0.023750121742486953,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#198": {
     "value": 0.07429491918534041,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#199": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#200": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#201": {
     "value": 0.08340067319571971,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#202": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#203": {
     "value": 0.11205080509185791,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#204": {
     "value": 0.10345467671751976,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#205": {
     "value": 0.16737403690814973,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS II"
   },
   "#206": {
     "value": -0.04564077751711011,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#207": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#208": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#209": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#210": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#211": {
     "value": -0.07405940376222134,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#212": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#213": {
     "value": -0.20148876257240772,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#214": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#215": {
     "value": -0.3870528042316437,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS II"
   },
   "#216": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#216a": {
     "value": 0.0616585199534893,
@@ -905,563 +1121,703 @@
   },
   "#217": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#218": {
     "value": 0.12953287100419403,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#219": {
     "value": -0.06353775948286057,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#220": {
     "value": -0.024160880371928217,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#221": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#222": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#223": {
     "value": -0.1977367689460516,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#224": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#225": {
     "value": -0.3255098062567413,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS II"
   },
   "#226": {
     "value": -0.18649372551590204,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#227": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#228": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#229": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#230": {
     "value": 0.019849804043769837,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#231": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#232": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#233": {
     "value": -0.1458612386882305,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#234": {
     "value": -0.18783031962811947,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#235": {
     "value": -0.147082557156682,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#236": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#237": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#238": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#239": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#240": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#241": {
     "value": -0.0594640389084816,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#242": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#243": {
     "value": 0.06398464974015951,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#244": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#245": {
     "value": 0.08533359944820404,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#246": {
     "value": 0.02991900160908699,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#247": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#248": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#249": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#250": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#251": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#252": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#253": {
     "value": -0.061745321452617644,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#254": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#255": {
     "value": -0.09244156956672668,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#256": {
     "value": 0.06860920488834381,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#257": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#258": {
     "value": -0.1174466784670949,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#259": {
     "value": -0.25743364050984385,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS II"
   },
   "#260": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#261": {
     "value": -0.1324234862625599,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#262": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#263": {
     "value": -0.014738197922706604,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#264": {
     "value": 0.026160764135420324,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#265": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#266": {
     "value": -0.08596811801195145,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#267": {
     "value": 0.027822793647646903,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#268": {
     "value": -0.00015631943941116333,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#269": {
     "value": -0.015011925846338273,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#270": {
     "value": 0.05780568107962608,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#271": {
     "value": -0.04336873609572649,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#272": {
     "value": 0.05655596181750298,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#273": {
     "value": -0.22447011902928352,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#274": {
     "value": 0.09250851556658744,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#275": {
     "value": -0.025896680653095246,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#276": {
     "value": -0.05114412786439061,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#277": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#278": {
     "value": -0.33761680297553537,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS II"
   },
   "#279": {
     "value": -0.056316882520914074,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#280": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#281": {
     "value": 0.08937243721447885,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#282": {
     "value": -0.03512919843196869,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#283": {
     "value": 0.0643129986524582,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#284": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#285": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#286": {
     "value": -0.17888608671724796,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#287": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#288": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#289": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#290": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#291": {
     "value": -0.0015099918469786643,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#292": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#293": {
     "value": -0.12488239884376526,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#294": {
     "value": -0.14787962773814797,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#295": {
     "value": -0.027831953167915344,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#296": {
     "value": -0.14526383966207504,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#297": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#298": {
     "value": -0.08823352366685867,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#299": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#300": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#301": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#302": {
     "value": -0.23338787879794837,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#303": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#304": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#305": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#306": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#307": {
     "value": -0.12010360330343246,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS II"
   },
   "#308": {
     "value": 0.06170883432030678,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#309": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#310": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#311": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#312": {
     "value": 0.10855524137616157,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS II"
   },
   "#313": {
     "value": -0.0007755991816520691,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#314": {
     "value": 0.0014283883571624756,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS II"
   },
   "#315": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS II"
   },
   "#316": {
     "value": -0.06714236408472062,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#317": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#318": {
     "value": -0.1715644432604313,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#319": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#320": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#321": {
     "value": 0.10459816113114356,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#322": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#323": {
     "value": 0.05848960012197495,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#324": {
     "value": -0.005392676163464785,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#325": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#326": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#327": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#328": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#329": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#330": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#331": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#332": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#333": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#334": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#335": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#336": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#337": {
     "value": 0.0716719925403595,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#338": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#339": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#340": {
     "value": 0.0027869550324976446,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#341": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#342": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#343": {
     "value": -0.16784380495548248,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#344": {
     "value": -0.0843702433258295,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#345": {
     "value": -0.18622511819005014,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#346": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#347": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#348": {
     "value": 0.0020053204894065857,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#349": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#350": {
     "value": -0.13428696006536484,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#351": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#352": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#353": {
     "value": 0.10097320303320885,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#354": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#355": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#356": {
     "value": -0.0826255139708519,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#356a": {
     "value": 0.0616585199534893,
@@ -1469,75 +1825,93 @@
   },
   "#357": {
     "value": -0.2110377139225602,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#358": {
     "value": -0.044197195768356325,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#359": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#360": {
     "value": 0.05138848535716534,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#361": {
     "value": -0.012348516546189785,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#362": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#363": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#364": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#365": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#366": {
     "value": -0.07731152296066285,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#367": {
     "value": -0.024218329638242723,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#368": {
     "value": -0.005772959440946579,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#369": {
     "value": -0.02137491647154093,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#370": {
     "value": 0.015078922752290964,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#371": {
     "value": -0.22987515598535538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#372": {
     "value": -0.09554056286811828,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#373": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#374": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#374a": {
     "value": 0.0616585199534893,
@@ -1545,59 +1919,73 @@
   },
   "#375": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#376": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#377": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#378": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#379": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#380": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#381": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#382": {
     "value": 0.03431220330297947,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#383": {
     "value": 0.050882636159658434,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#384": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#385": {
     "value": -0.010085776690393686,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#386": {
     "value": 0.11888723731040955,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#387": {
     "value": 0.12338028647005558,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#388": {
     "value": 0.02669331243261695,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#388a": {
     "value": -0.17363267987966538,
@@ -1605,19 +1993,23 @@
   },
   "#389": {
     "value": 0.1102307204902172,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#390": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#391": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#392": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#392a": {
     "value": -0.17363267987966538,
@@ -1629,39 +2021,48 @@
   },
   "#393": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#394": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#395": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#396": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#397": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#398": {
     "value": 0.21159200519323348,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS III"
   },
   "#399": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#400": {
     "value": -0.16905924335122108,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#401": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#401a": {
     "value": 0.0616585199534893,
@@ -1669,31 +2070,38 @@
   },
   "#402": {
     "value": 0.07468993372982367,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#403": {
     "value": -0.011844599740579725,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#404": {
     "value": 0.07162283744663,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#405": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#406": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#407": {
     "value": 0.06794456005096436,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#408": {
     "value": 0.09394144088029861,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#408a": {
     "value": 0.0616585199534893,
@@ -1701,75 +2109,93 @@
   },
   "#409": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#410": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#411": {
     "value": -0.046620470471680164,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#412": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#413": {
     "value": -0.010075157023966313,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#414": {
     "value": -0.114827122092247,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#415": {
     "value": -0.06007744163274765,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#416": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#417": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#418": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#419": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#420": {
     "value": 0.003876200169324875,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#421": {
     "value": 0.00045580387115478515,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#422": {
     "value": -0.023870397806167603,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#423": {
     "value": -0.13515982931945472,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#424": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#425": {
     "value": -0.2317647933959961,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#426": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#426a": {
     "value": 0.0616585199534893,
@@ -1777,99 +2203,123 @@
   },
   "#427": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#428": {
     "value": -0.004394559115171432,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#429": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#430": {
     "value": 0.010240887403488158,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#431": {
     "value": 0.04988640129566193,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#432": {
     "value": -0.1726674784719944,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#433": {
     "value": -0.1937148803472519,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#434": {
     "value": 0.04980783432722092,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#435": {
     "value": -0.1755587178468704,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#436": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#437": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#438": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS III"
   },
   "#439": {
     "value": -0.0520979193598032,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#440": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#441": {
     "value": -0.033931996822357174,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#442": {
     "value": -0.006807074993848801,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#443": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#444": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#445": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#446": {
     "value": -0.04909210722893476,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS III"
   },
   "#447": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#448": {
     "value": -0.1821450400352478,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS III"
   },
   "#449": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS III"
   },
   "#450": {
     "value": 0.009588758796453475,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#450a": {
     "value": -0.2080474045500159,
@@ -1877,59 +2327,73 @@
   },
   "#451": {
     "value": -0.02580898681655526,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#452": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#453": {
     "value": -0.0007902323151938618,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#454": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#455": {
     "value": 0.06272046942263841,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#456": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#457": {
     "value": -0.25626547828316687,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#458": {
     "value": -0.144337477684021,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#459": {
     "value": -0.11944372817873955,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#460": {
     "value": -0.19158223360776902,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#461": {
     "value": -0.11414666640106588,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#462": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#463": {
     "value": -0.009952796176075935,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#464": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#464a": {
     "value": -0.11345736056566239,
@@ -1937,7 +2401,8 @@
   },
   "#465": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#465a": {
     "value": -0.17363267987966538,
@@ -1949,63 +2414,78 @@
   },
   "#466": {
     "value": 0.06469119966030121,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#467": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#468": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#469": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#470": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#471": {
     "value": 0.05169950883835554,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#472": {
     "value": 0.02498584032058716,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#473": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#474": {
     "value": -0.04898834303021431,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#475": {
     "value": -0.1486656016111374,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#476": {
     "value": 0.04555907480418682,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#477": {
     "value": -0.0678536057472229,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#478": {
     "value": -0.4455088049173355,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#479": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#480": {
     "value": 0.0864859989285469,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#480a": {
     "value": 0.015683590322732924,
@@ -2013,139 +2493,173 @@
   },
   "#481": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#482": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#483": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#484": {
     "value": -0.1043282845010981,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#485": {
     "value": 0.028857474401593208,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#486": {
     "value": 0.0011804798245429993,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#487": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#488": {
     "value": -0.17119400868192314,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#489": {
     "value": -0.16523125100880862,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#490": {
     "value": 0.005035966634750366,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#491": {
     "value": -0.010009956955909729,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#492": {
     "value": -0.10700015723705292,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#493": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#494": {
     "value": -0.00903540536761284,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#495": {
     "value": 0.39064519852399826,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS IV"
   },
   "#496": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#497": {
     "value": -0.0026469246298074724,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#498": {
     "value": -0.047594961188733576,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#499": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#500": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#501": {
     "value": 0.05304376155138016,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#502": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#503": {
     "value": 0.03356564193964005,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#504": {
     "value": 0.02054567888379097,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#505": {
     "value": 0.14219164485111832,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS IV"
   },
   "#506": {
     "value": -0.005824762433767319,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#507": {
     "value": -0.03549943327903748,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#508": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#509": {
     "value": 0.010933806151151658,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#510": {
     "value": 0.007870121449232102,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#511": {
     "value": -0.0048084773868322375,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#512": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#513": {
     "value": -0.11654572494328022,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#514": {
     "value": 0.10116969756316394,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#514a": {
     "value": 0.0616585199534893,
@@ -2153,55 +2667,68 @@
   },
   "#515": {
     "value": 0.01809000186622143,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#516": {
     "value": 0.022395277321338655,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#517": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#518": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#519": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#520": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#521": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#522": {
     "value": -0.017128004431724547,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#523": {
     "value": 0.003949410114437342,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#524": {
     "value": -0.09085848227143288,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#525": {
     "value": -0.09669960892759263,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#526": {
     "value": 0.1657815644145012,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS IV"
   },
   "#527": {
     "value": -0.18012143030762673,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#527a": {
     "value": -0.17363267987966538,
@@ -2209,311 +2736,388 @@
   },
   "#528": {
     "value": 0.23961253652349115,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS IV"
   },
   "#529": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#530": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#531": {
     "value": -0.21387999951839448,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#532": {
     "value": -0.2662894724309444,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#533": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#534": {
     "value": -0.03251648008823395,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#535": {
     "value": -0.08215879380702973,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#536": {
     "value": 0.06953959926962852,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#537": {
     "value": -0.24697100892663001,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#538": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#539": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#540": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#541": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#542": {
     "value": -0.08070399582386018,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#543": {
     "value": -0.012170604318380357,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#544": {
     "value": -0.13656207345426083,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#545": {
     "value": 0.04617091834545135,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#546": {
     "value": 0.1469148787856102,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS IV"
   },
   "#547": {
     "value": -0.19959967836737633,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#548": {
     "value": 0.049154515564441684,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#549": {
     "value": 0.022942245304584503,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#550": {
     "value": -0.2672091034986079,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#551": {
     "value": -0.12912260895129293,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#552": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#553": {
     "value": 0.09767963230609894,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#554": {
     "value": -0.182390243858099,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#555": {
     "value": -0.04440491080284119,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#556": {
     "value": -0.23743388056755066,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#557": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#558": {
     "value": -0.062169796079397203,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#559": {
     "value": -0.26064959399402143,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#560": {
     "value": -0.01832960307598114,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#561": {
     "value": -0.10347880769520998,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#562": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#563": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#564": {
     "value": -0.04784007387235761,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#565": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#566": {
     "value": -0.014995577782392501,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#567": {
     "value": 0.05927864287048578,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#568": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#569": {
     "value": -0.08616203414276243,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#570": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#571": {
     "value": -0.08387840151786805,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#572": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#573": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#574": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#575": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#576": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#577": {
     "value": -0.1204958039522171,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#578": {
     "value": -0.14511416509747505,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#579": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#580": {
     "value": -0.09578428952023386,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#581": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#582": {
     "value": -0.15742364943027495,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#583": {
     "value": -0.02954496145248413,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS IV"
   },
   "#584": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#585": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#586": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#587": {
     "value": -0.25273024026304486,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS IV"
   },
   "#588": {
     "value": -0.07546652611345053,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#589": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#590": {
     "value": -0.13645159870386123,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#591": {
     "value": -0.23088935699313878,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#592": {
     "value": -0.1553376790881157,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#593": {
     "value": -0.11672707565128804,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#594": {
     "value": -0.17391387820243837,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#595": {
     "value": -0.11716799676418305,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#596": {
     "value": 0.1152004730515182,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#597": {
     "value": -0.10006040155887604,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS IV"
   },
   "#598": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS IV"
   },
   "#599": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS IV"
   },
   "#600": {
     "value": -0.34821824423968795,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#601": {
     "value": -0.13167939364910125,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#602": {
     "value": -0.18943060550838708,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#603": {
     "value": -0.23786408051848412,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#604": {
     "value": -0.11723915830254555,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#604a": {
     "value": -0.06969667583703995,
@@ -2521,23 +3125,28 @@
   },
   "#605": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#606": {
     "value": -0.09023639500141144,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#607": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#608": {
     "value": -0.17211843609809876,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#609": {
     "value": -0.3630776134924963,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#609a": {
     "value": -0.17363267987966538,
@@ -2545,27 +3154,33 @@
   },
   "#610": {
     "value": -0.0066070065274834635,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#611": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#612": {
     "value": -0.05114412786439061,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#613": {
     "value": 0.011215865039266646,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#614": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#615": {
     "value": -0.07589412644505501,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#615a": {
     "value": -0.09233791965991259,
@@ -2573,491 +3188,613 @@
   },
   "#616": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#617": {
     "value": -0.18902756437659263,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#618": {
     "value": -0.14103611923754214,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#619": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#620": {
     "value": -0.07014091994613408,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#621": {
     "value": -0.2672091034986079,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#622": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#623": {
     "value": -0.05557612583041191,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#624": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#625": {
     "value": -0.28307834869716314,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#626": {
     "value": -0.006445560902357102,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#627": {
     "value": -0.0033128052949905396,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#628": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#629": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#630": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#631": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#632": {
     "value": -0.1652129167318344,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#633": {
     "value": 0.12552247926592827,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#634": {
     "value": 0.11737943574786186,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#635": {
     "value": -0.11409311711788178,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#636": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#637": {
     "value": -0.25273024026304486,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#638": {
     "value": -0.023811402916908263,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#639": {
     "value": -0.10891215562820435,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#640": {
     "value": -0.023631125539541244,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#641": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#642": {
     "value": -0.1962878867983818,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#643": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#644": {
     "value": 0.020781795382499694,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#645": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#646": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#647": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#648": {
     "value": -0.03906320929527283,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#649": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#650": {
     "value": -0.2652815169095993,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#651": {
     "value": -0.09609528422355652,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#652": {
     "value": -0.01964567393064499,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#653": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#654": {
     "value": -0.1969645419344306,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#655": {
     "value": 0.2023448020219803,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS V"
   },
   "#656": {
     "value": -0.25273024026304486,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#657": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#658": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#659": {
     "value": 0.0072391989827156064,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#660": {
     "value": -0.043430684693157674,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#661": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#662": {
     "value": 0.05882839918136597,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#663": {
     "value": 0.03836903780698776,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#664": {
     "value": -0.09215680360794068,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#665": {
     "value": -0.04741419315338135,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#666": {
     "value": -0.1392342445254326,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#667": {
     "value": 0.07573144271969795,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#668": {
     "value": 0.03254168331623077,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#669": {
     "value": 0.29144079696387054,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS V"
   },
   "#670": {
     "value": -0.06612100238911807,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#671": {
     "value": 0.05013072125613689,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#672": {
     "value": -0.03260424315929413,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#673": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#674": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#675": {
     "value": 0.01681475907564163,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#676": {
     "value": -0.1712564018368721,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#677": {
     "value": -0.15679291427135467,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#678": {
     "value": 0.03868624374270439,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#679": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#680": {
     "value": -0.06702810638642404,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#681": {
     "value": -0.10672903299331665,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#682": {
     "value": 0.08142348401248455,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#683": {
     "value": 0.04171488642692566,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#684": {
     "value": -0.07741983845829964,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#685": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#686": {
     "value": -0.07444635927677154,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#687": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#688": {
     "value": -0.041433605253696444,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#689": {
     "value": 0.013389442563056946,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#690": {
     "value": -0.17023785054683685,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#691": {
     "value": -0.14918928503990173,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#692": {
     "value": -0.1703110034763813,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#693": {
     "value": -0.33761680297553537,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#694": {
     "value": -0.08090880215167999,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#695": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#696": {
     "value": -0.36848964609205725,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#697": {
     "value": 0.057606561481952666,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#698": {
     "value": 0.02871506514027715,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#699": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#700": {
     "value": -0.17351576298475266,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#701": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#702": {
     "value": -0.10802043780684471,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#703": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#704": {
     "value": 0.03610175549983978,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#705": {
     "value": -0.07536284327507019,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#706": {
     "value": -0.04321128785610199,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#707": {
     "value": -0.17037599980831147,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#708": {
     "value": -0.23440596245229245,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#709": {
     "value": -0.2571505693346262,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#710": {
     "value": -0.2672091034986079,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#711": {
     "value": -0.031115881451405585,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#712": {
     "value": -0.16276908546220512,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#713": {
     "value": -0.114827122092247,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#714": {
     "value": -0.12225200071930885,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#715": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#716": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#717": {
     "value": -0.08794916048645973,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#718": {
     "value": 0.029862640500068663,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#719": {
     "value": 0.011445482298731803,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#720": {
     "value": -0.03887159913778305,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#721": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#722": {
     "value": 0.21353528164327146,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS V"
   },
   "#723": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#724": {
     "value": -0.21118363976478577,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#725": {
     "value": -0.25621003910899165,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#726": {
     "value": 0.062046601474285125,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#727": {
     "value": -0.17203487783670426,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#728": {
     "value": -0.10534719824790954,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#729": {
     "value": -0.09583467960357667,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#730": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#731": {
     "value": -0.1639936975762248,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#732": {
     "value": -9.395539760589599e-05,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#733": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#734": {
     "value": -0.07415475755929947,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#735": {
     "value": 0.08799360573291778,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#736": {
     "value": -0.2124241989850998,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#737": {
     "value": -0.18814616598188877,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#737a": {
     "value": -0.258905186355114,
@@ -3069,127 +3806,158 @@
   },
   "#738": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#739": {
     "value": 0.02701590146869421,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#740": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#741": {
     "value": -0.01643086865544319,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#742": {
     "value": -0.08778035768307746,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#743": {
     "value": 0.0053267601132392884,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#744": {
     "value": -0.040047961678355934,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#745": {
     "value": 0.004632135853171349,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#746": {
     "value": -0.06195991680026054,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#747": {
     "value": 0.031751556023955345,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#748": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#749": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#750": {
     "value": 0.022945479974150657,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#751": {
     "value": -0.13829460352659226,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#752": {
     "value": -0.09214999414980411,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#753": {
     "value": -0.11485802724957467,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#754": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#755": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#756": {
     "value": -0.0021217300742864607,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#757": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#758": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#759": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#760": {
     "value": -0.28707307562232015,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#761": {
     "value": 0.09741606916300953,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#762": {
     "value": -0.18630811646580697,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#763": {
     "value": -0.3789356902241707,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#764": {
     "value": -0.1411249203979969,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#765": {
     "value": -0.16271856999024747,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#766": {
     "value": -0.17139359354972838,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#767": {
     "value": -0.06721492134034633,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#768": {
     "value": -0.1376758388057351,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#768a": {
     "value": 0.0616585199534893,
@@ -3197,39 +3965,48 @@
   },
   "#769": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#770": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#771": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#772": {
     "value": -0.09683727022260427,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#773": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#774": {
     "value": -0.18284299954771996,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#775": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#776": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#777": {
     "value": 0.11902116097509861,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#777a": {
     "value": 0.0616585199534893,
@@ -3237,91 +4014,113 @@
   },
   "#778": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#779": {
     "value": -0.2047975603491068,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#780": {
     "value": -0.27786108165979384,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#781": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#782": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#783": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#784": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#785": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#786": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#787": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#788": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#789": {
     "value": -0.21271128844469786,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#790": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#791": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#792": {
     "value": 0.14075420517474413,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS V"
   },
   "#793": {
     "value": 0.001920122168958187,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#794": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#795": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#796": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#797": {
     "value": -0.22105508148670197,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#798": {
     "value": -0.26692832231521607,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#799": {
     "value": -0.1478034797310829,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#799a": {
     "value": -0.2080474045500159,
@@ -3333,55 +4132,68 @@
   },
   "#800": {
     "value": -0.09901127576828003,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#801": {
     "value": -0.19539182929322124,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#802": {
     "value": -0.4364284534845501,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#803": {
     "value": -0.08990771993994713,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#804": {
     "value": -0.07411580547690391,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#805": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#806": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#807": {
     "value": -0.14824341325089335,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#808": {
     "value": -0.04851856496185064,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS V"
   },
   "#809": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#810": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS V"
   },
   "#811": {
     "value": -0.2984206064790487,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#812": {
     "value": -0.2118950815498829,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#812a": {
     "value": -0.17363267987966538,
@@ -3393,23 +4205,28 @@
   },
   "#813": {
     "value": -0.28307834869716314,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS V"
   },
   "#814": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#815": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS V"
   },
   "#816": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#817": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#817a": {
     "value": 0.0616585199534893,
@@ -3417,123 +4234,153 @@
   },
   "#818": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#819": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS V"
   },
   "#820": {
     "value": -0.3040675535798073,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#821": {
     "value": 0.0459744141343981,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#822": {
     "value": -0.1295312701910734,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#823": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#824": {
     "value": -0.0027946409583091735,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#825": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#826": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#827": {
     "value": -0.1067587000131607,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#828": {
     "value": 0.11434851691126824,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#829": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#830": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#831": {
     "value": -0.292436438202858,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#832": {
     "value": -0.13381556556560098,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#833": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#834": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#835": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#836": {
     "value": -0.27026968464255335,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#837": {
     "value": 0.005585078038275242,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#838": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#839": {
     "value": -0.0039688006043434145,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#840": {
     "value": -0.10421483650803566,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#841": {
     "value": -0.04206840753555298,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#842": {
     "value": 0.06778641015291215,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#843": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#844": {
     "value": -0.02567355369334109,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#845": {
     "value": -0.19731468200683594,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#846": {
     "value": 0.0486953579261899,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#847": {
     "value": -0.1204958039522171,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#847a": {
     "value": -0.22730927899479866,
@@ -3541,219 +4388,273 @@
   },
   "#848": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#849": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#850": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#851": {
     "value": -0.07127332091331481,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#852": {
     "value": -0.399596315282397,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#853": {
     "value": 0.021233780761249363,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#854": {
     "value": -0.023767582364380358,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#855": {
     "value": -0.20082441210746765,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#856": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#857": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#858": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#859": {
     "value": -0.0028480469435453416,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#860": {
     "value": 0.054247822016477584,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#861": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#862": {
     "value": -0.003979198485612869,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#863": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#864": {
     "value": -0.07429279923439026,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#865": {
     "value": -0.09674515590071678,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#866": {
     "value": -0.07298335619270802,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#867": {
     "value": -0.153392276763916,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#868": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#869": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#870": {
     "value": -0.04516675643622875,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#871": {
     "value": -0.05974476113915443,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#872": {
     "value": -0.03243032056838274,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#873": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#874": {
     "value": -0.06007170297205448,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#875": {
     "value": 0.052381679117679596,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#876": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#877": {
     "value": -0.04097842611372471,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#878": {
     "value": -0.07890519976615906,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#879": {
     "value": -0.09207745336927474,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#880": {
     "value": -0.09670194365084171,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#881": {
     "value": -0.19553280235268175,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#882": {
     "value": -0.15823484554886819,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#883": {
     "value": -0.1345933961868286,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#884": {
     "value": -0.1825632017850876,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#885": {
     "value": -0.03292051613330841,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#886": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#887": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#888": {
     "value": -0.08907031141221523,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#889": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#890": {
     "value": -0.17416095711290835,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#891": {
     "value": 0.12968185279518366,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#892": {
     "value": -0.3719438657164574,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#893": {
     "value": -0.17928735867142678,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#894": {
     "value": -0.25856187582015994,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#895": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#896": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#897": {
     "value": -0.30694223776459695,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#898": {
     "value": -0.09557187021709979,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#899": {
     "value": -0.16084390599746257,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#900": {
     "value": -0.03958769261837006,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#901": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#901a": {
     "value": -0.17488923355937003,
@@ -3761,55 +4662,68 @@
   },
   "#902": {
     "value": -0.09680567845702172,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#903": {
     "value": -0.310612036138773,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#904": {
     "value": -0.020782881528139115,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#905": {
     "value": -0.2080474045500159,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#906": {
     "value": -0.1588039654493332,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#907": {
     "value": 0.09147894881665707,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#908": {
     "value": 0.06919459514319896,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#909": {
     "value": 0.032237795516848564,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#910": {
     "value": -0.37215935945510864,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#911": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#912": {
     "value": -0.06229960083961487,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#913": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#914": {
     "value": -0.029121206998825075,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#914a": {
     "value": 0.0616585199534893,
@@ -3817,55 +4731,68 @@
   },
   "#915": {
     "value": -0.05091328218579292,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#916": {
     "value": -0.19874392300844193,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#917": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#918": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#919": {
     "value": -0.049534483999013904,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#920": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#921": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#922": {
     "value": -0.13352005427703262,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#923": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#924": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#925": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#926": {
     "value": 0.0561826016753912,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#927": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#927a": {
     "value": -0.153141351044178,
@@ -3873,111 +4800,138 @@
   },
   "#928": {
     "value": -0.20217704236507417,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#929": {
     "value": -0.07589079320430756,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#930": {
     "value": -0.2858208313584328,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#931": {
     "value": -0.25273024026304486,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#932": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#933": {
     "value": -0.06507184654474259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#934": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#935": {
     "value": 0.057526798844337465,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#936": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#937": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#938": {
     "value": 0.09961682628840209,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#939": {
     "value": -0.08520199239253998,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#940": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#941": {
     "value": 0.03582796882838011,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#942": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#943": {
     "value": 0.016552793979644775,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#944": {
     "value": -0.08976609045639634,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#945": {
     "value": -0.2698198077827692,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#946": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#947": {
     "value": 0.11077277537435293,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#948": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#949": {
     "value": 0.053005679491907355,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#950": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#951": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#952": {
     "value": -0.04212972218170762,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#953": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#954": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#954a": {
     "value": -0.17488923355937003,
@@ -3985,119 +4939,148 @@
   },
   "#955": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#956": {
     "value": -0.09876292079687118,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#957": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#958": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#959": {
     "value": 0.0485796482861042,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#960": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#961": {
     "value": 0.1121387624181807,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#962": {
     "value": -0.032126398980617525,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#963": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#964": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#965": {
     "value": -0.06357402654946781,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#966": {
     "value": -0.0199509609490633,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#967": {
     "value": -0.1706047984957695,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#968": {
     "value": -0.11122293144464493,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#969": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#970": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#971": {
     "value": -0.18370207875967026,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#972": {
     "value": 0.03713688895106316,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#973": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#974": {
     "value": 0.01080353895202279,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#975": {
     "value": -0.021846405826509,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#976": {
     "value": -0.15831079751253127,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#977": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#978": {
     "value": -0.07058732880279422,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#979": {
     "value": -0.11575748588889838,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#980": {
     "value": 0.16095312040299178,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS VI"
   },
   "#981": {
     "value": -0.021800166927278042,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#982": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#983": {
     "value": 0.005639516711235046,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#983a": {
     "value": -0.020029997229576112,
@@ -4105,70 +5088,87 @@
   },
   "#984": {
     "value": -0.1877810449153185,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#985": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#986": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#987": {
     "value": -0.09639748349785805,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#988": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#989": {
     "value": -0.09233791965991259,
-    "cluster": 3
+    "cluster": 3,
+    "original class": "CLASS VI"
   },
   "#990": {
     "value": -0.20355656549334525,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#991": {
     "value": -0.17363267987966538,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#992": {
     "value": 0.14777124255895616,
-    "cluster": 5
+    "cluster": 5,
+    "original class": "CLASS VI"
   },
   "#993": {
     "value": -0.010765763595700265,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   },
   "#994": {
     "value": 0.0737103995680809,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#995": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#996": {
     "value": -0.24214048661291598,
-    "cluster": 4
+    "cluster": 4,
+    "original class": "CLASS VI"
   },
   "#997": {
     "value": 0.0616585199534893,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#998": {
     "value": 0.03641867771744728,
-    "cluster": 0
+    "cluster": 0,
+    "original class": "CLASS VI"
   },
   "#999": {
     "value": -0.17488923355937003,
-    "cluster": 1
+    "cluster": 1,
+    "original class": "CLASS VI"
   },
   "#1000": {
     "value": -0.03128667147830129,
-    "cluster": 2
+    "cluster": 2,
+    "original class": "CLASS VI"
   }
 }

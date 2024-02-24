@@ -281,7 +281,8 @@ def modify_average_embeddings():
     for class_name, class_data in classes.items():
         for section_name, section_data in class_data['sections'].items():
                 for number in section_data['numbers']:
-                    average_embeddings[number] = { 'value': average_embeddings[key]['value'], 'cluster': average_embeddings[key]['cluster'], 'original class' : class_name}
+                    number = "#" + str(number)
+                    average_embeddings[number] = { 'value': average_embeddings[number]['value'], 'cluster': average_embeddings[number]['cluster'], 'original class' : class_name}
                         #average_embeddings[key] = {'value': value, 'cluster': clusters[i]}
                     
 
@@ -468,8 +469,7 @@ save_embedings_dictionary(embeddings)
 average_class_clusters(average_embeddings, 6)
 
 
-for key, value in list(average_embeddings.items())[:200]:
-    print(f"{key}: {value}")
+
 
 
 #this will generate new cluster classes
@@ -477,16 +477,17 @@ find_class_cluster_centers(hash_dict, average_embeddings)
 
 
 
+
+
+modify_average_embeddings()
+
+
+for key, value in list(average_embeddings.items())[:200]:
+    print(f"{key}: {value}")
+
+
+
 save_average_embeddings_dictionary()
-
-
-#modify_average_embeddings()
-
-
-
-
-
-
 
 
 
