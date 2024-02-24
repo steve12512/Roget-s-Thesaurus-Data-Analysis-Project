@@ -409,13 +409,41 @@ def find_section_cluster_centers(sections):
 
 
 
+def create_clusters_dictionary():
+    #this method will save our new clusters, along with their average word embeddings, their hash numbers, and their original meaning
+    clusters_dictionary = {}
+
+    for key, value in average_embeddings.items():
+        cluster_number = value.get('cluster', None)
+
+        if cluster_number is not None:
+            if cluster_number not in clusters_dictionary:
+                clusters_dictionary[cluster_number] = {}
+
+            clusters_dictionary[cluster_number][key] = {
+                'value': value['value'],
+                'original class': value.get('original class', None), 'word' : str(hash_dict[key])[1:10]
+            }
+
+    # Print the clusters_dictionary
+    for cluster_number, cluster_data in clusters_dictionary.items():
+        print(f"Cluster {cluster_number}:")
+        for key, data in cluster_data.items():
+
+            print(f"    {key}: {data}")
+        print()
+
+    return clusters_dictionary
 
 
 
+def save_clusters_dictionary(json_file_path='clusters_dictionary.json'):
+    # Convert keys to strings
+    clusters_dict_str_keys = {str(key): value for key, value in clusters_dictionary.items()}
 
-
-
-
+    # Save the clusters dictionary in JSON format
+    with open(json_file_path, 'w') as json_file:
+        json.dump(clusters_dict_str_keys, json_file, indent=2)
 
 
 
@@ -482,12 +510,21 @@ find_class_cluster_centers(hash_dict, average_embeddings)
 modify_average_embeddings()
 
 
-for key, value in list(average_embeddings.items())[:200]:
-    print(f"{key}: {value}")
+#for key, value in list(average_embeddings.items())[:200]:
+ #   print(f"{key}: {value}")
 
 
 
 save_average_embeddings_dictionary()
+
+
+#create a dictionary that stores our new class clusters and the embeddings of the words within them, their hash number, and their original meaning
+clusters_dictionary = create_clusters_dictionary()
+
+#then save that in a json file as well
+save_clusters_dictionary()
+
+
 
 
 

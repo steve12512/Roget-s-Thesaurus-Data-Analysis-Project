@@ -1,0 +1,5229 @@
+{
+  "1": {
+    "#1": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Existenc"
+    },
+    "#2": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Inexiste"
+    },
+    "#3": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Substant"
+    },
+    "#4": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Unsubsta"
+    },
+    "#5": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Intrinsi"
+    },
+    "#8": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Circumst"
+    },
+    "#9": {
+      "value": -0.21769467294216155,
+      "original class": "CLASS I",
+      "word": "'Relation"
+    },
+    "#10": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Want, o"
+    },
+    "#11": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"[Relatio"
+    },
+    "#14": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Noncoin"
+    },
+    "#15": {
+      "value": -0.14859573098365217,
+      "original class": "CLASS I",
+      "word": "'Differen"
+    },
+    "#16a": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'[Absence"
+    },
+    "#18": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Dissimil"
+    },
+    "#19": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "\"Imitatio"
+    },
+    "#23": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Agreemen"
+    },
+    "#27": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'[Samenes"
+    },
+    "#29": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Mean.\u03b2\u20ac\u201d"
+    },
+    "#30": {
+      "value": -0.14501375913619996,
+      "original class": "CLASS I",
+      "word": "'Compensa"
+    },
+    "#31": {
+      "value": -0.15621131896972656,
+      "original class": "CLASS I",
+      "word": "'Greatnes"
+    },
+    "#33": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "\"Superior"
+    },
+    "#36": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Nonincre"
+    },
+    "#37": {
+      "value": -0.22142552018165587,
+      "original class": "CLASS I",
+      "word": "'Addition"
+    },
+    "#38": {
+      "value": -0.14658656496554612,
+      "original class": "CLASS I",
+      "word": "\"Nonaddit"
+    },
+    "#39": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Thing a"
+    },
+    "#40a": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'[Thing d"
+    },
+    "#44": {
+      "value": -0.17501243542879819,
+      "original class": "CLASS I",
+      "word": "'Disjunct"
+    },
+    "#45": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS I",
+      "word": "'[Connect"
+    },
+    "#53": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Incomple"
+    },
+    "#57": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Extraneo"
+    },
+    "#58": {
+      "value": -0.2231397760566324,
+      "original class": "CLASS I",
+      "word": "'Order.\u03b2\u20ac"
+    },
+    "#70": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Interru"
+    },
+    "#74": {
+      "value": -0.18564784079790114,
+      "original class": "CLASS I",
+      "word": "'[Place o"
+    },
+    "#76": {
+      "value": -0.22059799671173097,
+      "original class": "CLASS I",
+      "word": "'Inclusio"
+    },
+    "#81": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Multifor"
+    },
+    "#82": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS I",
+      "word": "'Conformi"
+    },
+    "#83": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Unconfor"
+    },
+    "#85": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Numerati"
+    },
+    "#92": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Triality"
+    },
+    "#94": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Divisio"
+    },
+    "#98": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Five, &c"
+    },
+    "#99": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Quinques"
+    },
+    "#100": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'[More th"
+    },
+    "#103": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Fewness."
+    },
+    "#106": {
+      "value": -0.1667794757336378,
+      "original class": "CLASS I",
+      "word": "'Time.\u03b2\u20ac\u201d"
+    },
+    "#107": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Nevernes"
+    },
+    "#109": {
+      "value": -0.1602786998215015,
+      "original class": "CLASS I",
+      "word": "'[Indefin"
+    },
+    "#110": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"[Long du"
+    },
+    "#111": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"[Short d"
+    },
+    "#112": {
+      "value": -0.18461400106549264,
+      "original class": "CLASS I",
+      "word": "'[Endless"
+    },
+    "#113": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'[Point o"
+    },
+    "#114": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"[Estimat"
+    },
+    "#116": {
+      "value": -0.19149010078981518,
+      "original class": "CLASS I",
+      "word": "'Priority"
+    },
+    "#117": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Posterio"
+    },
+    "#118": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'The Pres"
+    },
+    "#120": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Synchron"
+    },
+    "#122": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS I",
+      "word": "'[Retrosp"
+    },
+    "#124": {
+      "value": -0.19765592446550728,
+      "original class": "CLASS I",
+      "word": "'Oldness."
+    },
+    "#132": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Earlines"
+    },
+    "#132a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Punctual"
+    },
+    "#133": {
+      "value": -0.18523883670568467,
+      "original class": "CLASS I",
+      "word": "'Lateness"
+    },
+    "#137": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Infreque"
+    },
+    "#138": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Regulari"
+    },
+    "#139": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Irregula"
+    },
+    "#140": {
+      "value": -0.19792899698019029,
+      "original class": "CLASS I",
+      "word": "'[Differe"
+    },
+    "#143": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "\"Continua"
+    },
+    "#149": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Changeab"
+    },
+    "#150": {
+      "value": -0.16927592545747758,
+      "original class": "CLASS I",
+      "word": "\"Stabilit"
+    },
+    "#167": {
+      "value": -0.17826935987919568,
+      "original class": "CLASS I",
+      "word": "'Posterit"
+    },
+    "#169": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Unproduc"
+    },
+    "#171": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS I",
+      "word": "'Physical"
+    },
+    "#174": {
+      "value": -0.15500702736899258,
+      "original class": "CLASS I",
+      "word": "'Moderati"
+    },
+    "#175": {
+      "value": -0.16195691585540772,
+      "original class": "CLASS I",
+      "word": "\"Influenc"
+    },
+    "#179": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS I",
+      "word": "'Countera"
+    },
+    "#180a": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'Inextens"
+    },
+    "#182": {
+      "value": -0.2338026359677315,
+      "original class": "CLASS II",
+      "word": "'[Limited"
+    },
+    "#184": {
+      "value": -0.21044912330806256,
+      "original class": "CLASS II",
+      "word": "'Location"
+    },
+    "#186": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'Presence"
+    },
+    "#187": {
+      "value": -0.23396440148353576,
+      "original class": "CLASS II",
+      "word": "'[Nullibi"
+    },
+    "#190": {
+      "value": -0.21847099915146828,
+      "original class": "CLASS II",
+      "word": "'[Things "
+    },
+    "#193": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"Littlene"
+    },
+    "#207": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Lowness."
+    },
+    "#210": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'Summit.\u03b2"
+    },
+    "#213": {
+      "value": -0.20148876257240772,
+      "original class": "CLASS II",
+      "word": "'Horizont"
+    },
+    "#214": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Pendency"
+    },
+    "#217": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Obliquit"
+    },
+    "#221": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"Interior"
+    },
+    "#223": {
+      "value": -0.1977367689460516,
+      "original class": "CLASS II",
+      "word": "\"Covering"
+    },
+    "#226": {
+      "value": -0.18649372551590204,
+      "original class": "CLASS II",
+      "word": "\"Divestme"
+    },
+    "#227": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Circumja"
+    },
+    "#228": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"Interpos"
+    },
+    "#229": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Circumsc"
+    },
+    "#232": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'Inclosur"
+    },
+    "#233": {
+      "value": -0.1458612386882305,
+      "original class": "CLASS II",
+      "word": "'Limit.\u03b2\u20ac"
+    },
+    "#234": {
+      "value": -0.18783031962811947,
+      "original class": "CLASS II",
+      "word": "'Front.\u03b2\u20ac"
+    },
+    "#235": {
+      "value": -0.147082557156682,
+      "original class": "CLASS II",
+      "word": "'Rear.\u03b2\u20ac\u201d"
+    },
+    "#236": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'Laterali"
+    },
+    "#244": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Angulari"
+    },
+    "#247": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'[Simple "
+    },
+    "#248": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'[Complex"
+    },
+    "#249": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Rotundit"
+    },
+    "#250": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"Convexit"
+    },
+    "#260": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'Opening\u03b2"
+    },
+    "#262": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Perforat"
+    },
+    "#265": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'Quiescen"
+    },
+    "#273": {
+      "value": -0.22447011902928352,
+      "original class": "CLASS II",
+      "word": "'Ship.\u03b2\u20ac\u201d"
+    },
+    "#277": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'Recoil.\u03b2"
+    },
+    "#280": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'[Going b"
+    },
+    "#286": {
+      "value": -0.17888608671724796,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#287": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#288": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#289": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#292": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'[Termina"
+    },
+    "#294": {
+      "value": -0.14787962773814797,
+      "original class": "CLASS II",
+      "word": "\"[Motion "
+    },
+    "#296": {
+      "value": -0.14526383966207504,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#297": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"[Motion "
+    },
+    "#299": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'Excretio"
+    },
+    "#302": {
+      "value": -0.23338787879794837,
+      "original class": "CLASS II",
+      "word": "\"[Motion "
+    },
+    "#303": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#304": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'[motion "
+    },
+    "#306": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#309": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS II",
+      "word": "'Leap.\u03b2\u20ac\u201d"
+    },
+    "#310": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS II",
+      "word": "'Plunge\u03b2\u20ac"
+    },
+    "#311": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "'[Curvili"
+    },
+    "#315": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS II",
+      "word": "\"[Irregul"
+    },
+    "#318": {
+      "value": -0.1715644432604313,
+      "original class": "CLASS III",
+      "word": "'World.\u03b2\u20ac"
+    },
+    "#320": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Levity.\u03b2"
+    },
+    "#322": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Rarity.\u03b2"
+    },
+    "#325": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Elastici"
+    },
+    "#328": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Brittlen"
+    },
+    "#330": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Pulverul"
+    },
+    "#335": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Liquefac"
+    },
+    "#339": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Moisture"
+    },
+    "#343": {
+      "value": -0.16784380495548248,
+      "original class": "CLASS III",
+      "word": "'Gulf. La"
+    },
+    "#345": {
+      "value": -0.18622511819005014,
+      "original class": "CLASS III",
+      "word": "'Marsh.\u03b2\u20ac"
+    },
+    "#347": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'[Fluid i"
+    },
+    "#349": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Air in "
+    },
+    "#350": {
+      "value": -0.13428696006536484,
+      "original class": "CLASS III",
+      "word": "'[Channel"
+    },
+    "#351": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Channel"
+    },
+    "#352": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Semiliqu"
+    },
+    "#357": {
+      "value": -0.2110377139225602,
+      "original class": "CLASS III",
+      "word": "'Organiza"
+    },
+    "#359": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Life.\u03b2\u20ac\u201d"
+    },
+    "#363": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Intermen"
+    },
+    "#371": {
+      "value": -0.22987515598535538,
+      "original class": "CLASS III",
+      "word": "'[The eco"
+    },
+    "#373": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Man.\u03b2\u20ac\u201dN"
+    },
+    "#374": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Woman.\u03b2\u20ac"
+    },
+    "#375": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Physical"
+    },
+    "#376": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Physical"
+    },
+    "#377": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "\"Physical"
+    },
+    "#378": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Physical"
+    },
+    "#379": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Sensati"
+    },
+    "#384": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Calefact"
+    },
+    "#388a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Insulati"
+    },
+    "#392": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Pungency"
+    },
+    "#392a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Saltines"
+    },
+    "#393": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Condimen"
+    },
+    "#395": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Unsavori"
+    },
+    "#396": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Sweetnes"
+    },
+    "#397": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Sourness"
+    },
+    "#400": {
+      "value": -0.16905924335122108,
+      "original class": "CLASS III",
+      "word": "'Fragranc"
+    },
+    "#401": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Fetor.\u03b2\u20ac"
+    },
+    "#405": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Faintnes"
+    },
+    "#410": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Harsh s"
+    },
+    "#412": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Animal "
+    },
+    "#417": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "\"Musical "
+    },
+    "#419": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Deafness"
+    },
+    "#423": {
+      "value": -0.13515982931945472,
+      "original class": "CLASS III",
+      "word": "'[Source "
+    },
+    "#424": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Shade.\u03b2\u20ac"
+    },
+    "#425": {
+      "value": -0.2317647933959961,
+      "original class": "CLASS III",
+      "word": "'Transpar"
+    },
+    "#427": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Semitran"
+    },
+    "#429": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Absence"
+    },
+    "#432": {
+      "value": -0.1726674784719944,
+      "original class": "CLASS III",
+      "word": "\"Gray.\u03b2\u20ac\u201d"
+    },
+    "#433": {
+      "value": -0.1937148803472519,
+      "original class": "CLASS III",
+      "word": "'Brown.\u03b2\u20ac"
+    },
+    "#435": {
+      "value": -0.1755587178468704,
+      "original class": "CLASS III",
+      "word": "'Greennes"
+    },
+    "#436": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "\"Yellowne"
+    },
+    "#440": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "\"Variegat"
+    },
+    "#443": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'[Imperfe"
+    },
+    "#444": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS III",
+      "word": "'Spectato"
+    },
+    "#445": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS III",
+      "word": "'Optical "
+    },
+    "#447": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS III",
+      "word": "'Invisibi"
+    },
+    "#448": {
+      "value": -0.1821450400352478,
+      "original class": "CLASS III",
+      "word": "\"Appearan"
+    },
+    "#450a": {
+      "value": -0.2080474045500159,
+      "original class": null,
+      "word": "'Absence "
+    },
+    "#452": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'[Absence"
+    },
+    "#456": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "\"[Absence"
+    },
+    "#458": {
+      "value": -0.144337477684021,
+      "original class": "CLASS IV",
+      "word": "\"Inattent"
+    },
+    "#460": {
+      "value": -0.19158223360776902,
+      "original class": "CLASS IV",
+      "word": "\"Neglect."
+    },
+    "#464": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Comparis"
+    },
+    "#465": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'[results"
+    },
+    "#465a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'[results"
+    },
+    "#465b": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'[results"
+    },
+    "#467": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS IV",
+      "word": "\"Evidence"
+    },
+    "#468": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'[Evidenc"
+    },
+    "#469": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Qualific"
+    },
+    "#470": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Possibil"
+    },
+    "#473": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Improbab"
+    },
+    "#475": {
+      "value": -0.1486656016111374,
+      "original class": "CLASS IV",
+      "word": "\"Uncertai"
+    },
+    "#479": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Confutat"
+    },
+    "#481": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Misjudgm"
+    },
+    "#482": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Overesti"
+    },
+    "#483": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "\"Underest"
+    },
+    "#488": {
+      "value": -0.17119400868192314,
+      "original class": "CLASS IV",
+      "word": "'Assent.\u03b2"
+    },
+    "#489": {
+      "value": -0.16523125100880862,
+      "original class": "CLASS IV",
+      "word": "'Dissent."
+    },
+    "#493": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Ignoramu"
+    },
+    "#500": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Sage\u03b2\u20ac\u201dN"
+    },
+    "#508": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Inexpect"
+    },
+    "#512": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Omen.\u03b2\u20ac\u201d"
+    },
+    "#517": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'[Absence"
+    },
+    "#518": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Intellig"
+    },
+    "#519": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "\"Unintell"
+    },
+    "#520": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'[Having "
+    },
+    "#521": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Metaphor"
+    },
+    "#527": {
+      "value": -0.18012143030762673,
+      "original class": "CLASS IV",
+      "word": "\"Informat"
+    },
+    "#527a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Correcti"
+    },
+    "#529": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS IV",
+      "word": "\"Disclosu"
+    },
+    "#531": {
+      "value": -0.21387999951839448,
+      "original class": "CLASS IV",
+      "word": "'Publicat"
+    },
+    "#538": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Misteach"
+    },
+    "#539": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS IV",
+      "word": "'Learning"
+    },
+    "#540": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Teacher."
+    },
+    "#541": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Learner."
+    },
+    "#544": {
+      "value": -0.13656207345426083,
+      "original class": "CLASS IV",
+      "word": "'Falsehoo"
+    },
+    "#547": {
+      "value": -0.19959967836737633,
+      "original class": "CLASS IV",
+      "word": "\"Dupe.\u03b2\u20ac\u201d"
+    },
+    "#552": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'[Suppres"
+    },
+    "#554": {
+      "value": -0.182390243858099,
+      "original class": "CLASS IV",
+      "word": "'Represen"
+    },
+    "#557": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Sculptur"
+    },
+    "#562": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Word.\u03b2\u20ac\u201d"
+    },
+    "#568": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "\"Solecism"
+    },
+    "#570": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Perspicu"
+    },
+    "#572": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Concisen"
+    },
+    "#573": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Diffusen"
+    },
+    "#574": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS IV",
+      "word": "'Vigor.\u03b2\u20ac"
+    },
+    "#575": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Feeblene"
+    },
+    "#578": {
+      "value": -0.14511416509747505,
+      "original class": "CLASS IV",
+      "word": "'Elegance"
+    },
+    "#579": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Inelegan"
+    },
+    "#581": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Aphony.\u03b2"
+    },
+    "#582": {
+      "value": -0.15742364943027495,
+      "original class": "CLASS IV",
+      "word": "'Speech.\u03b2"
+    },
+    "#584": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'Loquacit"
+    },
+    "#585": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "\"Taciturn"
+    },
+    "#590": {
+      "value": -0.13645159870386123,
+      "original class": "CLASS IV",
+      "word": "'Writing."
+    },
+    "#591": {
+      "value": -0.23088935699313878,
+      "original class": "CLASS IV",
+      "word": "\"Printing"
+    },
+    "#592": {
+      "value": -0.1553376790881157,
+      "original class": "CLASS IV",
+      "word": "'Correspo"
+    },
+    "#594": {
+      "value": -0.17391387820243837,
+      "original class": "CLASS IV",
+      "word": "\"Descript"
+    },
+    "#599": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS IV",
+      "word": "'The Dram"
+    },
+    "#602": {
+      "value": -0.18943060550838708,
+      "original class": "CLASS V",
+      "word": "\"Willingn"
+    },
+    "#605": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Irresolu"
+    },
+    "#607": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Tergiver"
+    },
+    "#608": {
+      "value": -0.17211843609809876,
+      "original class": "CLASS V",
+      "word": "\"Caprice."
+    },
+    "#609a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "\"Absence "
+    },
+    "#611": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Predeter"
+    },
+    "#614": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Desuetud"
+    },
+    "#616": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Dissuasi"
+    },
+    "#617": {
+      "value": -0.18902756437659263,
+      "original class": "CLASS V",
+      "word": "\"[Ostensi"
+    },
+    "#618": {
+      "value": -0.14103611923754214,
+      "original class": "CLASS V",
+      "word": "'Good.\u03b2\u20ac\u201d"
+    },
+    "#619": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Evil.\u03b2\u20ac\u201d"
+    },
+    "#622": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS V",
+      "word": "\"[Purpose"
+    },
+    "#624": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Relinqui"
+    },
+    "#628": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Mid-cour"
+    },
+    "#630": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Requirem"
+    },
+    "#631": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Instrume"
+    },
+    "#632": {
+      "value": -0.1652129167318344,
+      "original class": "CLASS V",
+      "word": "\"Means.\u03b2\u20ac"
+    },
+    "#636": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Store.\u03b2\u20ac"
+    },
+    "#642": {
+      "value": -0.1962878867983818,
+      "original class": "CLASS V",
+      "word": "'Importan"
+    },
+    "#645": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Inutilit"
+    },
+    "#646": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'[Specifi"
+    },
+    "#647": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Inexpedi"
+    },
+    "#649": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'[Capabil"
+    },
+    "#653": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Uncleann"
+    },
+    "#654": {
+      "value": -0.1969645419344306,
+      "original class": "CLASS V",
+      "word": "'Health.\u03b2"
+    },
+    "#657": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Insalubr"
+    },
+    "#658": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Improvem"
+    },
+    "#661": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS V",
+      "word": "'Relapse."
+    },
+    "#666": {
+      "value": -0.1392342445254326,
+      "original class": "CLASS V",
+      "word": "'[Means o"
+    },
+    "#674": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Nonprepa"
+    },
+    "#676": {
+      "value": -0.1712564018368721,
+      "original class": "CLASS V",
+      "word": "\"Undertak"
+    },
+    "#677": {
+      "value": -0.15679291427135467,
+      "original class": "CLASS V",
+      "word": "\"Use.\u03b2\u20ac\u201dN"
+    },
+    "#679": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Misuse.\u03b2"
+    },
+    "#685": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Leisure."
+    },
+    "#687": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Repose.\u03b2"
+    },
+    "#690": {
+      "value": -0.17023785054683685,
+      "original class": "CLASS V",
+      "word": "'Agent.\u03b2\u20ac"
+    },
+    "#691": {
+      "value": -0.14918928503990173,
+      "original class": "CLASS V",
+      "word": "'Workshop"
+    },
+    "#692": {
+      "value": -0.1703110034763813,
+      "original class": "CLASS V",
+      "word": "\"Conduct."
+    },
+    "#695": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Advice.\u03b2"
+    },
+    "#699": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Unskillf"
+    },
+    "#700": {
+      "value": -0.17351576298475266,
+      "original class": "CLASS V",
+      "word": "'Proficie"
+    },
+    "#701": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Bungler."
+    },
+    "#703": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Artlessn"
+    },
+    "#707": {
+      "value": -0.17037599980831147,
+      "original class": "CLASS V",
+      "word": "'Aid.\u03b2\u20ac\u201dN"
+    },
+    "#708": {
+      "value": -0.23440596245229245,
+      "original class": "CLASS V",
+      "word": "\"Oppositi"
+    },
+    "#712": {
+      "value": -0.16276908546220512,
+      "original class": "CLASS V",
+      "word": "'Party.\u03b2\u20ac"
+    },
+    "#715": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Defiance"
+    },
+    "#716": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Attack.\u03b2"
+    },
+    "#721": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Peace.\u03b2\u20ac"
+    },
+    "#723": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Pacifica"
+    },
+    "#724": {
+      "value": -0.21118363976478577,
+      "original class": "CLASS V",
+      "word": "'Mediatio"
+    },
+    "#727": {
+      "value": -0.17203487783670426,
+      "original class": "CLASS V",
+      "word": "'Arms.\u03b2\u20ac\u201d"
+    },
+    "#731": {
+      "value": -0.1639936975762248,
+      "original class": "CLASS V",
+      "word": "'Success."
+    },
+    "#733": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Trophy.\u03b2"
+    },
+    "#736": {
+      "value": -0.2124241989850998,
+      "original class": "CLASS V",
+      "word": "'Mediocri"
+    },
+    "#737": {
+      "value": -0.18814616598188877,
+      "original class": "CLASS V",
+      "word": "'Authorit"
+    },
+    "#738": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"[Absence"
+    },
+    "#740": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Lenity.\u03b2"
+    },
+    "#748": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Freedom."
+    },
+    "#749": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Subjecti"
+    },
+    "#751": {
+      "value": -0.13829460352659226,
+      "original class": "CLASS V",
+      "word": "'Restrain"
+    },
+    "#757": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Resignat"
+    },
+    "#758": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Consigne"
+    },
+    "#762": {
+      "value": -0.18630811646580697,
+      "original class": "CLASS V",
+      "word": "\"Consent."
+    },
+    "#764": {
+      "value": -0.1411249203979969,
+      "original class": "CLASS V",
+      "word": "\"Refusal."
+    },
+    "#765": {
+      "value": -0.16271856999024747,
+      "original class": "CLASS V",
+      "word": "\"Request."
+    },
+    "#766": {
+      "value": -0.17139359354972838,
+      "original class": "CLASS V",
+      "word": "'[Negativ"
+    },
+    "#768": {
+      "value": -0.1376758388057351,
+      "original class": "CLASS V",
+      "word": "\"Promise."
+    },
+    "#769": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Compact."
+    },
+    "#771": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Security"
+    },
+    "#774": {
+      "value": -0.18284299954771996,
+      "original class": "CLASS V",
+      "word": "'Compromi"
+    },
+    "#779": {
+      "value": -0.2047975603491068,
+      "original class": "CLASS V",
+      "word": "'Possesso"
+    },
+    "#781": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Retentio"
+    },
+    "#782": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "\"Relinqui"
+    },
+    "#783": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Transfer"
+    },
+    "#784": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Giving.\u03b2"
+    },
+    "#785": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS V",
+      "word": "'Receivin"
+    },
+    "#788": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS V",
+      "word": "'Borrowin"
+    },
+    "#789": {
+      "value": -0.21271128844469786,
+      "original class": "CLASS V",
+      "word": "\"Taking.\u03b2"
+    },
+    "#790": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Restitut"
+    },
+    "#791": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Stealing"
+    },
+    "#794": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Barter.\u03b2"
+    },
+    "#795": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Purchase"
+    },
+    "#796": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Sale.\u03b2\u20ac\u201d"
+    },
+    "#797": {
+      "value": -0.22105508148670197,
+      "original class": "CLASS V",
+      "word": "'Merchant"
+    },
+    "#799": {
+      "value": -0.1478034797310829,
+      "original class": "CLASS V",
+      "word": "\"Mart.\u03b2\u20ac\u201d"
+    },
+    "#799a": {
+      "value": -0.2080474045500159,
+      "original class": null,
+      "word": "'Stock Ma"
+    },
+    "#801": {
+      "value": -0.19539182929322124,
+      "original class": "CLASS V",
+      "word": "'Treasure"
+    },
+    "#806": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Debt.\u03b2\u20ac\u201d"
+    },
+    "#807": {
+      "value": -0.14824341325089335,
+      "original class": "CLASS V",
+      "word": "\"Payment."
+    },
+    "#809": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Expendit"
+    },
+    "#812": {
+      "value": -0.2118950815498829,
+      "original class": "CLASS V",
+      "word": "\"Price.\u03b2\u20ac"
+    },
+    "#812a": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Value [i"
+    },
+    "#812b": {
+      "value": -0.17363267987966538,
+      "original class": null,
+      "word": "'Worthles"
+    },
+    "#814": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Dearness"
+    },
+    "#816": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Liberali"
+    },
+    "#817": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS V",
+      "word": "'Economy."
+    },
+    "#818": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Prodigal"
+    },
+    "#819": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS V",
+      "word": "'Parsimon"
+    },
+    "#823": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Insensib"
+    },
+    "#826": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'[Absence"
+    },
+    "#829": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'[Capabil"
+    },
+    "#830": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'[Capabil"
+    },
+    "#833": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Regret.\u03b2"
+    },
+    "#834": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Relief.\u03b2"
+    },
+    "#838": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'[Express"
+    },
+    "#843": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Dullness"
+    },
+    "#845": {
+      "value": -0.19731468200683594,
+      "original class": "CLASS VI",
+      "word": "'Beauty.\u03b2"
+    },
+    "#847a": {
+      "value": -0.22730927899479866,
+      "original class": null,
+      "word": "\"Jewelry\u03b2"
+    },
+    "#849": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Simplici"
+    },
+    "#850": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'[Good ta"
+    },
+    "#855": {
+      "value": -0.20082441210746765,
+      "original class": "CLASS VI",
+      "word": "'Affectat"
+    },
+    "#857": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'[Object "
+    },
+    "#858": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS VI",
+      "word": "'Hope.\u03b2\u20ac\u201d"
+    },
+    "#861": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "\"[Absence"
+    },
+    "#863": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Rashness"
+    },
+    "#867": {
+      "value": -0.153392276763916,
+      "original class": "CLASS VI",
+      "word": "\"Dislike."
+    },
+    "#868": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Fastidio"
+    },
+    "#869": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Satiety."
+    },
+    "#876": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Commonal"
+    },
+    "#881": {
+      "value": -0.19553280235268175,
+      "original class": "CLASS VI",
+      "word": "'Modesty."
+    },
+    "#882": {
+      "value": -0.15823484554886819,
+      "original class": "CLASS VI",
+      "word": "\"Ostentat"
+    },
+    "#883": {
+      "value": -0.1345933961868286,
+      "original class": "CLASS VI",
+      "word": "'Celebrat"
+    },
+    "#884": {
+      "value": -0.1825632017850876,
+      "original class": "CLASS VI",
+      "word": "'Boasting"
+    },
+    "#886": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Servilit"
+    },
+    "#887": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Blustere"
+    },
+    "#890": {
+      "value": -0.17416095711290835,
+      "original class": "CLASS VI",
+      "word": "'Friend.\u03b2"
+    },
+    "#893": {
+      "value": -0.17928735867142678,
+      "original class": "CLASS VI",
+      "word": "'Seclusio"
+    },
+    "#895": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Discourt"
+    },
+    "#896": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Congratu"
+    },
+    "#899": {
+      "value": -0.16084390599746257,
+      "original class": "CLASS VI",
+      "word": "'Favorite"
+    },
+    "#901": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Irascibi"
+    },
+    "#901a": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'Sullenne"
+    },
+    "#905": {
+      "value": -0.2080474045500159,
+      "original class": "CLASS VI",
+      "word": "'Divorce."
+    },
+    "#906": {
+      "value": -0.1588039654493332,
+      "original class": "CLASS VI",
+      "word": "'Benevole"
+    },
+    "#913": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'[Malefic"
+    },
+    "#916": {
+      "value": -0.19874392300844193,
+      "original class": "CLASS VI",
+      "word": "\"Gratitud"
+    },
+    "#917": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Ingratit"
+    },
+    "#918": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Forgiven"
+    },
+    "#921": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Envy.\u03b2\u20ac\u201d"
+    },
+    "#923": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Wrong.\u03b2\u20ac"
+    },
+    "#924": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Dueness."
+    },
+    "#925": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'[Absence"
+    },
+    "#927": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Derelict"
+    },
+    "#927a": {
+      "value": -0.153141351044178,
+      "original class": null,
+      "word": "'Exemptio"
+    },
+    "#928": {
+      "value": -0.20217704236507417,
+      "original class": "CLASS VI",
+      "word": "'Respect."
+    },
+    "#932": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Disappro"
+    },
+    "#934": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Detracti"
+    },
+    "#937": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Vindicat"
+    },
+    "#940": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Improbit"
+    },
+    "#942": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Disinter"
+    },
+    "#946": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Innocenc"
+    },
+    "#948": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Good Man"
+    },
+    "#950": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Penitenc"
+    },
+    "#953": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Temperan"
+    },
+    "#954": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Intemper"
+    },
+    "#954a": {
+      "value": -0.17488923355937003,
+      "original class": null,
+      "word": "'Sensuali"
+    },
+    "#957": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Gluttony"
+    },
+    "#960": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Purity.\u03b2"
+    },
+    "#963": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Legality"
+    },
+    "#967": {
+      "value": -0.1706047984957695,
+      "original class": "CLASS VI",
+      "word": "'Judge.\u03b2\u20ac"
+    },
+    "#969": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Lawsuit."
+    },
+    "#970": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Acquitta"
+    },
+    "#971": {
+      "value": -0.18370207875967026,
+      "original class": "CLASS VI",
+      "word": "'Condemna"
+    },
+    "#973": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Reward.\u03b2"
+    },
+    "#976": {
+      "value": -0.15831079751253127,
+      "original class": "CLASS VI",
+      "word": "'Deity.\u03b2\u20ac"
+    },
+    "#982": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Hell.\u03b2\u20ac\u201d"
+    },
+    "#984": {
+      "value": -0.1877810449153185,
+      "original class": "CLASS VI",
+      "word": "'Heterodo"
+    },
+    "#985": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Judeo-Ch"
+    },
+    "#986": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Pseudo-R"
+    },
+    "#988": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "'Impiety."
+    },
+    "#990": {
+      "value": -0.20355656549334525,
+      "original class": "CLASS VI",
+      "word": "'Worship."
+    },
+    "#991": {
+      "value": -0.17363267987966538,
+      "original class": "CLASS VI",
+      "word": "'Idolatry"
+    },
+    "#995": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Churchdo"
+    },
+    "#999": {
+      "value": -0.17488923355937003,
+      "original class": "CLASS VI",
+      "word": "\"Canonica"
+    }
+  },
+  "2": {
+    "#6": {
+      "value": -0.03680612027645111,
+      "original class": "CLASS I",
+      "word": "'Extrinsi"
+    },
+    "#12": {
+      "value": -0.027167882919311524,
+      "original class": "CLASS I",
+      "word": "'[Double "
+    },
+    "#13": {
+      "value": -0.03799639835953712,
+      "original class": "CLASS I",
+      "word": "'Identity"
+    },
+    "#17": {
+      "value": 0.01108895868062973,
+      "original class": "CLASS I",
+      "word": "\"Similari"
+    },
+    "#22": {
+      "value": -0.006355521678924561,
+      "original class": "CLASS I",
+      "word": "'[Thing c"
+    },
+    "#46": {
+      "value": -0.01338553979061544,
+      "original class": "CLASS I",
+      "word": "\"Coherenc"
+    },
+    "#49": {
+      "value": -0.030957518592476845,
+      "original class": "CLASS I",
+      "word": "'Decompos"
+    },
+    "#50": {
+      "value": -0.04237268567085266,
+      "original class": "CLASS I",
+      "word": "'Whole. ["
+    },
+    "#54": {
+      "value": 0.009621841683983803,
+      "original class": "CLASS I",
+      "word": "'Composit"
+    },
+    "#55": {
+      "value": -0.001965402662754059,
+      "original class": "CLASS I",
+      "word": "'Exclusio"
+    },
+    "#60": {
+      "value": -0.05158320352435112,
+      "original class": "CLASS I",
+      "word": "'[Reducti"
+    },
+    "#75": {
+      "value": -0.03813228309154511,
+      "original class": "CLASS I",
+      "word": "'Class.\u03b2\u20ac"
+    },
+    "#77": {
+      "value": -0.001965402662754059,
+      "original class": "CLASS I",
+      "word": "'Exclusio"
+    },
+    "#87": {
+      "value": -0.02407123719342053,
+      "original class": "CLASS I",
+      "word": "'{opp. 10"
+    },
+    "#88": {
+      "value": -0.04342914061620831,
+      "original class": "CLASS I",
+      "word": "'Accompan"
+    },
+    "#90": {
+      "value": -0.002706168442964554,
+      "original class": "CLASS I",
+      "word": "'Duplicat"
+    },
+    "#100a": {
+      "value": -0.035486641377210616,
+      "original class": null,
+      "word": "'[Less th"
+    },
+    "#123": {
+      "value": -0.001012161672115326,
+      "original class": "CLASS I",
+      "word": "'Newness."
+    },
+    "#129": {
+      "value": -0.03097035065293312,
+      "original class": "CLASS I",
+      "word": "\"Infant.\u03b2"
+    },
+    "#145": {
+      "value": -0.049027026956900956,
+      "original class": "CLASS I",
+      "word": "'Reversio"
+    },
+    "#152": {
+      "value": -0.035518878698349,
+      "original class": "CLASS I",
+      "word": "\"Destiny."
+    },
+    "#157": {
+      "value": -0.0012609239667654038,
+      "original class": "CLASS I",
+      "word": "\"Power.\u03b2\u20ac"
+    },
+    "#162": {
+      "value": -0.007491919994354248,
+      "original class": "CLASS I",
+      "word": "\"[Nonprod"
+    },
+    "#164": {
+      "value": -0.05118051864206791,
+      "original class": "CLASS I",
+      "word": "'Producer"
+    },
+    "#170": {
+      "value": -0.030626762360334396,
+      "original class": "CLASS I",
+      "word": "'Agency.\u03b2"
+    },
+    "#176": {
+      "value": 0.005209203362464904,
+      "original class": "CLASS I",
+      "word": "'Tendency"
+    },
+    "#180": {
+      "value": 0.010105226412415505,
+      "original class": "CLASS II",
+      "word": "'[Indefin"
+    },
+    "#196": {
+      "value": -0.010220637135207654,
+      "original class": "CLASS II",
+      "word": "'Distance"
+    },
+    "#197": {
+      "value": 0.023750121742486953,
+      "original class": "CLASS II",
+      "word": "\"Nearness"
+    },
+    "#206": {
+      "value": -0.04564077751711011,
+      "original class": "CLASS II",
+      "word": "\"Height.\u03b2"
+    },
+    "#220": {
+      "value": -0.024160880371928217,
+      "original class": "CLASS II",
+      "word": "'Exterior"
+    },
+    "#230": {
+      "value": 0.019849804043769837,
+      "original class": "CLASS II",
+      "word": "'Outline."
+    },
+    "#263": {
+      "value": -0.014738197922706604,
+      "original class": "CLASS II",
+      "word": "'Stopper."
+    },
+    "#268": {
+      "value": -0.00015631943941116333,
+      "original class": "CLASS II",
+      "word": "'Traveler"
+    },
+    "#269": {
+      "value": -0.015011925846338273,
+      "original class": "CLASS II",
+      "word": "\"Mariner."
+    },
+    "#271": {
+      "value": -0.04336873609572649,
+      "original class": "CLASS II",
+      "word": "'Carrier."
+    },
+    "#275": {
+      "value": -0.025896680653095246,
+      "original class": "CLASS II",
+      "word": "\"Slowness"
+    },
+    "#276": {
+      "value": -0.05114412786439061,
+      "original class": "CLASS II",
+      "word": "'Impulse."
+    },
+    "#282": {
+      "value": -0.03512919843196869,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#291": {
+      "value": -0.0015099918469786643,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#295": {
+      "value": -0.027831953167915344,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#313": {
+      "value": -0.0007755991816520691,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#314": {
+      "value": 0.0014283883571624756,
+      "original class": "CLASS II",
+      "word": "'[Recipro"
+    },
+    "#324": {
+      "value": -0.005392676163464785,
+      "original class": "CLASS III",
+      "word": "'Softness"
+    },
+    "#340": {
+      "value": 0.0027869550324976446,
+      "original class": "CLASS III",
+      "word": "'Dryness."
+    },
+    "#348": {
+      "value": 0.0020053204894065857,
+      "original class": "CLASS III",
+      "word": "'[Water i"
+    },
+    "#358": {
+      "value": -0.044197195768356325,
+      "original class": "CLASS III",
+      "word": "'Inorgani"
+    },
+    "#361": {
+      "value": -0.012348516546189785,
+      "original class": "CLASS III",
+      "word": "'[Destruc"
+    },
+    "#367": {
+      "value": -0.024218329638242723,
+      "original class": "CLASS III",
+      "word": "'Vegetabl"
+    },
+    "#368": {
+      "value": -0.005772959440946579,
+      "original class": "CLASS III",
+      "word": "'[The sci"
+    },
+    "#369": {
+      "value": -0.02137491647154093,
+      "original class": "CLASS III",
+      "word": "'[The sci"
+    },
+    "#370": {
+      "value": 0.015078922752290964,
+      "original class": "CLASS III",
+      "word": "'[The eco"
+    },
+    "#385": {
+      "value": -0.010085776690393686,
+      "original class": "CLASS III",
+      "word": "\"Refriger"
+    },
+    "#403": {
+      "value": -0.011844599740579725,
+      "original class": "CLASS III",
+      "word": "'Silence."
+    },
+    "#411": {
+      "value": -0.046620470471680164,
+      "original class": "CLASS III",
+      "word": "\"Cry.\u03b2\u20ac\u201dN"
+    },
+    "#413": {
+      "value": -0.010075157023966313,
+      "original class": "CLASS III",
+      "word": "'Melody. "
+    },
+    "#420": {
+      "value": 0.003876200169324875,
+      "original class": "CLASS III",
+      "word": "'Light.\u03b2\u20ac"
+    },
+    "#421": {
+      "value": 0.00045580387115478515,
+      "original class": "CLASS III",
+      "word": "'Darkness"
+    },
+    "#422": {
+      "value": -0.023870397806167603,
+      "original class": "CLASS III",
+      "word": "'Dimness."
+    },
+    "#428": {
+      "value": -0.004394559115171432,
+      "original class": "CLASS III",
+      "word": "'Color.\u03b2\u20ac"
+    },
+    "#430": {
+      "value": 0.010240887403488158,
+      "original class": "CLASS III",
+      "word": "'Whitenes"
+    },
+    "#439": {
+      "value": -0.0520979193598032,
+      "original class": "CLASS III",
+      "word": "'Orange.\u03b2"
+    },
+    "#441": {
+      "value": -0.033931996822357174,
+      "original class": "CLASS III",
+      "word": "'Vision.\u03b2"
+    },
+    "#442": {
+      "value": -0.006807074993848801,
+      "original class": "CLASS III",
+      "word": "'Blindnes"
+    },
+    "#446": {
+      "value": -0.04909210722893476,
+      "original class": "CLASS III",
+      "word": "\"Visibili"
+    },
+    "#450": {
+      "value": 0.009588758796453475,
+      "original class": "CLASS IV",
+      "word": "'Intellec"
+    },
+    "#451": {
+      "value": -0.02580898681655526,
+      "original class": "CLASS IV",
+      "word": "'Thought."
+    },
+    "#453": {
+      "value": -0.0007902323151938618,
+      "original class": "CLASS IV",
+      "word": "'[Object "
+    },
+    "#463": {
+      "value": -0.009952796176075935,
+      "original class": "CLASS IV",
+      "word": "'Experime"
+    },
+    "#474": {
+      "value": -0.04898834303021431,
+      "original class": "CLASS IV",
+      "word": "'Certaint"
+    },
+    "#480a": {
+      "value": 0.015683590322732924,
+      "original class": null,
+      "word": "\"[Result "
+    },
+    "#486": {
+      "value": 0.0011804798245429993,
+      "original class": "CLASS IV",
+      "word": "\"Credulit"
+    },
+    "#490": {
+      "value": 0.005035966634750366,
+      "original class": "CLASS IV",
+      "word": "'Knowledg"
+    },
+    "#491": {
+      "value": -0.010009956955909729,
+      "original class": "CLASS IV",
+      "word": "'Ignoranc"
+    },
+    "#494": {
+      "value": -0.00903540536761284,
+      "original class": "CLASS IV",
+      "word": "'[Object "
+    },
+    "#497": {
+      "value": -0.0026469246298074724,
+      "original class": "CLASS IV",
+      "word": "'Absurdit"
+    },
+    "#498": {
+      "value": -0.047594961188733576,
+      "original class": "CLASS IV",
+      "word": "'Intellig"
+    },
+    "#504": {
+      "value": 0.02054567888379097,
+      "original class": "CLASS IV",
+      "word": "\"Madman.\u03b2"
+    },
+    "#506": {
+      "value": -0.005824762433767319,
+      "original class": "CLASS IV",
+      "word": "\"Oblivion"
+    },
+    "#507": {
+      "value": -0.03549943327903748,
+      "original class": "CLASS IV",
+      "word": "'Expectat"
+    },
+    "#509": {
+      "value": 0.010933806151151658,
+      "original class": "CLASS IV",
+      "word": "\"[Failure"
+    },
+    "#510": {
+      "value": 0.007870121449232102,
+      "original class": "CLASS IV",
+      "word": "\"Foresigh"
+    },
+    "#511": {
+      "value": -0.0048084773868322375,
+      "original class": "CLASS IV",
+      "word": "'Predicti"
+    },
+    "#515": {
+      "value": 0.01809000186622143,
+      "original class": "CLASS IV",
+      "word": "'Imaginat"
+    },
+    "#516": {
+      "value": 0.022395277321338655,
+      "original class": "CLASS IV",
+      "word": "'[Idea to"
+    },
+    "#522": {
+      "value": -0.017128004431724547,
+      "original class": "CLASS IV",
+      "word": "\"Interpre"
+    },
+    "#523": {
+      "value": 0.003949410114437342,
+      "original class": "CLASS IV",
+      "word": "'Misinter"
+    },
+    "#534": {
+      "value": -0.03251648008823395,
+      "original class": "CLASS IV",
+      "word": "'Messenge"
+    },
+    "#543": {
+      "value": -0.012170604318380357,
+      "original class": "CLASS IV",
+      "word": "'Veracity"
+    },
+    "#549": {
+      "value": 0.022942245304584503,
+      "original class": "CLASS IV",
+      "word": "\"Exaggera"
+    },
+    "#555": {
+      "value": -0.04440491080284119,
+      "original class": "CLASS IV",
+      "word": "'Misrepre"
+    },
+    "#560": {
+      "value": -0.01832960307598114,
+      "original class": "CLASS IV",
+      "word": "'Language"
+    },
+    "#564": {
+      "value": -0.04784007387235761,
+      "original class": "CLASS IV",
+      "word": "'Nomencla"
+    },
+    "#566": {
+      "value": -0.014995577782392501,
+      "original class": "CLASS IV",
+      "word": "'Phrase.\u03b2"
+    },
+    "#583": {
+      "value": -0.02954496145248413,
+      "original class": "CLASS IV",
+      "word": "\"[Imperfe"
+    },
+    "#610": {
+      "value": -0.0066070065274834635,
+      "original class": "CLASS V",
+      "word": "'Rejectio"
+    },
+    "#612": {
+      "value": -0.05114412786439061,
+      "original class": "CLASS V",
+      "word": "'Impulse."
+    },
+    "#613": {
+      "value": 0.011215865039266646,
+      "original class": "CLASS V",
+      "word": "'Habit. ["
+    },
+    "#626": {
+      "value": -0.006445560902357102,
+      "original class": "CLASS V",
+      "word": "\"Plan.\u03b2\u20ac\u201d"
+    },
+    "#627": {
+      "value": -0.0033128052949905396,
+      "original class": "CLASS V",
+      "word": "\"Method. "
+    },
+    "#638": {
+      "value": -0.023811402916908263,
+      "original class": "CLASS V",
+      "word": "'Waste.\u03b2\u20ac"
+    },
+    "#640": {
+      "value": -0.023631125539541244,
+      "original class": "CLASS V",
+      "word": "'Insuffic"
+    },
+    "#644": {
+      "value": 0.020781795382499694,
+      "original class": "CLASS V",
+      "word": "\"Utility."
+    },
+    "#648": {
+      "value": -0.03906320929527283,
+      "original class": "CLASS V",
+      "word": "'[Capabil"
+    },
+    "#652": {
+      "value": -0.01964567393064499,
+      "original class": "CLASS V",
+      "word": "'Cleannes"
+    },
+    "#659": {
+      "value": 0.0072391989827156064,
+      "original class": "CLASS V",
+      "word": "'Deterior"
+    },
+    "#660": {
+      "value": -0.043430684693157674,
+      "original class": "CLASS V",
+      "word": "\"Restorat"
+    },
+    "#665": {
+      "value": -0.04741419315338135,
+      "original class": "CLASS V",
+      "word": "\"Danger.\u03b2"
+    },
+    "#672": {
+      "value": -0.03260424315929413,
+      "original class": "CLASS V",
+      "word": "\"Delivera"
+    },
+    "#675": {
+      "value": 0.01681475907564163,
+      "original class": "CLASS V",
+      "word": "\"Essay.\u03b2\u20ac"
+    },
+    "#688": {
+      "value": -0.041433605253696444,
+      "original class": "CLASS V",
+      "word": "\"Fatigue."
+    },
+    "#689": {
+      "value": 0.013389442563056946,
+      "original class": "CLASS V",
+      "word": "\"Refreshm"
+    },
+    "#706": {
+      "value": -0.04321128785610199,
+      "original class": "CLASS V",
+      "word": "\"Hindranc"
+    },
+    "#711": {
+      "value": -0.031115881451405585,
+      "original class": "CLASS V",
+      "word": "\"Auxiliar"
+    },
+    "#719": {
+      "value": 0.011445482298731803,
+      "original class": "CLASS V",
+      "word": "\"Resistan"
+    },
+    "#720": {
+      "value": -0.03887159913778305,
+      "original class": "CLASS V",
+      "word": "'Contenti"
+    },
+    "#732": {
+      "value": -9.395539760589599e-05,
+      "original class": "CLASS V",
+      "word": "'Failure."
+    },
+    "#741": {
+      "value": -0.01643086865544319,
+      "original class": "CLASS V",
+      "word": "\"Command."
+    },
+    "#743": {
+      "value": 0.0053267601132392884,
+      "original class": "CLASS V",
+      "word": "\"Obedienc"
+    },
+    "#744": {
+      "value": -0.040047961678355934,
+      "original class": "CLASS V",
+      "word": "\"Compulsi"
+    },
+    "#745": {
+      "value": 0.004632135853171349,
+      "original class": "CLASS V",
+      "word": "'Master.\u03b2"
+    },
+    "#750": {
+      "value": 0.022945479974150657,
+      "original class": "CLASS V",
+      "word": "\"Liberati"
+    },
+    "#756": {
+      "value": -0.0021217300742864607,
+      "original class": "CLASS V",
+      "word": "\"Abrogati"
+    },
+    "#793": {
+      "value": 0.001920122168958187,
+      "original class": "CLASS V",
+      "word": "'Booty.\u03b2\u20ac"
+    },
+    "#808": {
+      "value": -0.04851856496185064,
+      "original class": "CLASS V",
+      "word": "'Nonpayme"
+    },
+    "#824": {
+      "value": -0.0027946409583091735,
+      "original class": "CLASS VI",
+      "word": "'Excitati"
+    },
+    "#837": {
+      "value": 0.005585078038275242,
+      "original class": "CLASS VI",
+      "word": "'Dejectio"
+    },
+    "#839": {
+      "value": -0.0039688006043434145,
+      "original class": "CLASS VI",
+      "word": "'[Express"
+    },
+    "#841": {
+      "value": -0.04206840753555298,
+      "original class": "CLASS VI",
+      "word": "'Wearines"
+    },
+    "#844": {
+      "value": -0.02567355369334109,
+      "original class": "CLASS VI",
+      "word": "'Humorist"
+    },
+    "#853": {
+      "value": 0.021233780761249363,
+      "original class": "CLASS VI",
+      "word": "\"Ridiculo"
+    },
+    "#854": {
+      "value": -0.023767582364380358,
+      "original class": "CLASS VI",
+      "word": "'Fop.\u03b2\u20ac\u201dN"
+    },
+    "#859": {
+      "value": -0.0028480469435453416,
+      "original class": "CLASS VI",
+      "word": "'[Absence"
+    },
+    "#862": {
+      "value": -0.003979198485612869,
+      "original class": "CLASS VI",
+      "word": "'[Excess "
+    },
+    "#870": {
+      "value": -0.04516675643622875,
+      "original class": "CLASS VI",
+      "word": "\"Wonder.\u03b2"
+    },
+    "#872": {
+      "value": -0.03243032056838274,
+      "original class": "CLASS VI",
+      "word": "\"Prodigy."
+    },
+    "#877": {
+      "value": -0.04097842611372471,
+      "original class": "CLASS VI",
+      "word": "\"Title.\u03b2\u20ac"
+    },
+    "#885": {
+      "value": -0.03292051613330841,
+      "original class": "CLASS VI",
+      "word": "'[Undue a"
+    },
+    "#900": {
+      "value": -0.03958769261837006,
+      "original class": "CLASS VI",
+      "word": "'Resentme"
+    },
+    "#904": {
+      "value": -0.020782881528139115,
+      "original class": "CLASS VI",
+      "word": "'Celibacy"
+    },
+    "#914": {
+      "value": -0.029121206998825075,
+      "original class": "CLASS VI",
+      "word": "'Pity.\u03b2\u20ac\u201d"
+    },
+    "#915": {
+      "value": -0.05091328218579292,
+      "original class": "CLASS VI",
+      "word": "\"Condolen"
+    },
+    "#919": {
+      "value": -0.049534483999013904,
+      "original class": "CLASS VI",
+      "word": "'Revenge."
+    },
+    "#943": {
+      "value": 0.016552793979644775,
+      "original class": "CLASS VI",
+      "word": "'Selfishn"
+    },
+    "#952": {
+      "value": -0.04212972218170762,
+      "original class": "CLASS VI",
+      "word": "\"Atonemen"
+    },
+    "#962": {
+      "value": -0.032126398980617525,
+      "original class": "CLASS VI",
+      "word": "'Libertin"
+    },
+    "#966": {
+      "value": -0.0199509609490633,
+      "original class": "CLASS VI",
+      "word": "\"Tribunal"
+    },
+    "#974": {
+      "value": 0.01080353895202279,
+      "original class": "CLASS VI",
+      "word": "'Penalty."
+    },
+    "#975": {
+      "value": -0.021846405826509,
+      "original class": "CLASS VI",
+      "word": "\"[Instrum"
+    },
+    "#981": {
+      "value": -0.021800166927278042,
+      "original class": "CLASS VI",
+      "word": "'Heaven.\u03b2"
+    },
+    "#983": {
+      "value": 0.005639516711235046,
+      "original class": "CLASS VI",
+      "word": "'[Religio"
+    },
+    "#983a": {
+      "value": -0.020029997229576112,
+      "original class": null,
+      "word": "'Orthodox"
+    },
+    "#993": {
+      "value": -0.010765763595700265,
+      "original class": "CLASS VI",
+      "word": "\"Spell.\u03b2\u20ac"
+    },
+    "#1000": {
+      "value": -0.03128667147830129,
+      "original class": "CLASS VI",
+      "word": "'Temple.\u03b2"
+    }
+  },
+  "3": {
+    "#7": {
+      "value": -0.05892909370362759,
+      "original class": "CLASS I",
+      "word": "'State.\u03b2\u20ac"
+    },
+    "#16": {
+      "value": -0.12431204169988633,
+      "original class": "CLASS I",
+      "word": "'Uniformi"
+    },
+    "#25": {
+      "value": -0.10498995989561082,
+      "original class": "CLASS I",
+      "word": "'[Absolut"
+    },
+    "#26": {
+      "value": -0.09204816397279501,
+      "original class": "CLASS I",
+      "word": "'[Relativ"
+    },
+    "#28": {
+      "value": -0.09836152255535126,
+      "original class": "CLASS I",
+      "word": "'[Differe"
+    },
+    "#42": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'[Freedom"
+    },
+    "#43": {
+      "value": -0.06433563858270645,
+      "original class": "CLASS I",
+      "word": "'Junction"
+    },
+    "#47": {
+      "value": -0.06485856145620346,
+      "original class": "CLASS I",
+      "word": "'[Want of"
+    },
+    "#51": {
+      "value": -0.11405353790149092,
+      "original class": "CLASS I",
+      "word": "'Part.\u03b2\u20ac\u201d"
+    },
+    "#52": {
+      "value": -0.13176983416080476,
+      "original class": "CLASS I",
+      "word": "\"Complete"
+    },
+    "#62": {
+      "value": -0.10960372045636177,
+      "original class": "CLASS I",
+      "word": "'Preceden"
+    },
+    "#63": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'Sequence"
+    },
+    "#66": {
+      "value": -0.06634767986834049,
+      "original class": "CLASS I",
+      "word": "\"Beginnin"
+    },
+    "#67": {
+      "value": -0.12322820279747247,
+      "original class": "CLASS I",
+      "word": "'End.\u03b2\u20ac\u201dN"
+    },
+    "#68": {
+      "value": -0.08120384082198143,
+      "original class": "CLASS I",
+      "word": "'Middle.\u03b2"
+    },
+    "#71": {
+      "value": -0.05817732741124928,
+      "original class": "CLASS I",
+      "word": "'Term.\u03b2\u20ac\u201d"
+    },
+    "#72": {
+      "value": -0.11586160153150558,
+      "original class": "CLASS I",
+      "word": "\"Assembla"
+    },
+    "#79": {
+      "value": -0.07273252375423908,
+      "original class": "CLASS I",
+      "word": "\"Speciali"
+    },
+    "#84": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'Number.\u03b2"
+    },
+    "#96": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'Quadrupl"
+    },
+    "#101": {
+      "value": -0.057516431361436846,
+      "original class": "CLASS I",
+      "word": "'Zero.\u03b2\u20ac\u201d"
+    },
+    "#102": {
+      "value": -0.0804383161664009,
+      "original class": "CLASS I",
+      "word": "'Multitud"
+    },
+    "#105": {
+      "value": -0.1310979575663805,
+      "original class": "CLASS I",
+      "word": "'Infinity"
+    },
+    "#108a": {
+      "value": -0.09233791965991259,
+      "original class": null,
+      "word": "'Continge"
+    },
+    "#119": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'[Time di"
+    },
+    "#121": {
+      "value": -0.1040694678761065,
+      "original class": "CLASS I",
+      "word": "'[Prospec"
+    },
+    "#125": {
+      "value": -0.07290675953030586,
+      "original class": "CLASS I",
+      "word": "'Morning."
+    },
+    "#128": {
+      "value": -0.07954091280698776,
+      "original class": "CLASS I",
+      "word": "'Age.\u03b2\u20ac\u201dN"
+    },
+    "#130": {
+      "value": -0.12980276167392732,
+      "original class": "CLASS I",
+      "word": "'Veteran."
+    },
+    "#141": {
+      "value": -0.0965248142182827,
+      "original class": "CLASS I",
+      "word": "\"[Absence"
+    },
+    "#144": {
+      "value": -0.05465779654681682,
+      "original class": "CLASS I",
+      "word": "'[Gradual"
+    },
+    "#146": {
+      "value": -0.05963580161333084,
+      "original class": "CLASS I",
+      "word": "\"[Sudden "
+    },
+    "#148": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'[Double "
+    },
+    "#153": {
+      "value": -0.05925823997706175,
+      "original class": "CLASS I",
+      "word": "\"[Constan"
+    },
+    "#158": {
+      "value": -0.06098424113821238,
+      "original class": "CLASS I",
+      "word": "'Impotenc"
+    },
+    "#159": {
+      "value": -0.05963506495580077,
+      "original class": "CLASS I",
+      "word": "'[Degree "
+    },
+    "#160": {
+      "value": -0.10179520756006241,
+      "original class": "CLASS I",
+      "word": "\"Weakness"
+    },
+    "#161": {
+      "value": -0.05835124388337135,
+      "original class": "CLASS I",
+      "word": "'Producti"
+    },
+    "#163": {
+      "value": -0.09399084247648716,
+      "original class": "CLASS I",
+      "word": "'Reproduc"
+    },
+    "#166": {
+      "value": -0.06008456110954285,
+      "original class": "CLASS I",
+      "word": "'Paternit"
+    },
+    "#172": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'Physical"
+    },
+    "#173": {
+      "value": -0.09227907374501228,
+      "original class": "CLASS I",
+      "word": "'Violence"
+    },
+    "#177": {
+      "value": -0.05719756249338388,
+      "original class": "CLASS I",
+      "word": "'Liabilit"
+    },
+    "#178": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS I",
+      "word": "'Concurre"
+    },
+    "#183": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Situatio"
+    },
+    "#189": {
+      "value": -0.11530002888292074,
+      "original class": "CLASS II",
+      "word": "'[Place o"
+    },
+    "#194": {
+      "value": -0.08369983717799187,
+      "original class": "CLASS II",
+      "word": "'Expansio"
+    },
+    "#200": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Length.\u03b2"
+    },
+    "#208": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Depth.\u03b2\u20ac"
+    },
+    "#211": {
+      "value": -0.07405940376222134,
+      "original class": "CLASS II",
+      "word": "'Base.\u03b2\u20ac\u201d"
+    },
+    "#212": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Vertical"
+    },
+    "#216": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Parallel"
+    },
+    "#219": {
+      "value": -0.06353775948286057,
+      "original class": "CLASS II",
+      "word": "'Crossing"
+    },
+    "#222": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Centrali"
+    },
+    "#237": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Contrapo"
+    },
+    "#238": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Dextrali"
+    },
+    "#239": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'Sinistra"
+    },
+    "#241": {
+      "value": -0.0594640389084816,
+      "original class": "CLASS II",
+      "word": "'[Absence"
+    },
+    "#253": {
+      "value": -0.061745321452617644,
+      "original class": "CLASS II",
+      "word": "\"Sharpnes"
+    },
+    "#255": {
+      "value": -0.09244156956672668,
+      "original class": "CLASS II",
+      "word": "'Smoothne"
+    },
+    "#258": {
+      "value": -0.1174466784670949,
+      "original class": "CLASS II",
+      "word": "\"Fold.\u03b2\u20ac\u201d"
+    },
+    "#261": {
+      "value": -0.1324234862625599,
+      "original class": "CLASS II",
+      "word": "'Closure."
+    },
+    "#266": {
+      "value": -0.08596811801195145,
+      "original class": "CLASS II",
+      "word": "\"[Locomot"
+    },
+    "#279": {
+      "value": -0.056316882520914074,
+      "original class": "CLASS II",
+      "word": "\"Deviatio"
+    },
+    "#293": {
+      "value": -0.12488239884376526,
+      "original class": "CLASS II",
+      "word": "\"[Initial"
+    },
+    "#298": {
+      "value": -0.08823352366685867,
+      "original class": "CLASS II",
+      "word": "'[Eating."
+    },
+    "#305": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#307": {
+      "value": -0.12010360330343246,
+      "original class": "CLASS II",
+      "word": "'Elevatio"
+    },
+    "#316": {
+      "value": -0.06714236408472062,
+      "original class": "CLASS III",
+      "word": "'MATERIAL"
+    },
+    "#338": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS III",
+      "word": "'Air.\u03b2\u20ac\u201dN"
+    },
+    "#341": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS III",
+      "word": "'Ocean\u03b2\u20ac\u201d"
+    },
+    "#342": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS III",
+      "word": "'Land.\u03b2\u20ac\u201d"
+    },
+    "#344": {
+      "value": -0.0843702433258295,
+      "original class": "CLASS III",
+      "word": "'Plain.\u03b2\u20ac"
+    },
+    "#356": {
+      "value": -0.0826255139708519,
+      "original class": "CLASS III",
+      "word": "'Oil.\u03b2\u20ac\u201dN"
+    },
+    "#366": {
+      "value": -0.07731152296066285,
+      "original class": "CLASS III",
+      "word": "\"Animal.\u03b2"
+    },
+    "#372": {
+      "value": -0.09554056286811828,
+      "original class": "CLASS III",
+      "word": "'Mankind."
+    },
+    "#394": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS III",
+      "word": "'Savorine"
+    },
+    "#406": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS III",
+      "word": "'[Sudden "
+    },
+    "#414": {
+      "value": -0.114827122092247,
+      "original class": "CLASS III",
+      "word": "\"Discord."
+    },
+    "#415": {
+      "value": -0.06007744163274765,
+      "original class": "CLASS III",
+      "word": "'Music.\u03b2\u20ac"
+    },
+    "#416": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS III",
+      "word": "'Musician"
+    },
+    "#418": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS III",
+      "word": "'[Sense o"
+    },
+    "#449": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS III",
+      "word": "'Disappea"
+    },
+    "#454": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'[Subject"
+    },
+    "#459": {
+      "value": -0.11944372817873955,
+      "original class": "CLASS IV",
+      "word": "'Care. [V"
+    },
+    "#461": {
+      "value": -0.11414666640106588,
+      "original class": "CLASS IV",
+      "word": "\"Inquiry "
+    },
+    "#462": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS IV",
+      "word": "'Answer.\u03b2"
+    },
+    "#464a": {
+      "value": -0.11345736056566239,
+      "original class": null,
+      "word": "'Incompar"
+    },
+    "#477": {
+      "value": -0.0678536057472229,
+      "original class": "CLASS IV",
+      "word": "'[The abs"
+    },
+    "#484": {
+      "value": -0.1043282845010981,
+      "original class": "CLASS IV",
+      "word": "'Belief.\u03b2"
+    },
+    "#492": {
+      "value": -0.10700015723705292,
+      "original class": "CLASS IV",
+      "word": "'Scholar."
+    },
+    "#496": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Maxim.\u03b2\u20ac"
+    },
+    "#502": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Sanity.\u03b2"
+    },
+    "#513": {
+      "value": -0.11654572494328022,
+      "original class": "CLASS IV",
+      "word": "'Oracle.\u03b2"
+    },
+    "#524": {
+      "value": -0.09085848227143288,
+      "original class": "CLASS IV",
+      "word": "'Interpre"
+    },
+    "#525": {
+      "value": -0.09669960892759263,
+      "original class": "CLASS IV",
+      "word": "'Manifest"
+    },
+    "#530": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Ambush ["
+    },
+    "#535": {
+      "value": -0.08215879380702973,
+      "original class": "CLASS IV",
+      "word": "\"Affirmat"
+    },
+    "#542": {
+      "value": -0.08070399582386018,
+      "original class": "CLASS IV",
+      "word": "\"School.\u03b2"
+    },
+    "#551": {
+      "value": -0.12912260895129293,
+      "original class": "CLASS IV",
+      "word": "'Record.\u03b2"
+    },
+    "#558": {
+      "value": -0.062169796079397203,
+      "original class": "CLASS IV",
+      "word": "'Engravin"
+    },
+    "#561": {
+      "value": -0.10347880769520998,
+      "original class": "CLASS IV",
+      "word": "'Letter.\u03b2"
+    },
+    "#565": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Misnomer"
+    },
+    "#569": {
+      "value": -0.08616203414276243,
+      "original class": "CLASS IV",
+      "word": "'Style.\u03b2\u20ac"
+    },
+    "#571": {
+      "value": -0.08387840151786805,
+      "original class": "CLASS IV",
+      "word": "\"Obscurit"
+    },
+    "#576": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Plainnes"
+    },
+    "#577": {
+      "value": -0.1204958039522171,
+      "original class": "CLASS IV",
+      "word": "'Ornament"
+    },
+    "#580": {
+      "value": -0.09578428952023386,
+      "original class": "CLASS IV",
+      "word": "'Voice.\u03b2\u20ac"
+    },
+    "#586": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS IV",
+      "word": "'Allocuti"
+    },
+    "#588": {
+      "value": -0.07546652611345053,
+      "original class": "CLASS IV",
+      "word": "'Conversa"
+    },
+    "#589": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS IV",
+      "word": "'Soliloqu"
+    },
+    "#593": {
+      "value": -0.11672707565128804,
+      "original class": "CLASS IV",
+      "word": "'Book.\u03b2\u20ac\u201d"
+    },
+    "#595": {
+      "value": -0.11716799676418305,
+      "original class": "CLASS IV",
+      "word": "'Disserta"
+    },
+    "#597": {
+      "value": -0.10006040155887604,
+      "original class": "CLASS IV",
+      "word": "'Poetry.\u03b2"
+    },
+    "#601": {
+      "value": -0.13167939364910125,
+      "original class": "CLASS V",
+      "word": "'Necessit"
+    },
+    "#604": {
+      "value": -0.11723915830254555,
+      "original class": "CLASS V",
+      "word": "\"Resoluti"
+    },
+    "#604a": {
+      "value": -0.06969667583703995,
+      "original class": null,
+      "word": "\"Persever"
+    },
+    "#606": {
+      "value": -0.09023639500141144,
+      "original class": "CLASS V",
+      "word": "\"Obstinac"
+    },
+    "#615": {
+      "value": -0.07589412644505501,
+      "original class": "CLASS V",
+      "word": "'Motive.\u03b2"
+    },
+    "#615a": {
+      "value": -0.09233791965991259,
+      "original class": null,
+      "word": "'Absence "
+    },
+    "#620": {
+      "value": -0.07014091994613408,
+      "original class": "CLASS V",
+      "word": "'Intentio"
+    },
+    "#623": {
+      "value": -0.05557612583041191,
+      "original class": "CLASS V",
+      "word": "'[Absence"
+    },
+    "#629": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Circuit."
+    },
+    "#635": {
+      "value": -0.11409311711788178,
+      "original class": "CLASS V",
+      "word": "'Material"
+    },
+    "#639": {
+      "value": -0.10891215562820435,
+      "original class": "CLASS V",
+      "word": "'Sufficie"
+    },
+    "#643": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Unimport"
+    },
+    "#651": {
+      "value": -0.09609528422355652,
+      "original class": "CLASS V",
+      "word": "\"Imperfec"
+    },
+    "#664": {
+      "value": -0.09215680360794068,
+      "original class": "CLASS V",
+      "word": "\"Safety.\u03b2"
+    },
+    "#670": {
+      "value": -0.06612100238911807,
+      "original class": "CLASS V",
+      "word": "\"Preserva"
+    },
+    "#680": {
+      "value": -0.06702810638642404,
+      "original class": "CLASS V",
+      "word": "'Action.\u03b2"
+    },
+    "#681": {
+      "value": -0.10672903299331665,
+      "original class": "CLASS V",
+      "word": "'Inaction"
+    },
+    "#684": {
+      "value": -0.07741983845829964,
+      "original class": "CLASS V",
+      "word": "'Haste.\u03b2\u20ac"
+    },
+    "#686": {
+      "value": -0.07444635927677154,
+      "original class": "CLASS V",
+      "word": "'Exertion"
+    },
+    "#694": {
+      "value": -0.08090880215167999,
+      "original class": "CLASS V",
+      "word": "'Director"
+    },
+    "#702": {
+      "value": -0.10802043780684471,
+      "original class": "CLASS V",
+      "word": "'Cunning."
+    },
+    "#705": {
+      "value": -0.07536284327507019,
+      "original class": "CLASS V",
+      "word": "\"Facility"
+    },
+    "#713": {
+      "value": -0.114827122092247,
+      "original class": "CLASS V",
+      "word": "'Discord."
+    },
+    "#714": {
+      "value": -0.12225200071930885,
+      "original class": "CLASS V",
+      "word": "\"Concord."
+    },
+    "#717": {
+      "value": -0.08794916048645973,
+      "original class": "CLASS V",
+      "word": "\"Defense\u03b2"
+    },
+    "#728": {
+      "value": -0.10534719824790954,
+      "original class": "CLASS V",
+      "word": "\"Arena.\u03b2\u20ac"
+    },
+    "#729": {
+      "value": -0.09583467960357667,
+      "original class": "CLASS V",
+      "word": "\"Completi"
+    },
+    "#730": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Noncompl"
+    },
+    "#734": {
+      "value": -0.07415475755929947,
+      "original class": "CLASS V",
+      "word": "\"Prosperi"
+    },
+    "#742": {
+      "value": -0.08778035768307746,
+      "original class": "CLASS V",
+      "word": "'Disobedi"
+    },
+    "#746": {
+      "value": -0.06195991680026054,
+      "original class": "CLASS V",
+      "word": "\"Servant."
+    },
+    "#752": {
+      "value": -0.09214999414980411,
+      "original class": "CLASS V",
+      "word": "\"[Means o"
+    },
+    "#753": {
+      "value": -0.11485802724957467,
+      "original class": "CLASS V",
+      "word": "'Keeper.\u03b2"
+    },
+    "#755": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'[Vicario"
+    },
+    "#759": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Deputy.\u03b2"
+    },
+    "#767": {
+      "value": -0.06721492134034633,
+      "original class": "CLASS V",
+      "word": "'Petition"
+    },
+    "#770": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Conditio"
+    },
+    "#772": {
+      "value": -0.09683727022260427,
+      "original class": "CLASS V",
+      "word": "'Observan"
+    },
+    "#776": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS V",
+      "word": "'Loss.\u03b2\u20ac\u201d"
+    },
+    "#778": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'[Joint p"
+    },
+    "#786": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Apportio"
+    },
+    "#787": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Lending."
+    },
+    "#799b": {
+      "value": -0.0891420030593872,
+      "original class": null,
+      "word": "'Securiti"
+    },
+    "#800": {
+      "value": -0.09901127576828003,
+      "original class": "CLASS V",
+      "word": "'Money.\u03b2\u20ac"
+    },
+    "#803": {
+      "value": -0.08990771993994713,
+      "original class": "CLASS V",
+      "word": "'Wealth.\u03b2"
+    },
+    "#804": {
+      "value": -0.07411580547690391,
+      "original class": "CLASS V",
+      "word": "'Poverty."
+    },
+    "#805": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Credit.\u03b2"
+    },
+    "#815": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS V",
+      "word": "'Cheapnes"
+    },
+    "#822": {
+      "value": -0.1295312701910734,
+      "original class": "CLASS VI",
+      "word": "'Sensibil"
+    },
+    "#827": {
+      "value": -0.1067587000131607,
+      "original class": "CLASS VI",
+      "word": "'Pleasure"
+    },
+    "#832": {
+      "value": -0.13381556556560098,
+      "original class": "CLASS VI",
+      "word": "'Disconte"
+    },
+    "#835": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS VI",
+      "word": "'Aggravat"
+    },
+    "#840": {
+      "value": -0.10421483650803566,
+      "original class": "CLASS VI",
+      "word": "'Amusemen"
+    },
+    "#847": {
+      "value": -0.1204958039522171,
+      "original class": "CLASS VI",
+      "word": "'Ornament"
+    },
+    "#851": {
+      "value": -0.07127332091331481,
+      "original class": "CLASS VI",
+      "word": "'[Bad tas"
+    },
+    "#856": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS VI",
+      "word": "'Ridicule"
+    },
+    "#864": {
+      "value": -0.07429279923439026,
+      "original class": "CLASS VI",
+      "word": "'Caution."
+    },
+    "#865": {
+      "value": -0.09674515590071678,
+      "original class": "CLASS VI",
+      "word": "'Desire.\u03b2"
+    },
+    "#866": {
+      "value": -0.07298335619270802,
+      "original class": "CLASS VI",
+      "word": "\"Indiffer"
+    },
+    "#871": {
+      "value": -0.05974476113915443,
+      "original class": "CLASS VI",
+      "word": "'[Absence"
+    },
+    "#874": {
+      "value": -0.06007170297205448,
+      "original class": "CLASS VI",
+      "word": "'Disreput"
+    },
+    "#878": {
+      "value": -0.07890519976615906,
+      "original class": "CLASS VI",
+      "word": "'Pride.\u03b2\u20ac"
+    },
+    "#879": {
+      "value": -0.09207745336927474,
+      "original class": "CLASS VI",
+      "word": "\"Humility"
+    },
+    "#880": {
+      "value": -0.09670194365084171,
+      "original class": "CLASS VI",
+      "word": "'Vanity.\u03b2"
+    },
+    "#888": {
+      "value": -0.08907031141221523,
+      "original class": "CLASS VI",
+      "word": "'Friendsh"
+    },
+    "#898": {
+      "value": -0.09557187021709979,
+      "original class": "CLASS VI",
+      "word": "'Hate.\u03b2\u20ac\u201d"
+    },
+    "#902": {
+      "value": -0.09680567845702172,
+      "original class": "CLASS VI",
+      "word": "'[Express"
+    },
+    "#912": {
+      "value": -0.06229960083961487,
+      "original class": "CLASS VI",
+      "word": "'Benefact"
+    },
+    "#922": {
+      "value": -0.13352005427703262,
+      "original class": "CLASS VI",
+      "word": "'Right.\u03b2\u20ac"
+    },
+    "#929": {
+      "value": -0.07589079320430756,
+      "original class": "CLASS VI",
+      "word": "\"Disrespe"
+    },
+    "#933": {
+      "value": -0.06507184654474259,
+      "original class": "CLASS VI",
+      "word": "\"Flattery"
+    },
+    "#939": {
+      "value": -0.08520199239253998,
+      "original class": "CLASS VI",
+      "word": "'Probity."
+    },
+    "#944": {
+      "value": -0.08976609045639634,
+      "original class": "CLASS VI",
+      "word": "'Virtue.\u03b2"
+    },
+    "#956": {
+      "value": -0.09876292079687118,
+      "original class": "CLASS VI",
+      "word": "'Fasting."
+    },
+    "#964": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS VI",
+      "word": "'[Absence"
+    },
+    "#965": {
+      "value": -0.06357402654946781,
+      "original class": "CLASS VI",
+      "word": "'Jurisdic"
+    },
+    "#968": {
+      "value": -0.11122293144464493,
+      "original class": "CLASS VI",
+      "word": "\"Lawyer.\u03b2"
+    },
+    "#978": {
+      "value": -0.07058732880279422,
+      "original class": "CLASS VI",
+      "word": "'[Malefic"
+    },
+    "#979": {
+      "value": -0.11575748588889838,
+      "original class": "CLASS VI",
+      "word": "'Jupiter."
+    },
+    "#987": {
+      "value": -0.09639748349785805,
+      "original class": "CLASS VI",
+      "word": "'Piety.\u03b2\u20ac"
+    },
+    "#989": {
+      "value": -0.09233791965991259,
+      "original class": "CLASS VI",
+      "word": "'Irreligi"
+    }
+  },
+  "0": {
+    "#20": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'Nonimita"
+    },
+    "#20a": {
+      "value": 0.04917996108531952,
+      "original class": null,
+      "word": "'Variatio"
+    },
+    "#21": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'[Result "
+    },
+    "#24": {
+      "value": 0.027759716361761094,
+      "original class": "CLASS I",
+      "word": "'Disagree"
+    },
+    "#34": {
+      "value": 0.08008175998926163,
+      "original class": "CLASS I",
+      "word": "\"Inferior"
+    },
+    "#40": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'[Thing r"
+    },
+    "#41": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "\"[Forming"
+    },
+    "#48": {
+      "value": 0.1198948785662651,
+      "original class": "CLASS I",
+      "word": "'Combinat"
+    },
+    "#56": {
+      "value": 0.08872899399138987,
+      "original class": "CLASS I",
+      "word": "'Componen"
+    },
+    "#59a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Complexi"
+    },
+    "#61": {
+      "value": 0.10754648790229111,
+      "original class": "CLASS I",
+      "word": "'[Subvers"
+    },
+    "#64": {
+      "value": 0.04790048062801361,
+      "original class": "CLASS I",
+      "word": "'Precurso"
+    },
+    "#65": {
+      "value": 0.07380660369992256,
+      "original class": "CLASS I",
+      "word": "'Sequel.\u03b2"
+    },
+    "#69": {
+      "value": 0.026161235123872757,
+      "original class": "CLASS I",
+      "word": "'[Uninter"
+    },
+    "#73": {
+      "value": 0.09288650770089589,
+      "original class": "CLASS I",
+      "word": "'Nonassem"
+    },
+    "#80": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'Normalit"
+    },
+    "#86": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'List.\u03b2\u20ac\u201d"
+    },
+    "#89": {
+      "value": 0.03528131518512964,
+      "original class": "CLASS I",
+      "word": "'Duality."
+    },
+    "#91": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'[Divisio"
+    },
+    "#93": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'Triplica"
+    },
+    "#95": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'Four.\u03b2\u20ac\u201d"
+    },
+    "#97": {
+      "value": 0.027394384853541853,
+      "original class": "CLASS I",
+      "word": "'[Divisio"
+    },
+    "#104": {
+      "value": 0.10570219993591308,
+      "original class": "CLASS I",
+      "word": "'Repetiti"
+    },
+    "#108": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'[Definit"
+    },
+    "#115": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'[False e"
+    },
+    "#131": {
+      "value": 0.07796079993247985,
+      "original class": "CLASS I",
+      "word": "\"Adolesce"
+    },
+    "#135": {
+      "value": 0.04555907480418682,
+      "original class": "CLASS I",
+      "word": "'Untimeli"
+    },
+    "#136": {
+      "value": 0.06330689452588559,
+      "original class": "CLASS I",
+      "word": "'Frequenc"
+    },
+    "#142": {
+      "value": 0.054200807809829714,
+      "original class": "CLASS I",
+      "word": "'[Change "
+    },
+    "#147": {
+      "value": 0.04900407761335373,
+      "original class": "CLASS I",
+      "word": "'[Change "
+    },
+    "#151": {
+      "value": 0.03799664095044136,
+      "original class": "CLASS I",
+      "word": "'Eventual"
+    },
+    "#154": {
+      "value": 0.10404887720942498,
+      "original class": "CLASS I",
+      "word": "'[Constan"
+    },
+    "#165": {
+      "value": 0.038614585623145105,
+      "original class": "CLASS I",
+      "word": "'Destroye"
+    },
+    "#168": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS I",
+      "word": "'Producti"
+    },
+    "#175a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Absence "
+    },
+    "#181": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Definit"
+    },
+    "#185": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Displace"
+    },
+    "#188": {
+      "value": 0.08391239777207375,
+      "original class": "CLASS II",
+      "word": "'Inhabita"
+    },
+    "#191": {
+      "value": 0.05830967977643013,
+      "original class": "CLASS II",
+      "word": "\"Receptac"
+    },
+    "#195": {
+      "value": 0.09645267397165298,
+      "original class": "CLASS II",
+      "word": "'Contract"
+    },
+    "#198": {
+      "value": 0.07429491918534041,
+      "original class": "CLASS II",
+      "word": "'Interval"
+    },
+    "#199": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Contigui"
+    },
+    "#201": {
+      "value": 0.08340067319571971,
+      "original class": "CLASS II",
+      "word": "'Shortnes"
+    },
+    "#202": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Breadth,"
+    },
+    "#203": {
+      "value": 0.11205080509185791,
+      "original class": "CLASS II",
+      "word": "\"Narrowne"
+    },
+    "#204": {
+      "value": 0.10345467671751976,
+      "original class": "CLASS II",
+      "word": "'Layer.\u03b2\u20ac"
+    },
+    "#209": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Shallown"
+    },
+    "#216a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Perpendi"
+    },
+    "#218": {
+      "value": 0.12953287100419403,
+      "original class": "CLASS II",
+      "word": "\"Inversio"
+    },
+    "#224": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Lining.\u03b2"
+    },
+    "#231": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Edge.\u03b2\u20ac\u201d"
+    },
+    "#240": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Form.\u03b2\u20ac\u201d"
+    },
+    "#242": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Regular"
+    },
+    "#243": {
+      "value": 0.06398464974015951,
+      "original class": "CLASS II",
+      "word": "\"[Irregul"
+    },
+    "#245": {
+      "value": 0.08533359944820404,
+      "original class": "CLASS II",
+      "word": "'Curvatur"
+    },
+    "#246": {
+      "value": 0.02991900160908699,
+      "original class": "CLASS II",
+      "word": "'Straight"
+    },
+    "#251": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Flatness"
+    },
+    "#252": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Concavit"
+    },
+    "#254": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Bluntnes"
+    },
+    "#256": {
+      "value": 0.06860920488834381,
+      "original class": "CLASS II",
+      "word": "'Roughnes"
+    },
+    "#257": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'Notch.\u03b2\u20ac"
+    },
+    "#264": {
+      "value": 0.026160764135420324,
+      "original class": "CLASS II",
+      "word": "\"[Success"
+    },
+    "#267": {
+      "value": 0.027822793647646903,
+      "original class": "CLASS II",
+      "word": "'[Locomot"
+    },
+    "#270": {
+      "value": 0.05780568107962608,
+      "original class": "CLASS II",
+      "word": "'Transfer"
+    },
+    "#272": {
+      "value": 0.05655596181750298,
+      "original class": "CLASS II",
+      "word": "'Vehicle."
+    },
+    "#274": {
+      "value": 0.09250851556658744,
+      "original class": "CLASS II",
+      "word": "'Velocity"
+    },
+    "#281": {
+      "value": 0.08937243721447885,
+      "original class": "CLASS II",
+      "word": "'[Going a"
+    },
+    "#283": {
+      "value": 0.0643129986524582,
+      "original class": "CLASS II",
+      "word": "\"[Motion "
+    },
+    "#284": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#285": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#290": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Motion "
+    },
+    "#300": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Forcibl"
+    },
+    "#301": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS II",
+      "word": "'[Forcibl"
+    },
+    "#308": {
+      "value": 0.06170883432030678,
+      "original class": "CLASS II",
+      "word": "\"Depressi"
+    },
+    "#312": {
+      "value": 0.10855524137616157,
+      "original class": "CLASS II",
+      "word": "\"[Motion "
+    },
+    "#317": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Immateri"
+    },
+    "#319": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Gravity."
+    },
+    "#321": {
+      "value": 0.10459816113114356,
+      "original class": "CLASS III",
+      "word": "'Density."
+    },
+    "#323": {
+      "value": 0.05848960012197495,
+      "original class": "CLASS III",
+      "word": "'Hardness"
+    },
+    "#326": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Inelasti"
+    },
+    "#327": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Tenacity"
+    },
+    "#329": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'[Structu"
+    },
+    "#331": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Friction"
+    },
+    "#332": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'[Absence"
+    },
+    "#333": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Fluidity"
+    },
+    "#334": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Gaseity."
+    },
+    "#336": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Vaporiza"
+    },
+    "#337": {
+      "value": 0.0716719925403595,
+      "original class": "CLASS III",
+      "word": "'Water.\u03b2\u20ac"
+    },
+    "#346": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Island.\u03b2"
+    },
+    "#353": {
+      "value": 0.10097320303320885,
+      "original class": "CLASS III",
+      "word": "'[Mixture"
+    },
+    "#354": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Pulpines"
+    },
+    "#355": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Unctuous"
+    },
+    "#356a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Resin.\u03b2\u20ac"
+    },
+    "#360": {
+      "value": 0.05138848535716534,
+      "original class": "CLASS III",
+      "word": "'Death.\u03b2\u20ac"
+    },
+    "#362": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Corpse.\u03b2"
+    },
+    "#364": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Animalit"
+    },
+    "#365": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Vegetabi"
+    },
+    "#374a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Sexualit"
+    },
+    "#380": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Sensatio"
+    },
+    "#381": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'[insensi"
+    },
+    "#382": {
+      "value": 0.03431220330297947,
+      "original class": "CLASS III",
+      "word": "'Heat.\u03b2\u20ac\u201d"
+    },
+    "#383": {
+      "value": 0.050882636159658434,
+      "original class": "CLASS III",
+      "word": "'Cold.\u03b2\u20ac\u201d"
+    },
+    "#386": {
+      "value": 0.11888723731040955,
+      "original class": "CLASS III",
+      "word": "'Furnace."
+    },
+    "#387": {
+      "value": 0.12338028647005558,
+      "original class": "CLASS III",
+      "word": "'Refriger"
+    },
+    "#388": {
+      "value": 0.02669331243261695,
+      "original class": "CLASS III",
+      "word": "'Fuel.\u03b2\u20ac\u201d"
+    },
+    "#389": {
+      "value": 0.1102307204902172,
+      "original class": "CLASS III",
+      "word": "'Thermome"
+    },
+    "#390": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Taste.\u03b2\u20ac"
+    },
+    "#391": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Insipidi"
+    },
+    "#399": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Inodorou"
+    },
+    "#401a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Acridity"
+    },
+    "#402": {
+      "value": 0.07468993372982367,
+      "original class": "CLASS III",
+      "word": "'Sound.\u03b2\u20ac"
+    },
+    "#404": {
+      "value": 0.07162283744663,
+      "original class": "CLASS III",
+      "word": "'Loudness"
+    },
+    "#407": {
+      "value": 0.06794456005096436,
+      "original class": "CLASS III",
+      "word": "'[Repeate"
+    },
+    "#408": {
+      "value": 0.09394144088029861,
+      "original class": "CLASS III",
+      "word": "'Resonanc"
+    },
+    "#408a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Nonreson"
+    },
+    "#409": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'[Hissing"
+    },
+    "#426": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Opacity."
+    },
+    "#426a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Turbidit"
+    },
+    "#431": {
+      "value": 0.04988640129566193,
+      "original class": "CLASS III",
+      "word": "\"Blacknes"
+    },
+    "#434": {
+      "value": 0.04980783432722092,
+      "original class": "CLASS III",
+      "word": "'Redness."
+    },
+    "#437": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "\"Purple.\u03b2"
+    },
+    "#438": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS III",
+      "word": "'Blueness"
+    },
+    "#455": {
+      "value": 0.06272046942263841,
+      "original class": "CLASS IV",
+      "word": "'[The des"
+    },
+    "#466": {
+      "value": 0.06469119966030121,
+      "original class": "CLASS IV",
+      "word": "'Measurem"
+    },
+    "#471": {
+      "value": 0.05169950883835554,
+      "original class": "CLASS IV",
+      "word": "\"Impossib"
+    },
+    "#472": {
+      "value": 0.02498584032058716,
+      "original class": "CLASS IV",
+      "word": "'Probabil"
+    },
+    "#476": {
+      "value": 0.04555907480418682,
+      "original class": "CLASS IV",
+      "word": "\"Reasonin"
+    },
+    "#480": {
+      "value": 0.0864859989285469,
+      "original class": "CLASS IV",
+      "word": "'Judgment"
+    },
+    "#485": {
+      "value": 0.028857474401593208,
+      "original class": "CLASS IV",
+      "word": "'Unbelief"
+    },
+    "#487": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS IV",
+      "word": "'Incredul"
+    },
+    "#499": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS IV",
+      "word": "'Imbecili"
+    },
+    "#501": {
+      "value": 0.05304376155138016,
+      "original class": "CLASS IV",
+      "word": "\"Fool.\u03b2\u20ac\u201d"
+    },
+    "#503": {
+      "value": 0.03356564193964005,
+      "original class": "CLASS IV",
+      "word": "\"Insanity"
+    },
+    "#514": {
+      "value": 0.10116969756316394,
+      "original class": "CLASS IV",
+      "word": "\"Supposit"
+    },
+    "#514a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Analogy\u03b2"
+    },
+    "#533": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS IV",
+      "word": "'Secret.\u03b2"
+    },
+    "#536": {
+      "value": 0.06953959926962852,
+      "original class": "CLASS IV",
+      "word": "\"Negation"
+    },
+    "#545": {
+      "value": 0.04617091834545135,
+      "original class": "CLASS IV",
+      "word": "'Deceptio"
+    },
+    "#548": {
+      "value": 0.049154515564441684,
+      "original class": "CLASS IV",
+      "word": "'Deceiver"
+    },
+    "#553": {
+      "value": 0.09767963230609894,
+      "original class": "CLASS IV",
+      "word": "'Recorder"
+    },
+    "#563": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS IV",
+      "word": "'Neologis"
+    },
+    "#567": {
+      "value": 0.05927864287048578,
+      "original class": "CLASS IV",
+      "word": "'Grammar."
+    },
+    "#596": {
+      "value": 0.1152004730515182,
+      "original class": "CLASS IV",
+      "word": "'Compendi"
+    },
+    "#598": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS IV",
+      "word": "'Prose.\u03b2\u20ac"
+    },
+    "#633": {
+      "value": 0.12552247926592827,
+      "original class": "CLASS V",
+      "word": "'Instrume"
+    },
+    "#634": {
+      "value": 0.11737943574786186,
+      "original class": "CLASS V",
+      "word": "'Substitu"
+    },
+    "#641": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "\"Redundan"
+    },
+    "#662": {
+      "value": 0.05882839918136597,
+      "original class": "CLASS V",
+      "word": "'Remedy.\u03b2"
+    },
+    "#663": {
+      "value": 0.03836903780698776,
+      "original class": "CLASS V",
+      "word": "'Bane.\u03b2\u20ac\u201d"
+    },
+    "#667": {
+      "value": 0.07573144271969795,
+      "original class": "CLASS V",
+      "word": "\"[Source "
+    },
+    "#668": {
+      "value": 0.03254168331623077,
+      "original class": "CLASS V",
+      "word": "\"Warning."
+    },
+    "#671": {
+      "value": 0.05013072125613689,
+      "original class": "CLASS V",
+      "word": "\"Escape.\u03b2"
+    },
+    "#673": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "\"Preparat"
+    },
+    "#678": {
+      "value": 0.03868624374270439,
+      "original class": "CLASS V",
+      "word": "'Disuse.\u03b2"
+    },
+    "#682": {
+      "value": 0.08142348401248455,
+      "original class": "CLASS V",
+      "word": "'Activity"
+    },
+    "#683": {
+      "value": 0.04171488642692566,
+      "original class": "CLASS V",
+      "word": "'Inactivi"
+    },
+    "#697": {
+      "value": 0.057606561481952666,
+      "original class": "CLASS V",
+      "word": "'Precept."
+    },
+    "#698": {
+      "value": 0.02871506514027715,
+      "original class": "CLASS V",
+      "word": "'Skill.\u03b2\u20ac"
+    },
+    "#704": {
+      "value": 0.03610175549983978,
+      "original class": "CLASS V",
+      "word": "'Difficul"
+    },
+    "#718": {
+      "value": 0.029862640500068663,
+      "original class": "CLASS V",
+      "word": "\"Retaliat"
+    },
+    "#726": {
+      "value": 0.062046601474285125,
+      "original class": "CLASS V",
+      "word": "\"Combatan"
+    },
+    "#735": {
+      "value": 0.08799360573291778,
+      "original class": "CLASS V",
+      "word": "\"Adversit"
+    },
+    "#739": {
+      "value": 0.02701590146869421,
+      "original class": "CLASS V",
+      "word": "'Severity"
+    },
+    "#747": {
+      "value": 0.031751556023955345,
+      "original class": "CLASS V",
+      "word": "\"[Insigni"
+    },
+    "#754": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "'Prisoner"
+    },
+    "#761": {
+      "value": 0.09741606916300953,
+      "original class": "CLASS V",
+      "word": "'Prohibit"
+    },
+    "#768a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Release "
+    },
+    "#773": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "'Nonobser"
+    },
+    "#775": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "'Acquisit"
+    },
+    "#777": {
+      "value": 0.11902116097509861,
+      "original class": "CLASS V",
+      "word": "\"Possessi"
+    },
+    "#777a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Exemptio"
+    },
+    "#810": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS V",
+      "word": "'Receipt."
+    },
+    "#817a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Greed [e"
+    },
+    "#821": {
+      "value": 0.0459744141343981,
+      "original class": "CLASS VI",
+      "word": "\"Feeling."
+    },
+    "#825": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'[Excess "
+    },
+    "#828": {
+      "value": 0.11434851691126824,
+      "original class": "CLASS VI",
+      "word": "'Pain.\u03b2\u20ac\u201d"
+    },
+    "#842": {
+      "value": 0.06778641015291215,
+      "original class": "CLASS VI",
+      "word": "'Wit.\u03b2\u20ac\u201dN"
+    },
+    "#846": {
+      "value": 0.0486953579261899,
+      "original class": "CLASS VI",
+      "word": "'Ugliness"
+    },
+    "#848": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Blemish."
+    },
+    "#860": {
+      "value": 0.054247822016477584,
+      "original class": "CLASS VI",
+      "word": "'Fear.\u03b2\u20ac\u201d"
+    },
+    "#873": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Repute.\u03b2"
+    },
+    "#875": {
+      "value": 0.052381679117679596,
+      "original class": "CLASS VI",
+      "word": "'Nobility"
+    },
+    "#889": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Enmity.\u03b2"
+    },
+    "#891": {
+      "value": 0.12968185279518366,
+      "original class": "CLASS VI",
+      "word": "'Enemy.\u03b2\u20ac"
+    },
+    "#907": {
+      "value": 0.09147894881665707,
+      "original class": "CLASS VI",
+      "word": "'Malevole"
+    },
+    "#908": {
+      "value": 0.06919459514319896,
+      "original class": "CLASS VI",
+      "word": "'Maledict"
+    },
+    "#909": {
+      "value": 0.032237795516848564,
+      "original class": "CLASS VI",
+      "word": "'Threat.\u03b2"
+    },
+    "#911": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Misanthr"
+    },
+    "#914a": {
+      "value": 0.0616585199534893,
+      "original class": null,
+      "word": "'Pitiless"
+    },
+    "#920": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Jealousy"
+    },
+    "#926": {
+      "value": 0.0561826016753912,
+      "original class": "CLASS VI",
+      "word": "'Duty.\u03b2\u20ac\u201d"
+    },
+    "#935": {
+      "value": 0.057526798844337465,
+      "original class": "CLASS VI",
+      "word": "\"Flattere"
+    },
+    "#936": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Detracto"
+    },
+    "#938": {
+      "value": 0.09961682628840209,
+      "original class": "CLASS VI",
+      "word": "'Accusati"
+    },
+    "#941": {
+      "value": 0.03582796882838011,
+      "original class": "CLASS VI",
+      "word": "\"Knave.\u03b2\u20ac"
+    },
+    "#947": {
+      "value": 0.11077277537435293,
+      "original class": "CLASS VI",
+      "word": "'Guilt.\u03b2\u20ac"
+    },
+    "#949": {
+      "value": 0.053005679491907355,
+      "original class": "CLASS VI",
+      "word": "\"Bad Man."
+    },
+    "#951": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Impenite"
+    },
+    "#955": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Ascetici"
+    },
+    "#958": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Sobriety"
+    },
+    "#959": {
+      "value": 0.0485796482861042,
+      "original class": "CLASS VI",
+      "word": "'Drunkenn"
+    },
+    "#961": {
+      "value": 0.1121387624181807,
+      "original class": "CLASS VI",
+      "word": "'Impurity"
+    },
+    "#972": {
+      "value": 0.03713688895106316,
+      "original class": "CLASS VI",
+      "word": "'Punishme"
+    },
+    "#977": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'[Benefic"
+    },
+    "#994": {
+      "value": 0.0737103995680809,
+      "original class": "CLASS VI",
+      "word": "'Sorcerer"
+    },
+    "#997": {
+      "value": 0.0616585199534893,
+      "original class": "CLASS VI",
+      "word": "'Laity.\u03b2\u20ac"
+    },
+    "#998": {
+      "value": 0.03641867771744728,
+      "original class": "CLASS VI",
+      "word": "'Rite.\u03b2\u20ac\u201d"
+    }
+  },
+  "5": {
+    "#32": {
+      "value": 0.14063920557498932,
+      "original class": "CLASS I",
+      "word": "'Smallnes"
+    },
+    "#59": {
+      "value": 0.21014551386237146,
+      "original class": "CLASS I",
+      "word": "'[Absence"
+    },
+    "#155": {
+      "value": 0.17152831882238387,
+      "original class": "CLASS I",
+      "word": "'[Assignm"
+    },
+    "#205": {
+      "value": 0.16737403690814973,
+      "original class": "CLASS II",
+      "word": "'Filament"
+    },
+    "#392b": {
+      "value": 0.2686310955369845,
+      "original class": null,
+      "word": "'Bitterne"
+    },
+    "#398": {
+      "value": 0.21159200519323348,
+      "original class": "CLASS III",
+      "word": "'Odor.\u03b2\u20ac\u201d"
+    },
+    "#495": {
+      "value": 0.39064519852399826,
+      "original class": "CLASS IV",
+      "word": "'Error.\u03b2\u20ac"
+    },
+    "#505": {
+      "value": 0.14219164485111832,
+      "original class": "CLASS IV",
+      "word": "'Memory.\u03b2"
+    },
+    "#526": {
+      "value": 0.1657815644145012,
+      "original class": "CLASS IV",
+      "word": "'Latency."
+    },
+    "#528": {
+      "value": 0.23961253652349115,
+      "original class": "CLASS IV",
+      "word": "'Concealm"
+    },
+    "#546": {
+      "value": 0.1469148787856102,
+      "original class": "CLASS IV",
+      "word": "'Untruth."
+    },
+    "#655": {
+      "value": 0.2023448020219803,
+      "original class": "CLASS V",
+      "word": "'Disease."
+    },
+    "#669": {
+      "value": 0.29144079696387054,
+      "original class": "CLASS V",
+      "word": "'[Indicat"
+    },
+    "#722": {
+      "value": 0.21353528164327146,
+      "original class": "CLASS V",
+      "word": "'Warfare."
+    },
+    "#792": {
+      "value": 0.14075420517474413,
+      "original class": "CLASS V",
+      "word": "\"Thief.\u03b2\u20ac"
+    },
+    "#980": {
+      "value": 0.16095312040299178,
+      "original class": "CLASS VI",
+      "word": "\"Demon.\u03b2\u20ac"
+    },
+    "#992": {
+      "value": 0.14777124255895616,
+      "original class": "CLASS VI",
+      "word": "'Sorcery."
+    }
+  },
+  "4": {
+    "#35": {
+      "value": -0.2594994315877557,
+      "original class": "CLASS I",
+      "word": "'Increase"
+    },
+    "#78": {
+      "value": -0.25273024026304486,
+      "original class": "CLASS I",
+      "word": "'Generali"
+    },
+    "#126": {
+      "value": -0.27115908565931024,
+      "original class": "CLASS I",
+      "word": "'Evening."
+    },
+    "#127": {
+      "value": -0.24481828287243843,
+      "original class": "CLASS I",
+      "word": "'Youth.\u03b2\u20ac"
+    },
+    "#134": {
+      "value": -0.24928956136107444,
+      "original class": "CLASS I",
+      "word": "\"Occasion"
+    },
+    "#156": {
+      "value": -0.35864959478378294,
+      "original class": "CLASS I",
+      "word": "'[Absence"
+    },
+    "#192": {
+      "value": -0.29645520031452177,
+      "original class": "CLASS II",
+      "word": "'Size.\u03b2\u20ac\u201d"
+    },
+    "#215": {
+      "value": -0.3870528042316437,
+      "original class": "CLASS II",
+      "word": "\"Support."
+    },
+    "#225": {
+      "value": -0.3255098062567413,
+      "original class": "CLASS II",
+      "word": "'Clothing"
+    },
+    "#259": {
+      "value": -0.25743364050984385,
+      "original class": "CLASS II",
+      "word": "\"Furrow.\u03b2"
+    },
+    "#278": {
+      "value": -0.33761680297553537,
+      "original class": "CLASS II",
+      "word": "\"Directio"
+    },
+    "#457": {
+      "value": -0.25626547828316687,
+      "original class": "CLASS IV",
+      "word": "'Attentio"
+    },
+    "#478": {
+      "value": -0.4455088049173355,
+      "original class": "CLASS IV",
+      "word": "'Demonstr"
+    },
+    "#532": {
+      "value": -0.2662894724309444,
+      "original class": "CLASS IV",
+      "word": "'News.\u03b2\u20ac\u201d"
+    },
+    "#537": {
+      "value": -0.24697100892663001,
+      "original class": "CLASS IV",
+      "word": "'Teaching"
+    },
+    "#550": {
+      "value": -0.2672091034986079,
+      "original class": "CLASS IV",
+      "word": "'Indicati"
+    },
+    "#556": {
+      "value": -0.23743388056755066,
+      "original class": "CLASS IV",
+      "word": "'Painting"
+    },
+    "#559": {
+      "value": -0.26064959399402143,
+      "original class": "CLASS IV",
+      "word": "'Artist.\u03b2"
+    },
+    "#587": {
+      "value": -0.25273024026304486,
+      "original class": "CLASS IV",
+      "word": "'Response"
+    },
+    "#600": {
+      "value": -0.34821824423968795,
+      "original class": "CLASS V",
+      "word": "\"Will.\u03b2\u20ac\u201d"
+    },
+    "#603": {
+      "value": -0.23786408051848412,
+      "original class": "CLASS V",
+      "word": "\"Unwillin"
+    },
+    "#609": {
+      "value": -0.3630776134924963,
+      "original class": "CLASS V",
+      "word": "\"Choice.\u03b2"
+    },
+    "#621": {
+      "value": -0.2672091034986079,
+      "original class": "CLASS V",
+      "word": "'[Absence"
+    },
+    "#625": {
+      "value": -0.28307834869716314,
+      "original class": "CLASS V",
+      "word": "'Business"
+    },
+    "#637": {
+      "value": -0.25273024026304486,
+      "original class": "CLASS V",
+      "word": "'Provisio"
+    },
+    "#650": {
+      "value": -0.2652815169095993,
+      "original class": "CLASS V",
+      "word": "'Perfecti"
+    },
+    "#656": {
+      "value": -0.25273024026304486,
+      "original class": "CLASS V",
+      "word": "'Salubrit"
+    },
+    "#693": {
+      "value": -0.33761680297553537,
+      "original class": "CLASS V",
+      "word": "'Directio"
+    },
+    "#696": {
+      "value": -0.36848964609205725,
+      "original class": "CLASS V",
+      "word": "'Council."
+    },
+    "#709": {
+      "value": -0.2571505693346262,
+      "original class": "CLASS V",
+      "word": "\"Cooperat"
+    },
+    "#710": {
+      "value": -0.2672091034986079,
+      "original class": "CLASS V",
+      "word": "'Opponent"
+    },
+    "#725": {
+      "value": -0.25621003910899165,
+      "original class": "CLASS V",
+      "word": "\"Submissi"
+    },
+    "#737a": {
+      "value": -0.258905186355114,
+      "original class": null,
+      "word": "'Governme"
+    },
+    "#737b": {
+      "value": -0.2668665137141943,
+      "original class": null,
+      "word": "'Politics"
+    },
+    "#760": {
+      "value": -0.28707307562232015,
+      "original class": "CLASS V",
+      "word": "\"Permissi"
+    },
+    "#763": {
+      "value": -0.3789356902241707,
+      "original class": "CLASS V",
+      "word": "\"Offer.\u03b2\u20ac"
+    },
+    "#780": {
+      "value": -0.27786108165979384,
+      "original class": "CLASS V",
+      "word": "\"Property"
+    },
+    "#798": {
+      "value": -0.26692832231521607,
+      "original class": "CLASS V",
+      "word": "'Merchand"
+    },
+    "#802": {
+      "value": -0.4364284534845501,
+      "original class": "CLASS V",
+      "word": "'Treasury"
+    },
+    "#811": {
+      "value": -0.2984206064790487,
+      "original class": "CLASS V",
+      "word": "'Accounts"
+    },
+    "#813": {
+      "value": -0.28307834869716314,
+      "original class": "CLASS V",
+      "word": "'Discount"
+    },
+    "#820": {
+      "value": -0.3040675535798073,
+      "original class": "CLASS VI",
+      "word": "'Affectio"
+    },
+    "#831": {
+      "value": -0.292436438202858,
+      "original class": "CLASS VI",
+      "word": "'Content."
+    },
+    "#836": {
+      "value": -0.27026968464255335,
+      "original class": "CLASS VI",
+      "word": "'Cheerful"
+    },
+    "#852": {
+      "value": -0.399596315282397,
+      "original class": "CLASS VI",
+      "word": "\"Fashion."
+    },
+    "#892": {
+      "value": -0.3719438657164574,
+      "original class": "CLASS VI",
+      "word": "'Socialit"
+    },
+    "#894": {
+      "value": -0.25856187582015994,
+      "original class": "CLASS VI",
+      "word": "'Courtesy"
+    },
+    "#897": {
+      "value": -0.30694223776459695,
+      "original class": "CLASS VI",
+      "word": "'Love.\u03b2\u20ac\u201d"
+    },
+    "#903": {
+      "value": -0.310612036138773,
+      "original class": "CLASS VI",
+      "word": "'Marriage"
+    },
+    "#910": {
+      "value": -0.37215935945510864,
+      "original class": "CLASS VI",
+      "word": "\"Philanth"
+    },
+    "#930": {
+      "value": -0.2858208313584328,
+      "original class": "CLASS VI",
+      "word": "'Contempt"
+    },
+    "#931": {
+      "value": -0.25273024026304486,
+      "original class": "CLASS VI",
+      "word": "'Approbat"
+    },
+    "#945": {
+      "value": -0.2698198077827692,
+      "original class": "CLASS VI",
+      "word": "'Vice.\u03b2\u20ac\u201d"
+    },
+    "#996": {
+      "value": -0.24214048661291598,
+      "original class": "CLASS VI",
+      "word": "'Clergy.\u03b2"
+    }
+  }
+}
